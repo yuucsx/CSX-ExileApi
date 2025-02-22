@@ -8,7 +8,7 @@
     <DebugType>embedded</DebugType>
     <PathMap>$(MSBuildProjectDirectory)=$(MSBuildProjectName)</PathMap>
     <EmbedAllSources>true</EmbedAllSources>
-    <BaseOutputPath>C:\Users\Misa\Downloads\HUD\PoeHelper\Plugins\Compiled\CSX</BaseOutputPath>
+    <BaseOutputPath>C:\Github\CSX-ExileApi\PoeHelper\Plugins\Compiled\CSX</BaseOutputPath>
     <!--Don't bother setting anything to do with the output path, HUD will do it for you if you put the source code inside Plugins/Source-->
   </PropertyGroup>
 

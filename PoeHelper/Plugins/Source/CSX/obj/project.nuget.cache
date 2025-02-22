@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iizn76je+98=",
+  "dgSpecHash": "y6N0own2bd4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Misa\\Downloads\\HUD\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj",
+  "projectFilePath": "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Misa\\.nuget\\packages\\imgui.net\\1.90.0.1\\imgui.net.1.90.0.1.nupkg.sha512",
     "C:\\Users\\Misa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

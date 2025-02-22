@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d16c4031de1114fcc67ec9dcfccfac8b8309232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89382294cb932de16b5178b99bf74a4b1a387470")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

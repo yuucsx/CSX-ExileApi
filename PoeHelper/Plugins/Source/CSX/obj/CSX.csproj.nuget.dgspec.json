@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Misa\\Downloads\\HUD\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj": {}
+    "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\Core\\Core.csproj": {
+    "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\Core\\Core.csproj",
+        "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
-                "projectPath": "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\GameOffsets\\GameOffsets.csproj"
+              "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
+                "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj"
               }
             }
           }
@@ -24,11 +24,11 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
+    "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\GameOffsets\\GameOffsets.csproj",
+        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj",
         "projectName": "GameOffsets",
-        "projectPath": "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\GameOffsets\\GameOffsets.csproj",
+        "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
@@ -40,14 +40,14 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Misa\\Downloads\\HUD\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj": {
+    "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Misa\\Downloads\\HUD\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj",
+        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj",
         "projectName": "CSX",
-        "projectPath": "C:\\Users\\Misa\\Downloads\\HUD\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj",
+        "projectPath": "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj",
         "packagesPath": "C:\\Users\\Misa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Misa\\Downloads\\HUD\\PoeHelper\\Plugins\\Source\\CSX\\obj\\",
+        "outputPath": "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,8 +68,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Misa\\Downloads\\HUD\\ExileApi\\Core\\Core.csproj"
+              "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj": {
+                "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj"
               }
             }
           }

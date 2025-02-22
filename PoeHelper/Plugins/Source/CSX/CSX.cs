@@ -39,7 +39,7 @@ namespace CSX
             if (MenuWindow.IsOpened || !GameController.IsForeGroundCache) return;
             if (GameController.Area.CurrentArea.IsTown ||
                 GameController.Area.CurrentArea.IsHideout ||
-                !GameController.InGame ||
+                !GameController.InGame || IsChatOpen() ||
                 GameController.IsLoading) return;
 
             var localPlayer = GameController.Game.IngameState.Data.LocalPlayer;
@@ -79,6 +79,12 @@ namespace CSX
             HandleCustomSkill("Skill4");
             HandleCustomSkill("Skill5");
             HandleCustomSkill("Skill6");
+        }
+
+        private bool IsChatOpen()
+        {
+            var chatPanel = GameController.Game.IngameState.IngameUi?.ChatBox;
+            return chatPanel != null && chatPanel.IsVisibleLocal;
         }
 
         private void HandleCustomSkill(string skillId)
