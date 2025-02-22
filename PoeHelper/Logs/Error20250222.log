@@ -1,0 +1,673 @@
+2025-02-22 00:08:01.733 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 00:08:01.751 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 00:08:03.546 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:08:03.547 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:09:02.247 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:09:02.251 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:12:35.643 -03:00 [ERR] Stats over capped: 8 - 8500AE03 - 2231414267 Total Stats: 278926783
+2025-02-22 00:12:35.643 -03:00 [ERR] Stats over capped: 8 - 13501AE06 - 5184269822 Total Stats: 648033727
+2025-02-22 00:12:58.257 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 00:16:04.005 -03:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore.AreaInstance..ctor(WorldArea area, UInt32 hash, Int32 realLevel)
+   at ExileCore.AreaController.RefreshState()
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+   at ExileCore.Core.Inject()
+2025-02-22 00:16:07.138 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:16:07.139 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:26:43.625 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 00:26:43.889 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 00:26:45.571 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:26:45.571 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:37:18.032 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 00:37:18.102 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 00:37:20.035 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:37:20.035 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:39:26.905 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 00:39:27.232 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 00:39:28.981 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 00:39:28.982 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 01:09:44.918 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 01:09:44.923 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 01:23:31.298 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 01:23:31.613 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 01:23:33.296 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 01:23:33.297 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 02:06:29.023 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 02:06:29.026 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 02:07:06.008 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 02:07:06.218 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 02:07:07.994 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 02:07:07.995 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 02:08:30.433 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 13:41:40.729 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 13:41:40.733 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 13:42:21.289 -03:00 [ERR] SkillGems, PerfomanceTick -> System.MissingMethodException: Method not found: 'ExileCore.PoEMemory.Element ExileCore.PoEMemory.MemoryObjects.IngameUIElements.get_TreePanel()'.
+   at SkillGems.SkillGems.PanelVisible()
+   at SkillGems.SkillGems.Tick() in SkillGems\SkillGems.cs:line 50
+   at ExileCore.Shared.PluginWrapper.PerfomanceTick()
+2025-02-22 13:44:14.273 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 13:44:14.277 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 13:44:47.950 -03:00 [ERR] SkillGems, PerfomanceTick -> System.MissingMethodException: Method not found: 'ExileCore.PoEMemory.Element ExileCore.PoEMemory.MemoryObjects.IngameUIElements.get_TreePanel()'.
+   at SkillGems.SkillGems.PanelVisible()
+   at SkillGems.SkillGems.Tick() in SkillGems\SkillGems.cs:line 50
+   at ExileCore.Shared.PluginWrapper.PerfomanceTick()
+2025-02-22 13:55:29.792 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 13:55:29.796 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 13:55:35.803 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+[22/02/2025 13:55:35, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+[22/02/2025 13:55:35, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+2025-02-22 13:55:35.803 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+
+2025-02-22 14:03:27.000 -03:00 [ERR] SkillGems, PerfomanceTick -> System.MissingMethodException: Method not found: 'ExileCore.PoEMemory.Element ExileCore.PoEMemory.MemoryObjects.IngameUIElements.get_TreePanel()'.
+   at SkillGems.SkillGems.PanelVisible()
+   at SkillGems.SkillGems.Tick() in SkillGems\SkillGems.cs:line 50
+   at ExileCore.Shared.PluginWrapper.PerfomanceTick()
+2025-02-22 14:03:40.449 -03:00 [ERR] SkillGems, PerfomanceTick -> System.MissingMethodException: Method not found: 'ExileCore.PoEMemory.Element ExileCore.PoEMemory.MemoryObjects.IngameUIElements.get_TreePanel()'.
+   at SkillGems.SkillGems.PanelVisible()
+   at SkillGems.SkillGems.Tick() in SkillGems\SkillGems.cs:line 50
+   at ExileCore.Shared.PluginWrapper.PerfomanceTick()
+2025-02-22 14:08:11.241 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:08:11.365 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:08:12.991 -03:00 [ERR] Unable to find plugin dll in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Compiled\CSX. Looked for names similar to CSX
+2025-02-22 14:08:13.139 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:08:13.140 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:08:23.064 -03:00 [ERR] [CoPilot] System.NullReferenceException: Object reference not set to an instance of an object.
+   at CoPilot.CoPilot.Render() in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\Copilot\CoPilot.cs:line 311
+2025-02-22 14:08:23.152 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:08:23.359 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:08:24.879 -03:00 [ERR] Unable to find plugin dll in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Compiled\CSX. Looked for names similar to CSX
+2025-02-22 14:08:25.052 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:08:25.052 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:08:31.346 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:08:31.523 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:08:33.093 -03:00 [ERR] Unable to find plugin dll in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Compiled\CSX. Looked for names similar to CSX
+2025-02-22 14:08:33.263 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:08:33.263 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:08:55.567 -03:00 [ERR] [CoPilot] System.NullReferenceException: Object reference not set to an instance of an object.
+   at CoPilot.CoPilot.Render() in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\Copilot\CoPilot.cs:line 311
+2025-02-22 14:08:55.676 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:08:55.904 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:08:57.622 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:08:57.623 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:19:22.098 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:19:22.102 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:22:12.465 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:22:12.469 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:22:18.283 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.Render() in CSX\CSX.cs:line 39
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:24:41.982 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:24:41.986 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:24:42.711 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.Render() in CSX\CSX.cs:line 39
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:24:52.295 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.Render() in CSX\CSX.cs:line 39
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:25:06.677 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:25:06.804 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:25:08.511 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:25:08.512 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:25:09.242 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.Render() in CSX\CSX.cs:line 39
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:25:44.178 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.Render() in CSX\CSX.cs:line 39
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:25:47.815 -03:00 [ERR] [CoPilot] System.NullReferenceException: Object reference not set to an instance of an object.
+   at CoPilot.CoPilot.Render() in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\Copilot\CoPilot.cs:line 311
+2025-02-22 14:25:47.850 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:25:48.026 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:25:49.851 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:25:49.851 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:25:50.532 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.Render() in CSX\CSX.cs:line 39
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:25:59.258 -03:00 [ERR] [CoPilot] System.NullReferenceException: Object reference not set to an instance of an object.
+   at CoPilot.CoPilot.Render() in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\Copilot\CoPilot.cs:line 311
+2025-02-22 14:25:59.293 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:25:59.314 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:26:01.012 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:26:01.012 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:26:36.050 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:26:36.053 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:26:38.132 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+[22/02/2025 14:26:36, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+[22/02/2025 14:26:38, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+2025-02-22 14:26:38.132 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+
+2025-02-22 14:27:31.481 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+[22/02/2025 14:27:30, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+[22/02/2025 14:27:31, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+2025-02-22 14:27:31.481 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+
+2025-02-22 14:27:36.330 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+[22/02/2025 14:27:35, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+[22/02/2025 14:27:36, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+2025-02-22 14:27:36.331 -03:00 [ERR] Compilation failed
+System.Exception: Build failed:
+
+2025-02-22 14:28:09.767 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.HandleCustomSkill(String skillId) in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\CSX.cs:line 112
+   at CSX.CSX.Render() in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\CSX.cs:line 102
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:28:51.470 -03:00 [ERR] CSX, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CSX.CSX.HandleCustomSkill(String skillId) in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\CSX.cs:line 112
+   at CSX.CSX.Render() in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\CSX.cs:line 102
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-02-22 14:28:55.229 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:28:55.267 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:28:57.040 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:28:57.040 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:41:03.338 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:41:03.463 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:41:05.236 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:41:05.236 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:41:48.794 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:41:48.992 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:41:50.685 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:41:50.685 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:48:33.338 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 14:48:33.549 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 14:48:35.233 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:48:35.233 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 14:49:28.191 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()

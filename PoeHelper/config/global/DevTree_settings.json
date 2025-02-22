@@ -1,0 +1,88 @@
+{
+  "ToggleWindowState": true,
+  "ToggleWindowUsingHotkey": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ToggleWindowKey": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "D9"
+    }
+  },
+  "DebugUIHoverItemKey": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "NumPad5"
+    }
+  },
+  "SaveHoveredDevTreeNodeKey": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "NumPad8"
+    }
+  },
+  "NearestEntitiesRange": {
+    "Value": 300
+  },
+  "LimitForCollections": {
+    "Value": 500
+  },
+  "FrameColor": "ffff00ff",
+  "ErrorColor": "ff0000ff",
+  "HideAddresses": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RegisterInspector": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ShowOldEntityControls": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ExclusionSettings": {
+    "Exclusions": null
+  },
+  "CustomExpressions": {
+    "Content": []
+  }
+}

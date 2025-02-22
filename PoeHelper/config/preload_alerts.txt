@@ -1,60 +1,12 @@
 #Metadata; Text; Color (ARGB)
 #Example: Metadata/Chests/StrongBoxes/Strongbox; ; ff00FF00
 
-# ABYSS LEAGUE
-Metadata/MiscellaneousObjects/Abyss/AbyssSubAreaTransition; Abyssal Depths; ff36B400
-Metadata/Monsters/ReligiousTemplar/AbyssLichBoss1; Abyss Lich - Ulaman; ff00FF00
-Metadata/Monsters/ReligiousTemplar/AbyssLichBoss2; Abyss Lich - Amanamu; ff00FF00
-
-# LABYRINTH TRIALS
-Metadata/QuestObjects/Labyrinth/LabyrinthTrialPortal; Labyrinth Trial; ffff9966
-
-#LABYRINTH PROGRESSION CHEST - Dark shrines - Passage
-##Metadata/Terrain/Labyrinth/Objects/GoldenChest; Golden Key Chest; ffffD700
-##Metadata/Chests/Labyrinth/LabyrinthTrinketChest; Izaro Trinket; ffd2d2d2
-Metadata/Terrain/Labyrinth/Objects/LabyrinthDarkshrineHidden; Dark shrine; ff0080ff
-##Metadata/Terrain/Labyrinth/Objects/SecretPassage; Secret Passage; ffffff00
-
-#LABYRINTH DANAGER CHEST
-Metadata/Chests/Labyrinth/LabyrinthTreasureKey; Curious Lock Box; ff00ff00
-Metadata/Chests/Labyrinth/LabyrinthReward0Currency; Low Currency Chest; ffff99ff
-Metadata/Chests/Labyrinth/LabyrinthReward0CurrencyQuality; High Currency Chest; ffff00ff
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerCurrency; Danger Currency Chest; ffff99ff
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerCurrencyQuality; Danger Quality Currency Chest; ffff00ff
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerUnique; Danger Unique Chest; ffd2742d
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerDivination; Danger Divination Chest; ffff0000
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerJewelry; Danger Jewelry; ffd2d2d2
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerSockets; Danger Socketed; ffd2d2d2
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerSkillGems; Danger Skill Gems; ff00ff00
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerCorruptedVaal; Danger Vaal; ffd2d2d2
-Metadata/Chests/Labyrinth/LabyrinthRewardDangerGeneric; Danger Generic; ffd2d2d2
-
-#LABYRINTH SILVER CHEST
-##Metadata/Terrain/Labyrinth/Objects/SilverChest; Silver Key Lock Box; fff2f2f2
-Metadata/Chests/Labyrinth/LabyrinthSpecificUnique; Intricate Locker; ffd2742d
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrency; Silver Currency Chest; ffff00ff
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrencyQuality; Silver Currency Quality Chest; ffff00ff
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryUnique; Silver Jewelry Unique Chest; ffd2742d
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverDivination; Silver Divination Chest; ffff0000 
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique1; Silver Unique Chest 1; ffd2742d
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique2; Silver Unique Chest 2; ffd2742d
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique3; Silver Unique Chest 3; ffd2742d
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverSkillGems; Silver Skill Gems; ff00ff00
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverCorruptedVaal; Silver Corrupted Chest; ffff0000 
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewelry; Silver Jewelry Chest; ff00ff00
-Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewels; Silver Jewels Chest; ff00ff00
-
-#Izaro Phases (Phase, How to get extra key)
-Metadata/Monsters/Labyrinth/IzaroPortalCold; Portals, Don't Kill; ff00ff00
-Metadata/Monsters/FireElemental/FireElementalIzaro; Essences, Don't Kill; ff00ff00
-Metadata/Terrain/Labyrinth/Objects/ChargeDisruptors/IzaroDisruptor; Charge Disrupter's, Gain At Least 10 Charges; ff00ff00
-Metadata/Monsters/PopUpTrap/LabyrinthBossPylonReduceArmour; Fonts, Don't Kill; ff00ff00
-Metadata/Terrain/Labyrinth/Objects/ToggleStatues/EmpowerStatue1; Conduits, Don't Click; ff00ff00
-Metadata/Monsters/Statue/IzaroGargoyleCold; Gargoyles, Don't Kill; ff00ff00
-Metadata/Monsters/Statue/IzaroChronosStatueCold; Idols, All Must Gain Full life; ff00ff00
-Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMelee; Lieutenants, Don't Kill; ff00ff00
-
-# BREACH LEAGUE
+###################################################################################################
+#
+#	LEAUGUES
+#
+###################################################################################################
+# BREACH
 Metadata/Chests/Breach/BreachChest1Large; Xoph's Clasped Hand; ffFF5A5A
 Metadata/Chests/Breach/BreachChest2Large; Tul's Clasped Hand; ffE0ffff
 Metadata/Chests/Breach/BreachChest3Large; Esh's Clasped Hand; ff6495ED
@@ -87,41 +39,289 @@ Metadata/Monsters/Daemon/ChestDaemonSummonColdWarband; Mutewind Cache; ffD2742D
 Metadata/Monsters/Daemon/ChestDaemonSummonLightningWarband; Brinerot Cache; ffD2742D
 Metadata/Monsters/Daemon/ChestDaemonSummonChaosWarband; Renegades Cache; ffD2742D
 
-# PERANDUS LEAGUE
+#SCOURGE
+Metadata/Monsters/LeagueHellscape/FleshFaction/HellscapeFleshBoss; ScourgeBoss Ghorr;ffFF0000
+Metadata/Monsters/LeagueHellscape/PaleFaction/HellscapePaleBoss; ScourgeBoss Beidat;ffFF0000
+Metadata/Monsters/LeagueHellscape/DemonFaction/HellscapeDemonBoss; ScourgeBoss Ktash;ffFF0000
 
-Metadata/NPC/League/Perandus/Cadiro; Cadiro; ffD2742D
-Art/Models/NPC/Cadiro/Perandus.sm; Cadiro3; ffD2742D
-Art/Models/NPC/Cadiro/rig_d6b5e300.smd; Cadiro4; ffD2742D
-Art/Models/NPC/Cadiro/rig.amd; Cadiro5; ffD2742D
-Art/Textures/NPC/Cadiro/PeranduscsPerandussn.mat; Cadiro6; ffD2742D
-audio/dialogue/npc/cadiro; Cadiro6; ffD2742D
-Metadata/NPC/League/Perandus/CadiroGoldPile; Cadiro7; ffD2742D
-Metadata/NPC/League/Perandus/CadiroPortal; Cadiro8; ffD2742D
-Metadata/Monsters/Perandus/PerandusGuardMapBoss1; Platinia, Servant of Prospero; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardMapBoss2; Auriot, Prospero's Furnace Guardian; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardMapBoss3; Rhodion, Servant of Prospero; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardMapBoss4; Osmea, Servant of Prospero; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardMapBoss4Clone; Osmea, Servant of Prospero; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardMapBoss5; Pallias, Servant of Prospero; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardMapBoss6; Argient, Servant of Prospero; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardMapBoss7; Rheniot, Servant of Prospero; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardBasic1; Celona, Vault Sentry; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardBasic2; Hortus, Knee Breaker; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardBasic3; Kuto, Hired Muscle; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardBasic4; Luthis, Bounty Hunter; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardBasic5; Belatra, Hired Assassin; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSupport1; Liana, Indebted Peasant; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSupport2; Marius, Indebted Smuggler; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSupport3; Vera, Indebted Aristocrat; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSupport4; Percia, Indebted Poacher; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss1; Sutrus, Vault Binder; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss2; Otairo, Vault Binder; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss3; Eiphirio, Vault Binder; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss4; Artensia, Vault Binder; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss5_; Anaveli, Vault Binder; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss6; Rothus, Vault Binder; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss7; Arinea, Vault Binder; ffFFD700
-Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss8; Meritania, Vault Binder; ffFFD700
+# HARBINGER
+Metadata/Monsters/Avatar/Avatar1; Harbinger Avatar1; ff3399ff
+Metadata/Monsters/Avatar/Avatar2; Harbinger Avatar2; ff3399ff
+Metadata/Monsters/Avatar/Avatar3_; Harbinger Avatar3_; ff3399ff
+Metadata/Monsters/Avatar/Avatar4; Harbinger Avatar4; ff3399ff
+Metadata/Monsters/Avatar/Avatar5; Harbinger Avatar5; ff3399ff
+Metadata/Monsters/Avatar/Avatar6; Harbinger Avatar6; ff3399ff
+Metadata/Monsters/Avatar/Avatar7; Harbinger Avatar7; ff3399ff
+Metadata/Monsters/Avatar/Avatar8; Harbinger Avatar8; ff3399ff
+Metadata/Monsters/Avatar/Avatar9; Harbinger Avatar9; ff3399ff
+Metadata/Monsters/Avatar/Avatar10; Harbinger Avatar10; ff3399ff
+Metadata/Monsters/Avatar/Avatar11; Harbinger Avatar11; ff3399ff
+Metadata/Monsters/Avatar/Avatar11Summoned_; Harbinger Avatar11Summoned_; ff3399ff
+Metadata/Monsters/Avatar/Avatar12; Harbinger Avatar12; ff3399ff
+Metadata/Monsters/Avatar/Avatar12Summoned; Harbinger Avatar12Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar13; Harbinger Avatar13; ff3399ff
+Metadata/Monsters/Avatar/Avatar13Summoned; Harbinger Avatar13Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar14; Harbinger Avatar14; ff3399ff
+Metadata/Monsters/Avatar/Avatar14Summoned; Harbinger Avatar14Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar15; Harbinger Avatar15; ff3399ff
+Metadata/Monsters/Avatar/Avatar15Summoned; Harbinger Avatar15Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar16; Harbinger Avatar16; ff3399ff
+Metadata/Monsters/Avatar/Avatar16Summoned; Harbinger Avatar16Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar17; Harbinger Avatar17; ff3399ff
+Metadata/Monsters/Avatar/Avatar17Summoned; Harbinger Avatar17Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar18; Harbinger Avatar18; ff3399ff
+Metadata/Monsters/Avatar/Avatar18Summoned; Harbinger Avatar18Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar19; Harbinger Avatar19; ff3399ff
+Metadata/Monsters/Avatar/Avatar19Summoned; Harbinger Avatar19Summoned; ff3399ff
+Metadata/Monsters/Avatar/Avatar20; Harbinger Avatar20; ff3399ff
+
+# Apparently better Harbingers?
+Metadata/Monsters/Avatar/Avatar21; Harbinger Avatar21; ffff00ff
+Metadata/Monsters/Avatar/Avatar22; Harbinger Avatar22; ffff00ff
+Metadata/Monsters/Avatar/Avatar23; Harbinger Avatar23; ffff00ff
+Metadata/Monsters/Avatar/Avatar24_; Harbinger Avatar24_; ffff00ff
+Metadata/Monsters/Avatar/Avatar25; Harbinger Avatar25; ffff00ff
+Metadata/Monsters/Avatar/Avatar26; Harbinger Avatar26; ffff00ff
+Metadata/Monsters/Avatar/Avatar27; Harbinger Avatar27; ffff00ff
+Metadata/Monsters/Avatar/Avatar28; Harbinger Avatar28; ffff00ff
+Metadata/Monsters/Avatar/Avatar29; Harbinger Avatar29; ffff00ff
+Metadata/Monsters/Avatar/Avatar30; Harbinger Avatar30; ffff00ff
+Metadata/Monsters/Avatar/Avatar31; Harbinger Avatar31; ffff00ff
+Metadata/Monsters/Avatar/Avatar32; Harbinger Avatar32; ffff00ff
+Metadata/Monsters/Avatar/Avatar33; Harbinger Avatar33; ffff00ff
+Metadata/Monsters/Avatar/Avatar34; Harbinger Avatar34; ffff00ff
+Metadata/Monsters/Avatar/Avatar35; Harbinger Avatar35; ffff00ff
+
+# HARBINGER BOSS
+Metadata/Monsters/Avatar/AvatarBossAtlas; Harbinger Boss; ffff00ff
+
+# BESTIARY
+Metadata/Monsters/Masters/Einhar; Einhar, Beastmaster; ff64ffff
+Metadata/Monsters/LeagueBestiary/BlackScorpionBestiary;Fenumal Scorpion [Randomise Unique]; ffd2742d
+Metadata/Monsters/LeagueBestiary/ParasiticSquidBestiary;Craicic Vassal [Double Corrupt a Map]; ffd2742d
+Metadata/Monsters/LeagueBestiary/TigerBestiarySpiritBoss;Farrul, First of the Plains [Craft Aspect of the Cat]; ffd2742d
+Metadata/Monsters/LeagueBestiary/MarakethBirdSpiritBoss;Saqawal, First of the Sky [Craft Aspect of the Avian]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiarySpiritBoss;Fenumus, First of the Night [Craft Aspect of the Spider]; ffd2742d
+Metadata/Monsters/LeagueBestiary/NessaCrabBestiarySpiritBoss;Craiceann, First of the Deep [Craft Aspect of the Crab]; ffd2742d
+Metadata/Monsters/LeagueBestiary/CrabParasiteLargeBestiary_;Craicic Savage Crab [Unique Item]; ffd2742d
+Metadata/Monsters/LeagueBestiary/HellionBestiary;Farric Flame Hellion Alpha [Unique Ring]; ffd2742d
+Metadata/Monsters/LeagueBestiary/BestiaryMonkeyChiefBlood;Farric Chieftain [Unique Amulet]; ffd2742d
+Metadata/Monsters/LeagueBestiary/MonkeyBloodBestiary;Farric Ape [Unique Belt]; ffd2742d
+Metadata/Monsters/LeagueBestiary/GoatmanLeapSlamBestiary;Farric Goatman [Unique Flask]; ffd2742d
+Metadata/Monsters/LeagueBestiary/BeastCaveBestiary;Farric Gargantuan [Unique Helmet][Orbs of Horizons]; ffd2742d
+Metadata/Monsters/LeagueBestiary/DropBearBestiary;Farric Ursa [Unique Body Armour]; ffd2742d
+Metadata/Monsters/LeagueBestiary/KiwethBestiary;Saqawine Retch [Unique Boots]; ffd2742d
+Metadata/Monsters/LeagueBestiary/Spider5Bestiary;Fenumal Widow [Unique Gloves]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SeaWitchSpawnBestiary;Craicic Squid [Unique Jewel]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SquidBestiary;Craicic Watcher [Unique Claw or Dagger][Hunter Mod]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SnakeBestiary1;Saqawine Cobra [Unique Mace or Sceptre]; ffd2742d
+Metadata/Monsters/LeagueBestiary/RootSpiderBestiary_;Fenumal Devourer [Unique Shield or Quiver][Shaper Mod]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SnakeBestiary2;Saqawine Blood Viper [Unique Sword][Elder Mod]; ffd2742d
+Metadata/Monsters/LeagueBestiary/InsectSpawnerBestiary;Fenumal Queen [Unique Staff][Redeemer Mod]; ffd2742d
+Metadata/Monsters/LeagueBestiary/FrogBestiary;Craicic Maw [Unique Axe][Add Mod]; ffd2742d
+Metadata/Monsters/LeagueBestiary/BestiarySpiker;Farric Goliath [Unique Bow][Crusader Mod]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SandLeaperBestiary;Fenumal Scrabbler [Unique Wand][Warlord Mod]; ffd2742d
+Metadata/Monsters/LeagueBestiary/BestiaryBull;Farric Taurus [Unique Map]; ffd2742d
+Metadata/Monsters/LeagueBestiary/GemFrogBestiary;Craicic Chimeral [Imprint of a Magic Item]; ffd2742d
+Metadata/Monsters/LeagueBestiary/HoundBestiary;Farric Magma Hound [23% Quality Corrupted Gem]; ffd2742d
+Metadata/Monsters/LeagueBestiary/PitbullBestiary;Farric Pit Hound [Level 21 Corrupted Gem]; ffd2742d
+Metadata/Monsters/LeagueBestiary/VultureBestiary;Saqawine Vulture [Fully-linked Six-socket Rare]; ffd2742d
+Metadata/Monsters/LeagueBestiary/IguanaBestiary;Saqawine Chimeral [10 Random Currency]; ffd2742d
+Metadata/Monsters/LeagueBestiary/RhoaBestiary;Saqawine Rhoa [8 Chromatic Orbs]; ffd2742d
+Metadata/Monsters/LeagueBestiary/ShieldCrabBestiary;Craicic Shield Crab [4 Jeweller's Orbs][Orbs of Binding]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SandSpitterBestiary;Craicic Sand Spitter [Orb of Fusing][Orbs of Binding]; ffd2742d
+Metadata/Monsters/LeagueBestiary/LynxBestiary;Farric Lynx Alpha [Add Suffix, Remove Prefix]; ffd2742d
+Metadata/Monsters/LeagueBestiary/WolfBestiary;Farric Wolf Alpha [Add Prefix, Remove Suffix]; ffd2742d
+Metadata/Monsters/LeagueBestiary/TigerBestiary;Farric Tiger Alpha [Portal to Farrul's Den]; ffd2742d
+Metadata/Monsters/LeagueBestiary/Avians/MarakethBirdBestiary;Saqawine Rhex [Portal to Saqawal's Roost]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiary;Fenumal Hybrid Arachnid [Portal to Fenumus' Lair]; ffd2742d
+Metadata/Monsters/LeagueBestiary/CrabSpiderBestiary;Craicic Spider Crab [Portal to Craiceann's Cove]; ffd2742d
+Metadata/Monsters/LeagueBestiary/HellionBestiary2;Farric Frost Hellion Alpha [Reroll Rare Item Values][Orbs of Horizons]; ffd2742d
+Metadata/Monsters/LeagueBestiary/SpiderPlagueBestiary;Fenumal Plagued Arachnid [Split an Item in Two]; ffd2742d
+
+
+# BLIGHT
+Metadata/Monsters/Masters/BlightBuilderWild;Sister Cassia [Blight];ff00FF00
+
+# LEGION
+Metadata/Monsters/LegionLeague/LegionKaruiGeneral;Queen Hyrri Ngamaku [Karui];ff00FF00
+Metadata/Monsters/LegionLeague/LegionMarakethGeneral;Aukuna, the Black Sekhema [Maraketh];ff00FF00
+Metadata/Monsters/LegionLeague/LegionEternalEmpireGeneral;General Marceus Lioneye [Eternal];ff00FF00
+Metadata/Monsters/LegionLeague/LegionVaalGeneral;Viper Napuatzi [Vaal];ff00FF00
+Metadata/Monsters/LegionLeague/LegionTemplarGeneral;Cardinal Sanctus Vox [Templar];ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestVaal2;Vaal War Hoard;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestVaal1;Vaal Chest;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestTemplar2;Templar War Hoard;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestTemplar1;Templar Chest;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestEternalEmpire2;Eternal War Hoard;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestEternalEmpire1;Eternal Chest;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestMaraketh2;Maraketh War Hoard;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestMaraketh1;Maraketh Chest;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestKarui2;Karui War Hoard;ff00FF00
+Metadata/Monsters/LegionLeague/MonsterChestKarui1;Karui Chest;ff00FF00
+
+# ABYSS
+Metadata/MiscellaneousObjects/Abyss/AbyssSubAreaTransition; Abyssal Depths; ff36B400
+Metadata/Monsters/ReligiousTemplar/AbyssLichBoss1; Abyss Lich - Ulaman; ff00FF00
+Metadata/Monsters/ReligiousTemplar/AbyssLichBoss2; Abyss Lich - Amanamu; ff00FF00
+Metadata/Chests/Abyss/AbyssFinalChest; Abyss #1; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest2; Abyss #2; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest3; Abyss #3; ff00AA00
+Metadata/Chests/Abyss/AbyssFinalChest4; Abyss #4; ff00AA00
+
+# BETRAYAL
+Metadata/NPC/League/Betrayal/BetrayalNinjaCopRaid; Syndicate Research; ff00FF00
+Metadata/Monsters/LeagueBetrayal/FortWall/FortWall; Syndicate Fortification; ff00FF00
+Metadata/Monsters/LeagueBetrayal/BetrayalOriathBlackguardMeleeChampionCartGuard; Syndicate Transportation; ff00FF00
+Metadata/Monsters/LeagueBetrayal/BetrayalCatarina; Catarina, Master of Undeath; ff36b4b4
+
+# INCURSION
+Metadata/NPC/League/Incursion/TreasureHunterWild; Alva, Master Explorer; ff64ffff
+
+# DELVE
+Metadata/NPC/League/Delve/DelveMinerWildVein; Niko, Master of the Depths; ff64ffff
+Metadata/NPC/League/Delve/DelveMinerWildChest; Niko, Master of the Depths; ff64ffff
+
+# METAMORPH
+Metadata/NPC/League/Metamorphosis/MetamorphosisNPCWild; Metamorph; ff36B400
+#Metadata/MiscellaneousObjects/Metamorphosis/MetamorphosisVat
+
+# DELIRIUM
+Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator; Delirium; ff36B400
+
+# HARVEST
+Metadata/Terrain/Leagues/Harvest/Objects/HarvestFeatureChest; Harvest; ff36B400
+Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm; Harvest; ff36B400 
+
+# HEIST
+Metadata/Chests/LeagueHeist/HeistSmugglersCoinCache; Heist; ffcfb109
+Metadata/Chests/LeagueHeist/HeistSmugglersCoinCacheOutdoors; Heist; ffcfb109
+
+# RITUAL
+Metadata/Terrain/Leagues/Ritual/RitualRuneLight; Ritual; ffffb176
+
+# ESSENCES
+Metadata/Monsters/Daemon/EssenceDaemonMeteorFirestorm; Essence of Anguish; ffffff00
+Metadata/Monsters/Daemon/EssenceDaemonFirePulse; Essence of Anger; ffffff00
+Metadata/Monsters/Daemon/EssenceDaemonColdPulse; Essence of Hatred; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonLightningPulse; Essence of Wrath; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonSummonOrbOfStormsDaemon; Essence of Torment; ffffff00
+Metadata/Monsters/Daemon/EssenceDaemonSummonGhost; Essence of Fear; ffffff00
+Metadata/Monsters/Daemon/EssenceDaemonFrostBomb; Essence of Suffering; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonBuffToParentCasterDodge; Essence of Zeal; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonBuffToParentCasterDamageTaken; Essence of Loathing; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonTotemGroundEffectVortex; Essence of Sorrow; ffffff00
+Metadata/Monsters/Daemon/EssenceDaemonSummonKaruiSpirit; Essence of Contempt; ffffff00
+Metadata/Monsters/Daemon/EssenceDaemonFireRuneTrap; Essence of Rage; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonBloodProjectileDaemon; Essence of Greed; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonSummonLivingCrystals; Essence of Woe; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonSummonSpiders; Essence of Doubt; ffffff00 
+Metadata/Monsters/Daemon/EssenceDaemonTotemGroundEffectShocked; Essence of Spite; ffffff00 
+
+# ESSENCES CORRUPTION
+Metadata/Monsters/Daemon/EssenceDaemonChaosDegenPulse; Essence of Misery (Suggest: Corruption); ff8800ff
+Metadata/Monsters/Daemon/EssenceDaemonGrab; Essence of Envy (Suggest: Corruption); ff8800ff
+Metadata/Monsters/Daemon/EssenceDaemonBuffToParentCasterCrit; Essence of Scorn (Suggest: Corruption); ff8800ff
+Metadata/Monsters/Daemon/EssenceDaemonSummonChaosGolem; Essence of Dread (Suggest: Corruption); ff8800ff 
+
+# ESSENCES T8
+Metadata/Monsters/Daemon/EssenceDaemonMadness1; Essence of Hysteria; ffff0000
+Metadata/Monsters/Daemon/EssenceDaemonInsanity1; Essence of Insanity; ffff0000
+Metadata/Monsters/Daemon/EssenceDaemonHorror1; Essence of Horror; ffff0000
+Metadata/Monsters/Daemon/EssenceDaemonTerror1_; Essence of Delirium; ffff0000
+
+#EXPEDITION
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionRog;Rog [Items crafter];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionTujen;Tujen [Currency gambler];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionGwennen;Gwennen [Items gambler];ff00FF00
+Metadata/Monsters/LeagueExpedition/NPC/ExpeditionDannig;Dannig [Exchange items];ff00FF00
+
+###################################################################################################
+#
+#	SPECIAL
+#
+###################################################################################################
+# ZANA
+Metadata/NPC/Missions/Wild/StrDexInt; Zana;ffff0000 
+
+# ATLAS - Conquerors
+Metadata/Monsters/AtlasExiles/AtlasExile1Influence_; Baran1; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile1Influence; Baran2; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile2Influence; Veritania1; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile2Influence_; Veritania2; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3; Al-Hezmin3; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3.ao; Al-Hezmin4; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3Influence_; Al-Hezmin1; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile3Influence; Al-Hezmin2; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile4Influence_; Drox1; ff36B400
+Metadata/Monsters/AtlasExiles/AtlasExile4Influence; Drox2; ff36B400
+
+# HIDEOUTS
+Metadata/NPC/Missions/HelenaClaim; Unlockable Hideout; ffff0000
+
+# Hillock Event
+Metadata/Monsters/ZombieBoss/ZombieBossHillockSpecialEvent_; Uber Hillock; ff00ff00
+
+
+###################################################################################################
+#
+#	LABYRINTH
+#
+###################################################################################################
+
+# LABYRINTH TRIALS
+Metadata/QuestObjects/Labyrinth/LabyrinthTrialPortal; Labyrinth Trial; ffff9966
+
+#LABYRINTH PROGRESSION CHEST - Dark shrines - Passage
+##Metadata/Terrain/Labyrinth/Objects/GoldenChest; Golden Key Chest; ffffD700
+##Metadata/Chests/Labyrinth/LabyrinthTrinketChest; Izaro Trinket; ffd2d2d2
+Metadata/Terrain/Labyrinth/Objects/LabyrinthDarkshrineHidden; Dark shrine; ff0080ff
+##Metadata/Terrain/Labyrinth/Objects/SecretPassage; Secret Passage; ffffff00
+
+#LABYRINTH DANAGER CHEST
+Metadata/Chests/Labyrinth/LabyrinthTreasureKey; Curious Lock Box; ff00ff00
+Metadata/Chests/Labyrinth/LabyrinthReward0Currency; Low Currency Chest; ffff99ff
+Metadata/Chests/Labyrinth/LabyrinthReward0CurrencyQuality; High Currency Chest; ffff00ff
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerCurrency; Danger Currency Chest; ffff99ff
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerCurrencyQuality; Danger Quality Currency Chest; ffff00ff
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerUnique; Danger Unique Chest; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerDivination; Danger Divination Chest; ffff0000
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerJewelry; Danger Jewelry; ffd2d2d2
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerSockets; Danger Socketed; ffd2d2d2
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerSkillGems; Danger Skill Gems; ff00ff00
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerCorruptedVaal; Danger Vaal; ffd2d2d2
+Metadata/Chests/Labyrinth/LabyrinthRewardDangerGeneric; Danger Generic; ffd2d2d2
+
+#LABYRINTH SILVER CHEST
+##Metadata/Terrain/Labyrinth/Objects/SilverChest; Silver Key Lock Box; fff2f2f2
+Metadata/Chests/Labyrinth/LabyrinthSpecificUnique; Intricate Locker; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrency; Silver Currency Chest; ffff00ff
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrencyQuality; Silver Currency Quality Chest; ffff00ff
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryUnique; Silver Jewelry Unique Chest; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverDivination; Silver Divination Chest; ffff0000
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique1; Silver Unique Chest 1; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique2; Silver Unique Chest 2; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique3; Silver Unique Chest 3; ffd2742d
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverSkillGems; Silver Skill Gems; ff00ff00
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverCorruptedVaal; Silver Corrupted Chest; ffff0000
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewelry; Silver Jewelry Chest; ff00ff00
+Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewels; Silver Jewels Chest; ff00ff00
+
+#Izaro Phases (Phase, How to get extra key)
+Metadata/Monsters/Labyrinth/IzaroPortalCold; Portals, Don't Kill; ff00ff00
+Metadata/Monsters/FireElemental/FireElementalIzaro; Essences, Don't Kill; ff00ff00
+Metadata/Terrain/Labyrinth/Objects/ChargeDisruptors/IzaroDisruptor; Charge Disrupter's, Gain At Least 10 Charges; ff00ff00
+Metadata/Monsters/PopUpTrap/LabyrinthBossPylonReduceArmour; Fonts, Don't Kill; ff00ff00
+Metadata/Terrain/Labyrinth/Objects/ToggleStatues/EmpowerStatue1; Conduits, Don't Click; ff00ff00
+Metadata/Monsters/Statue/IzaroGargoyleCold; Gargoyles, Don't Kill; ff00ff00
+Metadata/Monsters/Statue/IzaroChronosStatueCold; Idols, All Must Gain Full life; ff00ff00
+Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMelee; Lieutenants, Don't Kill; ff00ff00
+
+###################################################################################################
+#
+#	VARIOUS
+#
+###################################################################################################
 
 Metadata/Monsters/GargoyleBoss/GargoyleBoss; Argus; ffDC143C
 Metadata/Monsters/Squid/SquidBossSideArea; The All-seeing Eye; ffDC143C
@@ -150,7 +350,8 @@ Metadata/Monsters/DemonBosses/DemonBoss2/Demon2BossSideArea; Wiraq, the Impaler;
 Metadata/Monsters/DemonBosses/DemonBoss3/Demon3BossSideArea; Ch'aska, Maker of Rain; ffDC143C
 Metadata/Monsters/SandSpitterEmerge/SandSpitterBossSideArea; Mother of the Hive; ffDC143C
 Metadata/Monsters/Seawitch/SeaWitchBossSideArea; Rima, Deep Temptress; ffDC143C
-#Extra vaal Bosses
+
+# EXTRA VAAL BOSSES
 Metadata/Monsters/SandLeaper/SandLeaperBossSideArea; Quetzerxi; ffDC143C
 Metadata/Monsters/SkeletonSoldier/SkeletonSoldierMeleeBossSideArea; Calxipher; ffDC143C
 Metadata/Monsters/Banshee/VaalSideAreaBoss8; Iorphia, Dream Eater; ffDC143C
@@ -165,6 +366,7 @@ Metadata/Monsters/StatueFingerMage/VaalSideAreaBoss7; Exartze, the Woven Stone; 
 Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss5; Guraq, Daylight's Blade; ffDC143C
 Metadata/Monsters/SandSpitterEmerge/SandSpitterBossSideAreaLowbie; Mother of the Hive; ffDC143C
 
+# INVASION BOSSES
 Metadata/Monsters/Axis/AxisCasterBossInvasion; Invasion Boss, Evocata Apocalyptica; ffDC143C
 Metadata/Monsters/Axis/AxisExperimenterBossInvasion; Invasion, Boss Docere Incarnatis; ffDC143C
 Metadata/Monsters/Axis/AxisSoldierBossInvasion; Invasion Boss, Corrector Draconides; ffDC143C
@@ -204,8 +406,8 @@ Metadata/Monsters/Pyromaniac/PyromaniacBossInvasion; Invasion Boss, The Firestar
 Metadata/Monsters/RootSpiders/RootSpiderBossInvasion; Invasion Boss, Wrigglechaw; ffDC143C
 Metadata/Monsters/SandSpitterEmerge/SandSpitterBossInvasion; Invasion Boss, Blinkflame; ffDC143C
 Metadata/Monsters/Seawitch/SeaWitchBossInvasion; Invasion Boss, The Duchess; ffDC143C
-Metadata/Monsters/ShieldCrabs/ShieldCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
-Metadata/Monsters/SandSpitters/SandSpitterFromCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
+#Metadata/Monsters/ShieldCrabs/ShieldCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
+#Metadata/Monsters/SandSpitters/SandSpitterFromCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
 Metadata/Monsters/Beasts/BeastSkeletonBossInvasion; Invasion Boss, Mammothcage; ffDC143C
 Metadata/Monsters/Skeletons/SkeletonElementalBossInvasion; Invasion Boss, Harbinger of Elements; ffDC143C
 Metadata/Monsters/Skeletons/SkeletonBowBossInvasion; Invasion Boss, Nightsight; ffDC143C
@@ -220,7 +422,7 @@ Metadata/Monsters/Rhoas/RhoaUndeadBossInvasion; Invasion Boss, Ghostram; ffDC143
 Metadata/Monsters/Undying/UndyingBossInvasion; Invasion Boss, Stranglecrawl; ffDC143C
 Metadata/Monsters/WaterElemental/WaterElementalBossInvasion; Invasion Boss, Mirageblast; ffDC143C
 Metadata/Monsters/ZombieDismember/ZombieBossInvasion; Invasion Boss, The Walking Waste; ffDC143C
-Metadata/Monsters/Monkeys/MonkeyBossInvasion1; Invasion Boss, Blood Stasis; ffDC143C 
+Metadata/Monsters/Monkeys/MonkeyBossInvasion1; Invasion Boss, Blood Stasis; ffDC143C
 Metadata/Monsters/Monkeys/MonkeyBossInvasion2; Invasion Boss, Blood Morpher; ffDC143C
 Metadata/Monsters/Skeletons/SkeletonMeleeBossInvasion; Invasion Boss, Glassmaul; ffDC143C
 Metadata/Monsters/Skeletons/SkeletonLargeBossInvasion; Invasion Boss, Grath; ffDC143C
@@ -228,29 +430,50 @@ Metadata/Monsters/Skeletons/ConstructBossInvasion; Invasion Boss, The Spiritless
 Metadata/Monsters/GhostPirates/GhostPirateBossInvasion; Invasion Boss, Droolscar; ffDC143C
 Metadata/Monsters/Rhoas/RhoaAlbino; Albino Rhoa
 
-Metadata/Monsters/Spirit/TormentedArsonist; Tormented Arsonist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedFreezer; Tormented Aurora Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedBlasphemer; Tormented Blasphemer; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCannibal; Tormented Cannibal; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCharlatan; Tormented Charlatan; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCutthroat; Tormented Cutthroat; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedEmbezzler; Tormented Embezzler; ffFF00FF
-Metadata/Monsters/Spirit/TormentedCounterfeiter; Tormented Forger; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedMartyr; Tormented Martyr; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedMutilator; Tormented Mutilator; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedNecromancer; Tormented Necromancer; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedPoisoner; Tormented Poisoner; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedRogue; Tormented Rogue; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedLibrarian; Tormented Seditionist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedSmuggler; Tormented Smuggler; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedSpy; Tormented Spy; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedExperimenter; Tormented Storm Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedThief; Tormented Thief; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedThug; Tormented Thug; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCorrupter; Tormented Vaal Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedWarlord; Tormented Warlord; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedFisherman; Tormented Illegal Fisherman; ffFF00FF
+# INVASION BOSSES (Tirn's End EXTRA)
+Metadata/Monsters/DemonFemale/WhipDemonBossSideAreaInvasion; Invasion Boss, Cava, Artist of Pain; ffDC143C
+Metadata/Monsters/DemonBosses/DemonBoss3/Demon3BossSideAreaInvasion; Invasion Boss, Ch'aska, Maker of Rain; ffDC143C
+Metadata/Monsters/Snake/SnakeScorpionBossSideAreaInvasion; Invasion Boss, Thornrunner; ffDC143C
+Metadata/Monsters/GhostPirates/GhostPirateBossSideAreaInvasion; Invasion Boss, Coniraya, Shadow of Malice; ffDC143C
+Metadata/Monsters/Cannibal/CannibalBossSideAreaInvasion; Invasion Boss, Perquil the Lucky; ffDC143C
+Metadata/Monsters/Snake/SnakeRoboBossSideAreaInvasion_; Invasion Boss, Wiraqucha, Ancient Guardian; ffDC143C
+Metadata/Monsters/DemonBosses/DemonBoss2/Demon2BossSideAreaInvasion; Invasion Boss, Wiraq, the Impaler; ffDC143C
+Metadata/Monsters/InsectSpawner/CarrionQueenBossSideAreaInvasion; Invasion Boss, The Sunburst Queen; ffDC143C
+Metadata/Monsters/Totems/TotemBossSideAreaInvasion; Invasion Boss, M'gaska, the Living Pyre; ffDC143C
+Metadata/Monsters/Skeletons/ConstructRangedBossSideAreaInvasion; Invasion Boss, Kutec, Vaal Fleshsmith; ffDC143C
+Metadata/Monsters/Spiders/SpiderBossSideAreaInvasion; Invasion Boss, Cintiq, the Inescapable; ffDC143C
+Metadata/Monsters/Pyromaniac/PyromaniacBossSideAreaInvasion; Invasion Boss, Curator Miem; ffDC143C
+Metadata/Monsters/Goatman/GoatmanShamanBossSideAreaInvasion; Invasion Boss, Sheaq, Maker of Floods; ffDC143C
+Metadata/Monsters/DemonModular/DemonModularElementsBossSideAreaInvasion; Invasion Boss, Atziri's Pride; ffDC143C
+Metadata/Monsters/Seawitch/SeaWitchBossSideAreaInvasion; Invasion Boss, Rima, Deep Temptress; ffDC143C
+Metadata/Monsters/Goatman/GoatmanLeapBossSideAreaInvasion; Invasion Boss, Konu, Maker of Wind; ffDC143C
+Metadata/Monsters/Kiweth/KiwethBossSideAreaInvasion; Invasion Boss, Inti of the Blood Moon; ffDC143C
 
+# TORMENTED SPIRITS
+#Metadata/Monsters/Spirit/TormentedArsonist; Tormented Arsonist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedFreezer; Tormented Aurora Cultist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedBlasphemer; Tormented Blasphemer; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCannibal; Tormented Cannibal; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCharlatan; Tormented Charlatan; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCutthroat; Tormented Cutthroat; ffC6FFC6
+Metadata/Monsters/Spirit/TormentedEmbezzler; Tormented Embezzler; ffFF00FF
+#Metadata/Monsters/Spirit/TormentedCounterfeiter; Tormented Forger; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedMartyr; Tormented Martyr; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedMutilator; Tormented Mutilator; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedNecromancer; Tormented Necromancer; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedPoisoner; Tormented Poisoner; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedRogue; Tormented Rogue; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedLibrarian; Tormented Seditionist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedSmuggler; Tormented Smuggler; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedSpy; Tormented Spy; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedExperimenter; Tormented Storm Cultist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedThief; Tormented Thief; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedThug; Tormented Thug; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCorrupter; Tormented Vaal Cultist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedWarlord; Tormented Warlord; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedFisherman; Tormented Illegal Fisherman; ffFF00FF
+
+# WARBANDS
 Metadata/Monsters/Wb/WbLightningGrunt1; Brinerot Raider
 Metadata/Monsters/Wb/WbLightningGrunt2; Brinerot Raider
 Metadata/Monsters/Wb/WbLightningGrunt3; Brinerot Raider
@@ -346,6 +569,7 @@ Metadata/Monsters/GladiatorBosses/GladiatorBossSupportMap; Avatar of the Huntres
 Metadata/Monsters/GladiatorBosses/GladiatorBossLeaderMap; Avatar of the Skies
 Metadata/Monsters/GladiatorBosses/GladiatorBossEliteMap; Avatar of the Forge
 
+# TEMPESTS
 Metadata/Monsters/Daemon/TempestDaemonSmokeTrail_; Tempest Daemon
 Metadata/Monsters/Daemon/TempestDaemonDevourCorpses; Tempest Daemon
 Metadata/Monsters/Daemon/TempestDaemonCharges; Tempest Daemon
@@ -361,85 +585,6 @@ Metadata/Monsters/Daemon/TempestDaemonEnvironmentalPhysical; Tempest Daemon
 Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberPhysical; Tempest Daemon
 Metadata/Monsters/Daemon/TempestDaemonEnvironmentalCurses; Tempest Daemon
 Metadata/Monsters/Daemon/TempestDaemonEnvironmentalSmoke; Tempest Daemon
-
-# HARBINGER
-Metadata/Monsters/Avatar/Avatar1; Harbinger Avatar1; ff3399ff
-Metadata/Monsters/Avatar/Avatar2; Harbinger Avatar2; ff3399ff
-Metadata/Monsters/Avatar/Avatar3_; Harbinger Avatar3_; ff3399ff
-Metadata/Monsters/Avatar/Avatar4; Harbinger Avatar4; ff3399ff
-Metadata/Monsters/Avatar/Avatar5; Harbinger Avatar5; ff3399ff
-Metadata/Monsters/Avatar/Avatar6; Harbinger Avatar6; ff3399ff
-Metadata/Monsters/Avatar/Avatar7; Harbinger Avatar7; ff3399ff
-Metadata/Monsters/Avatar/Avatar8; Harbinger Avatar8; ff3399ff
-Metadata/Monsters/Avatar/Avatar9; Harbinger Avatar9; ff3399ff
-Metadata/Monsters/Avatar/Avatar10; Harbinger Avatar10; ff3399ff
-Metadata/Monsters/Avatar/Avatar11; Harbinger Avatar11; ff3399ff
-Metadata/Monsters/Avatar/Avatar11Summoned_; Harbinger Avatar11Summoned_; ff3399ff
-Metadata/Monsters/Avatar/Avatar12; Harbinger Avatar12; ff3399ff
-Metadata/Monsters/Avatar/Avatar12Summoned; Harbinger Avatar12Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar13; Harbinger Avatar13; ff3399ff
-Metadata/Monsters/Avatar/Avatar13Summoned; Harbinger Avatar13Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar14; Harbinger Avatar14; ff3399ff
-Metadata/Monsters/Avatar/Avatar14Summoned; Harbinger Avatar14Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar15; Harbinger Avatar15; ff3399ff
-Metadata/Monsters/Avatar/Avatar15Summoned; Harbinger Avatar15Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar16; Harbinger Avatar16; ff3399ff
-Metadata/Monsters/Avatar/Avatar16Summoned; Harbinger Avatar16Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar17; Harbinger Avatar17; ff3399ff
-Metadata/Monsters/Avatar/Avatar17Summoned; Harbinger Avatar17Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar18; Harbinger Avatar18; ff3399ff
-Metadata/Monsters/Avatar/Avatar18Summoned; Harbinger Avatar18Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar19; Harbinger Avatar19; ff3399ff
-Metadata/Monsters/Avatar/Avatar19Summoned; Harbinger Avatar19Summoned; ff3399ff
-Metadata/Monsters/Avatar/Avatar20; Harbinger Avatar20; ff3399ff
-
-# Apparently better Harbingers?
-Metadata/Monsters/Avatar/Avatar21; Harbinger Avatar21; ffff00ff
-Metadata/Monsters/Avatar/Avatar22; Harbinger Avatar22; ffff00ff
-Metadata/Monsters/Avatar/Avatar23; Harbinger Avatar23; ffff00ff
-Metadata/Monsters/Avatar/Avatar24_; Harbinger Avatar24_; ffff00ff
-Metadata/Monsters/Avatar/Avatar25; Harbinger Avatar25; ffff00ff
-Metadata/Monsters/Avatar/Avatar26; Harbinger Avatar26; ffff00ff
-Metadata/Monsters/Avatar/Avatar27; Harbinger Avatar27; ffff00ff
-Metadata/Monsters/Avatar/Avatar28; Harbinger Avatar28; ffff00ff
-Metadata/Monsters/Avatar/Avatar29; Harbinger Avatar29; ffff00ff
-Metadata/Monsters/Avatar/Avatar30; Harbinger Avatar30; ffff00ff
-Metadata/Monsters/Avatar/Avatar31; Harbinger Avatar31; ffff00ff
-Metadata/Monsters/Avatar/Avatar32; Harbinger Avatar32; ffff00ff
-Metadata/Monsters/Avatar/Avatar33; Harbinger Avatar33; ffff00ff
-Metadata/Monsters/Avatar/Avatar34; Harbinger Avatar34; ffff00ff
-Metadata/Monsters/Avatar/Avatar35; Harbinger Avatar35; ffff00ff
-
-# SHAPER'S MEMORIES
-Metadata/NPC/Info/ShaperGlyph1; Shaper's Memory of Home (T8); 9400d8ff
-Metadata/NPC/Info/ShaperGlyph2; Shaper's Memory of Intrigue (T9); 9400d8ff
-Metadata/NPC/Info/ShaperGlyph3; Shaper's Memory of Wonder (T10); 9400d8ff
-Metadata/NPC/Info/ShaperGlyph4; Shaper's Memory of Dream (T11); 9400d8ff
-Metadata/NPC/Info/ShaperGlyph5; Shaper's Memory of Nightmare (T12); 9400d8ff
-Metadata/NPC/Info/ShaperGlyph6; Shaper's Memory of Grief (T13); 9400d8ff
-Metadata/NPC/Info/ShaperGlyph7; Shaper's Memory of Awakening (T14); 9400d8ff
-
-# Hillock Event
-Metadata/Monsters/ZombieBoss/ZombieBossHillockSpecialEvent_; Uber Hillock; ff00ff00
-
-
-# ABYSS
-Metadata/Chests/Abyss/AbyssFinalChest; Abyss #1; ff00AA00
-Metadata/Chests/Abyss/AbyssFinalChest2; Abyss #2; ff00AA00
-Metadata/Chests/Abyss/AbyssFinalChest3; Abyss #3; ff00AA00
-Metadata/Chests/Abyss/AbyssFinalChest4; Abyss #4; ff00AA00
-
-# BETRAYAL
-Metadata/NPC/League/Betrayal/BetrayalNinjaCopRaid; Syndicate Research; ff00FF00
-Metadata/Monsters/LeagueBetrayal/FortWall/FortWall; Syndicate Fortification; ff00FF00
-Metadata/Monsters/LeagueBetrayal/BetrayalOriathBlackguardMeleeChampionCartGuard; Syndicate Transportation; ff00FF00
-
-Metadata/Monsters/LeagueBetrayal/BetrayalCatarina; Catarina, Master of Undeath; ff36b4b4
-
-Metadata/NPC/League/Incursion/TreasureHunterWild; Alva, Master Explorer; ff64ffff
-Metadata/Monsters/Masters/Einhar; Einhar, Beastmaster; ff64ffff
-Metadata/NPC/League/Delve/DelveMinerWildVein; Niko, Master of the Depths; ff64ffff
-Metadata/NPC/League/Delve/DelveMinerWildChest; Niko, Master of the Depths; ff64ffff
 
 # CRAFTING RECIPES
 Metadata/Terrain/Missions/CraftingUnlocks/BeastRecipe; Crafting Recipe; ff964DF1
@@ -463,5 +608,49 @@ Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook; Crafting Reci
 Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBookNoHelena; Crafting Recipe; ff964DF1
 Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal; Crafting Recipe; ff964DF1
 
-# HIDEOUTS
-Metadata/NPC/Missions/HelenaClaim; Unlockable Hideout; ffff0000
+# STRONGBOXES
+Metadata/Chests/StrongBoxes/Arcanist;Arcanist's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Artisan;Artisan's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Cartographer;Cartographer's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Diviner;Diviner's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/StrongboxDivination;Diviner's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Gemcutter;Gemcutter's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Jeweller;Jeweller's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Arsenal;Blacksmith's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Armory;Armourer's Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Ornate;Ornate Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Large;Large Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/Strongbox;Simple Strongbox;ff99ff33
+Metadata/Chests/CopperChests/CopperChestEpic3;Epic Chest;ff99ff33
+Metadata/Chests/StrongBoxes/PerandusBox;Perandus Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/KaomBox;Kaom Strongbox;ff99ff33
+Metadata/Chests/StrongBoxes/MalachaisBox;Malachai Strongbox;ff99ff33
+
+# EXILES
+ExileDuelist1;Exile Torr Olgosso;ff99ff33
+ExileDuelist2;Exile Armios Bell;ff99ff33
+ExileDuelist4;Exile Zacharie Desmarais;ff99ff33
+ExileDuelist5;Exile Oyra Ona;ff99ff33
+ExileMarauder1;Exile Jonah Unchained;ff99ff33
+ExileMarauder2;Exile Damoi Tui;ff99ff33
+ExileMarauder3;Exile Xandro Blooddrinker;ff99ff33
+ExileMarauder5;Exile Vickas Giantbone;ff99ff33
+ExileMarauder6__;Exile Bolt Brownfur;ff99ff33
+ExileRanger1;Exile Orra Greengate;ff99ff33
+ExileRanger2;Exile Thena Moga;ff99ff33
+ExileRanger3;Exile Antalie Napora;ff99ff33
+ExileRanger5;Exile Ailentia Rac;ff99ff33
+ExileScion2;Exile Augustina Solaria;ff99ff33
+ExileScion3;Exile Lael Furia;ff99ff33
+ExileScion4;Exile Vanth Agiel;ff99ff33
+ExileShadow1_;Exile Ion Darkshroud;ff99ff33
+ExileShadow2;Exile Ash Lessard;ff99ff33
+ExileShadow4;Exile Wilorin Demontamer;ff99ff33
+ExileShadow5;Exile Ulysses Morvant;ff99ff33
+ExileTemplar1;Exile Eoin Greyfur;ff99ff33
+ExileTemplar2;Exile Tinevin Highdove;ff99ff33
+ExileTemplar4;Exile Magnus Stonethorn;ff99ff33
+ExileTemplar5;Exile Aurelio Voidsinger;ff99ff33
+ExileWitch1;Exile Minara Anenima;ff99ff33
+ExileWitch2;Exile Igna Phoenix;ff99ff33
+ExileWitch4;Exile Dena Lorenni;ff99ff33

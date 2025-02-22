@@ -1,0 +1,557 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "PickUpKey": {
+    "Value": 112
+  },
+  "PickupRange": {
+    "Value": 600
+  },
+  "ChestRange": {
+    "Value": 500
+  },
+  "ExtraDelay": {
+    "Value": 0
+  },
+  "ShaperItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ElderItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "HunterItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "VeiledItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CrusaderItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "WarlordItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RedeemerItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "FracturedItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "HeistItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Rares": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareJewels": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareRings": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareRingsilvl": {
+    "Value": 1
+  },
+  "RareAmulets": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareAmuletsilvl": {
+    "Value": 1
+  },
+  "RareBelts": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareBeltsilvl": {
+    "Value": 1
+  },
+  "RareGloves": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareGlovesilvl": {
+    "Value": 1
+  },
+  "RareBoots": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareBootsilvl": {
+    "Value": 1
+  },
+  "RareHelmets": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareHelmetsilvl": {
+    "Value": 1
+  },
+  "RareArmour": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareArmourilvl": {
+    "Value": 1
+  },
+  "RareShield": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareShieldilvl": {
+    "Value": 1
+  },
+  "RareShieldWidth": {
+    "Value": 2
+  },
+  "RareShieldHeight": {
+    "Value": 4
+  },
+  "RareWeapon": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RareWeaponWidth": {
+    "Value": 2
+  },
+  "RareWeaponHeight": {
+    "Value": 4
+  },
+  "RareWeaponilvl": {
+    "Value": 1
+  },
+  "FullRareSetManagerOverrideAllowIdentifiedItems": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "LinkSocketRgbEmptyNode": null,
+  "Sockets": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "TotalSockets": {
+    "Value": 6
+  },
+  "Links": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "LargestLink": {
+    "Value": 6
+  },
+  "RGB": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RGBWidth": {
+    "Value": 2
+  },
+  "RGBHeight": {
+    "Value": 4
+  },
+  "AllOverridEmptyNode": null,
+  "PickUpEverything": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "AllDivs": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "AllCurrency": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "IgnoreScrollOfWisdom": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "AllUniques": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Maps": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "MapTier": {
+    "Value": 1
+  },
+  "UniqueMap": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "MapFragments": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Gems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "GemQuality": {
+    "Value": 1
+  },
+  "Flasks": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "FlasksQuality": {
+    "Value": 1
+  },
+  "QuestItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "GroundChests": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "LeftClickToggleNode": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "OverrideItemPickup": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "NormalRuleFile": "",
+  "MagicRuleFile": "",
+  "RareRuleFile": "",
+  "UniqueRuleFile": "",
+  "WeightRuleFile": "",
+  "IgnoreRuleFile": "",
+  "MoveInventoryView": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ShowInventoryView": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "InventorySlotsVector2": {
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "MouseSpeed": {
+    "Value": 1.0
+  },
+  "ReturnMouseToBeforeClickPosition": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "TimeBeforeNewClick": {
+    "Value": 500
+  },
+  "UseWeight": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "LazyLooting": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "LazyLootingPauseKey": {
+    "Value": 32
+  },
+  "FullRareSetManagerOverride": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "FullRareSetManagerPickupOverrides": {
+    "Weapons": -1,
+    "Helmets": -1,
+    "BodyArmors": -1,
+    "Gloves": -1,
+    "Boots": -1,
+    "Belts": -1,
+    "Amulets": -1,
+    "Rings": -1,
+    "MinItemLevel": 60,
+    "MaxItemLevel": 74
+  }
+}

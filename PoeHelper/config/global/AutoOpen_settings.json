@@ -1,0 +1,88 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ToggleEntityKey": {
+    "Value": 86
+  },
+  "BlockInputWhenClicking": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ClickDelay": {
+    "Value": 1
+  },
+  "DoorSettings": {
+    "Open": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "MaxDistance": {
+      "Value": 150
+    }
+  },
+  "SwitchSettings": {
+    "Open": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "MaxDistance": {
+      "Value": 150
+    }
+  },
+  "ChestSettings": {
+    "Open": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "MaxDistance": {
+      "Value": 150
+    }
+  },
+  "ShrineSettings": {
+    "Open": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "MaxDistance": {
+      "Value": 150
+    }
+  }
+}

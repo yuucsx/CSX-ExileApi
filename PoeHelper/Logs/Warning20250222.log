@@ -1,0 +1,810 @@
+2025-02-22 00:08:03.328 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.328 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.328 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.328 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.366 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.418 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.461 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.492 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.501 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.685 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.686 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.686 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.686 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.686 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.686 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.686 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.686 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.690 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.690 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.690 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.690 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.690 -03:00 [WRN] 22/02/2025 00:08:03 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.690 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:03.765 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:05.327 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:05.327 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:05.327 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:05.327 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:05.327 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:08:05.327 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:01.896 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:01.899 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:01.900 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:01.900 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:01.914 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:01.979 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.056 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.067 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.083 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.439 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.443 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.443 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.443 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.443 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.443 -03:00 [WRN] 22/02/2025 00:09:02 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.443 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:02.527 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:03.068 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:03.068 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:03.068 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:03.068 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:03.068 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:09:03.068 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.070 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.073 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.074 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.074 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.090 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.284 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.836 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:06.903 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.004 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.460 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.460 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.460 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.460 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.460 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.461 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.461 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.461 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.467 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.467 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.468 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.468 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.468 -03:00 [WRN] 22/02/2025 00:16:07 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.468 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:07.565 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:11.123 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:11.123 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:11.123 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:11.123 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:11.123 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:16:11.123 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.351 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.351 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.351 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.351 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.360 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.440 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.505 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.513 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.542 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.684 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.688 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.688 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.688 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.688 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.688 -03:00 [WRN] 22/02/2025 00:26:45 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.688 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:45.746 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:47.451 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:47.451 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:47.451 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:47.451 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:47.451 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:26:47.451 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.809 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.809 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.809 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.810 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.818 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.902 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.973 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:19.981 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.001 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.140 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.143 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.143 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.143 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.143 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.143 -03:00 [WRN] 22/02/2025 00:37:20 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.143 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:20.225 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:21.834 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:21.834 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:21.834 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:21.834 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:21.834 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:37:21.834 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.771 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.771 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.771 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.771 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.780 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.856 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.898 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.928 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:28.935 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.058 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.083 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.083 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.083 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.083 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.083 -03:00 [WRN] 22/02/2025 00:39:29 not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.083 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:29.158 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:30.924 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:30.924 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:30.924 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:30.924 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:30.924 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 00:39:30.924 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.535 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.538 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.539 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.539 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.555 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.632 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.730 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.743 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:44.769 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.115 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.119 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.119 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.119 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.119 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.119 -03:00 [WRN] 22/02/2025 01:09:45 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.119 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:45.186 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:47.320 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:47.320 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:47.320 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:47.320 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:47.320 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:09:47.320 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.093 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.093 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.094 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.094 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.102 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.146 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.212 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.220 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.264 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.443 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.444 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.444 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.444 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.444 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.444 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.444 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.444 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.447 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.447 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.447 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.447 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.447 -03:00 [WRN] 22/02/2025 01:23:33 not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.447 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:33.529 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:36.286 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:36.286 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:36.286 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:36.286 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:36.286 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 01:23:36.286 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.615 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.618 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.618 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.618 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.633 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.708 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.798 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.811 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:28.828 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.231 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.235 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.235 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.235 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.235 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.235 -03:00 [WRN] 22/02/2025 02:06:29 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.235 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 02:06:29.319 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.731 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.731 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.731 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.731 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.753 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.765 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.765 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.765 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.765 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.765 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.766 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.815 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.884 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.892 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:07.926 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.196 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.196 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.196 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.196 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.196 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.196 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.196 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.197 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.200 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.200 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.200 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.200 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.200 -03:00 [WRN] 22/02/2025 02:07:08 not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.200 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 02:07:08.270 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.297 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.300 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.301 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.301 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.317 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.358 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.359 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.359 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.359 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.359 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.359 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.401 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.493 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.508 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.545 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.903 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.904 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.904 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.904 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.904 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.904 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.904 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.904 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.910 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.910 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.910 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.910 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.910 -03:00 [WRN] 22/02/2025 13:41:40 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.910 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:41:40.990 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.899 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.901 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.902 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.902 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.914 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.928 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.928 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.929 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.929 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.929 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.929 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:13.990 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.082 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.094 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.132 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.468 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.473 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.473 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.473 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.473 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.473 -03:00 [WRN] 22/02/2025 13:44:14 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.473 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:44:14.562 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.394 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.397 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.397 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.397 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.413 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.495 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.600 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.626 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:29.643 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.033 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.033 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.033 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.033 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.034 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.034 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.034 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.034 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.038 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.039 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.039 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.039 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.039 -03:00 [WRN] 22/02/2025 13:55:30 not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.039 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 13:55:30.109 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:12.931 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:12.931 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:12.931 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:12.931 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:12.939 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.021 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.068 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.099 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.108 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.285 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.288 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.288 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.288 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.288 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.288 -03:00 [WRN] 22/02/2025 14:08:13 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.288 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:13.358 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.862 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.862 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.862 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.862 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.870 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.919 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.984 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:24.991 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.022 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.151 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.153 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.154 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.154 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.154 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.154 -03:00 [WRN] 22/02/2025 14:08:25 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.154 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:25.231 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.078 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.078 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.078 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.078 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.086 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.134 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.202 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.211 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.229 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.364 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.364 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.364 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.364 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.364 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.365 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.365 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.365 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.367 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.368 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.368 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.368 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.368 -03:00 [WRN] 22/02/2025 14:08:33 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.368 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:33.456 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.396 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.396 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.396 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.396 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.426 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.465 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.465 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.465 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.465 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.465 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.465 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.485 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.557 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.564 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.582 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.717 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.717 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.717 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.717 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.717 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.717 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.717 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.718 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.737 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.737 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.737 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.737 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.737 -03:00 [WRN] 22/02/2025 14:08:57 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.737 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:08:57.810 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.759 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.763 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.763 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.763 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.779 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.814 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.814 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.814 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.814 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.814 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.814 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.844 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.902 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.926 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:21.953 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.289 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.289 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.289 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.289 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.289 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.289 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.290 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.290 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.294 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.294 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.294 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.294 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.294 -03:00 [WRN] 22/02/2025 14:19:22 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.294 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:19:22.377 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.112 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.116 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.116 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.116 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.130 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.148 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.148 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.148 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.148 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.148 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.148 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.199 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.285 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.297 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.311 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.639 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.639 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.640 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.640 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.640 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.640 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.640 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.640 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.655 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.655 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.655 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.655 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.655 -03:00 [WRN] 22/02/2025 14:22:12 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.655 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:22:12.732 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.651 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.653 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.653 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.653 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.667 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.685 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.685 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.685 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.685 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.685 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.685 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.736 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.819 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.829 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:41.842 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.160 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.164 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.164 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.164 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.164 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.164 -03:00 [WRN] 22/02/2025 14:24:42 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.164 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:24:42.235 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.284 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.284 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.284 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.284 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.293 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.325 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.325 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.325 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.325 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.325 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.325 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.367 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.415 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.423 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.465 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.725 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.725 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.725 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.725 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.725 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.725 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.726 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.726 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.739 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.739 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.739 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.739 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.740 -03:00 [WRN] 22/02/2025 14:25:08 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.740 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:08.823 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.611 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.611 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.611 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.611 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.637 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.647 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.647 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.648 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.648 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.648 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.648 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.690 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.751 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.759 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.791 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.962 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.966 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.966 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.966 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.966 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.966 -03:00 [WRN] 22/02/2025 14:25:49 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:49.966 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:25:50.035 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.809 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.809 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.809 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.809 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.838 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.871 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.872 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.872 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.872 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.872 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.872 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.890 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.951 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.958 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:00.986 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.112 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.115 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.115 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.115 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.115 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.115 -03:00 [WRN] 22/02/2025 14:26:01 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.116 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:01.185 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.728 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.730 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.731 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.731 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.742 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.798 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.874 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.886 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:35.910 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.275 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.275 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.275 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.275 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.275 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.275 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.276 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.276 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.280 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.280 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.280 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.281 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.281 -03:00 [WRN] 22/02/2025 14:26:36 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.281 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:26:36.373 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:02.247 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:02.247 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:02.247 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:02.247 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:02.247 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:02.247 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:56.857 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:56.857 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:56.857 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:56.857 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:56.865 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:56.923 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:56.968 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.004 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.012 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.188 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.192 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.192 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.192 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.192 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.193 -03:00 [WRN] 22/02/2025 14:28:57 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.193 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.259 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.922 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.922 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.922 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.922 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.922 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:28:57.922 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.023 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.023 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.023 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.023 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.052 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.105 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.173 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.182 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.202 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.362 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.365 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.365 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.365 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.366 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.366 -03:00 [WRN] 22/02/2025 14:41:05 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.366 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:05.437 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:06.948 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:06.948 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:06.948 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:06.948 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:06.948 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:06.948 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.474 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.474 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.474 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.474 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.482 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.558 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.598 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.628 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.636 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.768 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.771 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.771 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.771 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.771 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.771 -03:00 [WRN] 22/02/2025 14:41:50 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.771 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:50.858 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:51.516 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:51.516 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:51.516 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:51.516 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:51.516 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:41:51.516 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.019 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.019 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.019 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.019 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.048 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.103 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.170 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.178 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.198 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.344 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.344 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.344 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.344 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.344 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.344 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.344 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.362 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.366 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.366 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.366 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.366 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.366 -03:00 [WRN] 22/02/2025 14:48:35 not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.366 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:35.440 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:36.036 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:36.036 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:36.036 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:36.036 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:36.036 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 14:48:36.036 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.

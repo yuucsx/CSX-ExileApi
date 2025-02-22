@@ -1,0 +1,21 @@
+{
+  "FontSize": {
+    "Value": 15
+  },
+  "FontColor": "d8d8d8ff",
+  "BackgroundColor": "000000ff",
+  "BorderColor": "926b2bff",
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "UpdateInterval": {
+    "Value": 1000
+  }
+}

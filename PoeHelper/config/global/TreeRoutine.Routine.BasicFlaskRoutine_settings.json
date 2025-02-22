@@ -1,0 +1,548 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Debug": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "EnableMissingConfigEntryNotifications": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BossingMode": false,
+  "TicksPerSecond": {
+    "Value": 10
+  },
+  "EnableInHideout": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "AutoFlask": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ForceBubblingAsInstantOnly": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ForcePanickedAsInstantOnly": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "HPPotion": {
+    "Value": 65
+  },
+  "InstantHPPotion": {
+    "Value": 50
+  },
+  "AllocatedSupremeDecadence": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ESPotion": {
+    "Value": 65
+  },
+  "InstantESPotion": {
+    "Value": 50
+  },
+  "DisableLifeSecUse": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ManaPotion": {
+    "Value": 65
+  },
+  "InstantManaPotion": {
+    "Value": 35
+  },
+  "MinManaFlask": {
+    "Value": 50
+  },
+  "RemAilment": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RemFrozen": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RemBurning": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RemShocked": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RemCurse": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RemPoison": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RemBleed": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CorruptCount": {
+    "Value": 10
+  },
+  "SpeedFlaskEnable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "QuicksilverFlaskEnable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "SilverFlaskEnable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "MinMsPlayerMoving": {
+    "Value": 1500
+  },
+  "UseWhileCycloning": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CycloningMonsterCount": {
+    "Value": 0
+  },
+  "CycloningMonsterDistance": {
+    "Value": 400
+  },
+  "CycloningCountNormalMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CycloningCountMagicMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CycloningCountRareMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CycloningCountUniqueMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CycloningIgnoreFullHealthUniqueMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DefensiveFlaskEnable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "HPPercentDefensive": {
+    "Value": 50
+  },
+  "ESPercentDefensive": {
+    "Value": 50
+  },
+  "OffensiveAsDefensiveEnable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DefensiveMonsterCount": {
+    "Value": 0
+  },
+  "DefensiveMonsterDistance": {
+    "Value": 400
+  },
+  "DefensiveCountNormalMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DefensiveCountRareMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DefensiveCountMagicMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DefensiveCountUniqueMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DefensiveIgnoreFullHealthUniqueMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BossingModeToggle": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BossingModeHotkey": {
+    "Value": 84
+  },
+  "OffensiveFlaskEnable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "HPPercentOffensive": {
+    "Value": 50
+  },
+  "ESPercentOffensive": {
+    "Value": 50
+  },
+  "OffensiveMonsterCount": {
+    "Value": 0
+  },
+  "OffensiveMonsterDistance": {
+    "Value": 400
+  },
+  "OffensiveCountNormalMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "OffensiveCountRareMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "OffensiveCountMagicMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "OffensiveCountUniqueMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "OffensiveIgnoreFullHealthUniqueMonsters": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "FlaskSettings": [
+    {
+      "Hotkey": {
+        "Value": 49
+      },
+      "Enabled": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 50
+      },
+      "Enabled": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 51
+      },
+      "Enabled": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 52
+      },
+      "Enabled": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 53
+      },
+      "Enabled": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ReservedUses": {
+        "Value": 0
+      }
+    }
+  ]
+}

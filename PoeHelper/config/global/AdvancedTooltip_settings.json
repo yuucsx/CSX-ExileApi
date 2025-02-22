@@ -1,0 +1,113 @@
+{
+  "ItemLevel": {
+    "Enable": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "TextSize": {
+      "Value": 16
+    },
+    "TextColor": "ffff00ff",
+    "BackgroundColor": "000000e6"
+  },
+  "ItemMods": {
+    "Enable": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "EnableFastMods": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "EnableFastModsTags": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "ShowModNames": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "StartStatsOnSameLine": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "BackgroundColor": "000000dc",
+    "PrefixColor": "8888ffff",
+    "SuffixColor": "00ced1ff",
+    "T1Color": "ff00ffff",
+    "T2Color": "ffff00ff",
+    "T3Color": "00ff00ff"
+  },
+  "WeaponDps": {
+    "Enable": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "TextColor": "fec076ff",
+    "DpsTextSize": {
+      "Value": 16
+    },
+    "DpsNameTextSize": {
+      "Value": 13
+    },
+    "BackgroundColor": "ffff00ff",
+    "DmgFireColor": "960000ff",
+    "DmgColdColor": "366492ff",
+    "DmgLightningColor": "ffd700ff",
+    "DmgChaosColor": "d01f90ff",
+    "PhysicalDamageColor": "ffffffff",
+    "ElementalDamageColor": "00ffffff"
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

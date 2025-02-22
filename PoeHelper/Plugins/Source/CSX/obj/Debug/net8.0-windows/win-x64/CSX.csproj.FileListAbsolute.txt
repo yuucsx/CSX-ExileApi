@@ -1,0 +1,11 @@
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Temp\CSX\CSX.deps.json
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Temp\CSX\CSX.dll
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\CSX.csproj.AssemblyReference.cache
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\CSX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\CSX.AssemblyInfoInputs.cache
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\CSX.AssemblyInfo.cs
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\CSX.csproj.CoreCompileInputs.cache
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\CSX.sourcelink.json
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\CSX.dll
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\refint\CSX.dll
+C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\CSX\obj\Debug\net8.0-windows\win-x64\ref\CSX.dll

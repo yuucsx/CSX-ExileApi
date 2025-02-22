@@ -1,0 +1,41 @@
+{
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ReturnMouseToStart": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "AddPingIntoDelay": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Run": {
+    "Value": 65
+  },
+  "DelayBetweenEachGemClick": {
+    "Value": 20
+  },
+  "DelayBetweenEachMouseEvent": {
+    "Value": 20
+  }
+}

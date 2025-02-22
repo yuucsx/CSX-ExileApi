@@ -1,0 +1,957 @@
+{
+  "autoMapTabber": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "debugMode": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "doedreEffigyEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoPilotEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoPilotGrace": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoPilotLeader": {
+    "Value": "gilsogilsogilso"
+  },
+  "autoPilotDashEnabled": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoPilotCloseFollow": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoPilotDashKey": {
+    "Value": 2
+  },
+  "autoPilotMoveKey": {
+    "Value": 1
+  },
+  "autoPilotToggleKey": {
+    "Value": 48
+  },
+  "autoPilotTakeWaypoints": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoPilotRandomClickOffset": {
+    "Value": 10
+  },
+  "autoPilotInputFrequency": {
+    "Value": 1
+  },
+  "autoPilotPathfindingNodeDistance": {
+    "Value": 100
+  },
+  "autoPilotClearPathDistance": {
+    "Value": 100
+  },
+  "autoQuitEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoQuitHotkeyEnabled": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "forcedAutoQuit": {
+    "Value": 115
+  },
+  "hppQuit": {
+    "Value": 35
+  },
+  "espQuit": {
+    "Value": 0
+  },
+  "autoQuitGuardian": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "guardianHpp": {
+    "Value": 35
+  },
+  "cwdtEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "rangedTriggerEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "rangedTriggerPowerCharge": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "rangedTriggerMouseRange": {
+    "Value": 70
+  },
+  "rangedTriggerTargetRange": {
+    "Value": 400
+  },
+  "rangedTriggerCooldown": {
+    "Value": 400
+  },
+  "convocationEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "convocationHpp": {
+    "Value": 35
+  },
+  "convocationMobRange": {
+    "Value": 300
+  },
+  "convocationMinnionRange": {
+    "Value": 300
+  },
+  "convocationMinnionPct": {
+    "Value": 50
+  },
+  "convocationAvoidUniqueRange": {
+    "Value": 1000
+  },
+  "phaserunEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "phaserunUseLifeTap": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "moltenShellEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "moltenShellRange": {
+    "Value": 550
+  },
+  "moltenShellHpp": {
+    "Value": 100
+  },
+  "moltenShellEsp": {
+    "Value": 0
+  },
+  "moltenShellMinAny": {
+    "Value": 1
+  },
+  "moltenShellMinRare": {
+    "Value": 0
+  },
+  "moltenShellMinUnique": {
+    "Value": 0
+  },
+  "auraBlessingEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "auraBlessingWitheringStep": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "auraBlessingRange": {
+    "Value": 550
+  },
+  "auraBlessingHpp": {
+    "Value": 100
+  },
+  "auraBlessingEsp": {
+    "Value": 0
+  },
+  "auraBlessingMinAny": {
+    "Value": 1
+  },
+  "auraBlessingMinRare": {
+    "Value": 0
+  },
+  "auraBlessingMinUnique": {
+    "Value": 0
+  },
+  "auraBlessingName": {
+    "Value": ""
+  },
+  "auraBlessing": {
+    "Value": ""
+  },
+  "enduringCryEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "enduringCryTriggerRange": {
+    "Value": 1000
+  },
+  "enduringCrySpam": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "enduringCryHealEsp": {
+    "Value": 0
+  },
+  "enduringCryHealHpp": {
+    "Value": 100
+  },
+  "enduringCryMinAny": {
+    "Value": 1
+  },
+  "enduringCryMinRare": {
+    "Value": 0
+  },
+  "enduringCryMinUnique": {
+    "Value": 0
+  },
+  "generalCryEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "generalCryCorpseTriggerRange": {
+    "Value": 550
+  },
+  "generalCryTriggerRange": {
+    "Value": 550
+  },
+  "generalCryMinCorpse": {
+    "Value": 1
+  },
+  "divineIreEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "divineIreStacks": {
+    "Value": 20
+  },
+  "divineIreWaitForInfused": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "delveFlareEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "delveFlareKey": {
+    "Value": 54
+  },
+  "delveFlareDebuffStacks": {
+    "Value": 12
+  },
+  "delveFlareHppBelow": {
+    "Value": 75
+  },
+  "delveFlareEspBelow": {
+    "Value": 0
+  },
+  "vortexEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "vortexFrostbolt": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "vortexRange": {
+    "Value": 300
+  },
+  "vortexMinAny": {
+    "Value": 1
+  },
+  "vortexMinRare": {
+    "Value": 0
+  },
+  "vortexMinUnique": {
+    "Value": 0
+  },
+  "bloodRageEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "bloodRageRange": {
+    "Value": 300
+  },
+  "bloodRageMinAny": {
+    "Value": 1
+  },
+  "bloodRageMinRare": {
+    "Value": 0
+  },
+  "bloodRageMinUnique": {
+    "Value": 0
+  },
+  "offeringsEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "offeringsUseWhileCasting": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "offeringsTriggerRange": {
+    "Value": 600
+  },
+  "offeringsMinAny": {
+    "Value": 1
+  },
+  "offeringsMinRare": {
+    "Value": 0
+  },
+  "offeringsMinUnique": {
+    "Value": 0
+  },
+  "minesEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "minesDelay": {
+    "Value": 1000
+  },
+  "minesMin": {
+    "Value": 1
+  },
+  "minesDetonateRange": {
+    "Value": 50
+  },
+  "autoAttackEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoAttackLeftMouseCheck": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoAttackRange": {
+    "Value": 500
+  },
+  "autoAttackCurseCheck": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoSummonEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoGolemEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoHolyRelictEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoGolemChaosMax": {
+    "Value": 0
+  },
+  "autoGolemFireMax": {
+    "Value": 0
+  },
+  "autoGolemIceMax": {
+    "Value": 0
+  },
+  "autoGolemLightningMax": {
+    "Value": 0
+  },
+  "autoGolemRockMax": {
+    "Value": 0
+  },
+  "autoBoneMax": {
+    "Value": 0
+  },
+  "autoGolemDropBearMax": {
+    "Value": 0
+  },
+  "autoGolemAvoidRange": {
+    "Value": 1000
+  },
+  "autoZombieEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoToxicRainBallistaEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoToxicRainBallistaRange": {
+    "Value": 300
+  },
+  "autoToxicRainBallistaMax": {
+    "Value": 0
+  },
+  "autoToxicRainBallistaMinAny": {
+    "Value": 1
+  },
+  "autoToxicRainBallistaMinRare": {
+    "Value": 0
+  },
+  "autoToxicRainBallistaUnique": {
+    "Value": 0
+  },
+  "autoCurseEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "autoCurseRange": {
+    "Value": 300
+  },
+  "autoCurseCooldown": {
+    "Value": 1000
+  },
+  "autoCurseMinEnemys": {
+    "Value": 5
+  },
+  "bladeVortex": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "bladeVortexRange": {
+    "Value": 300
+  },
+  "bladeVortexCount": {
+    "Value": 10
+  },
+  "plagueBearer": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "plagueBearerRange": {
+    "Value": 300
+  },
+  "plagueBearerMinEnemys": {
+    "Value": 5
+  },
+  "bladeBlast": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "bladeBlastFastMode": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "bladeBlastEntityRange": {
+    "Value": 300
+  },
+  "tempestShieldEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "tempestShieldTriggerRange": {
+    "Value": 1200
+  },
+  "tempestShieldMinAny": {
+    "Value": 1
+  },
+  "tempestShieldMinRare": {
+    "Value": 0
+  },
+  "tempestShieldMinUnique": {
+    "Value": 0
+  },
+  "tempestShieldUseWhileCasting": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "anyVaalEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "anyVaalHpp": {
+    "Value": 35
+  },
+  "anyVaalEsp": {
+    "Value": 0
+  },
+  "anyVaalMpp": {
+    "Value": 0
+  },
+  "anyVaalTriggerRange": {
+    "Value": 500
+  },
+  "anyVaalMinAny": {
+    "Value": 1
+  },
+  "anyVaalMinRare": {
+    "Value": 0
+  },
+  "anyVaalMinUnique": {
+    "Value": 0
+  },
+  "VaalClarityEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "VaalClarityManaPct": {
+    "Value": 0
+  },
+  "customEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "customTriggerRange": {
+    "Value": 896
+  },
+  "customMinAny": {
+    "Value": 0
+  },
+  "customMinRare": {
+    "Value": 0
+  },
+  "customMinUnique": {
+    "Value": 0
+  },
+  "customHpp": {
+    "Value": 100
+  },
+  "customEsp": {
+    "Value": 0
+  },
+  "customCooldown": {
+    "Value": 1609
+  },
+  "customKey": {
+    "Value": 81
+  },
+  "brandRecallEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "brandRecallTriggerRange": {
+    "Value": 500
+  },
+  "brandRecallMinEnemys": {
+    "Value": 1
+  },
+  "brandRecallMinBrands": {
+    "Value": 0
+  },
+  "berserkEnabled": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "berserkMinRage": {
+    "Value": 0
+  },
+  "berserkRange": {
+    "Value": 500
+  },
+  "berserkMinAny": {
+    "Value": 1
+  },
+  "berserkMinRare": {
+    "Value": 0
+  },
+  "berserkMinUnique": {
+    "Value": 0
+  },
+  "inputKey1": {
+    "Value": 4
+  },
+  "inputKey3": {
+    "Value": 81
+  },
+  "inputKey4": {
+    "Value": 87
+  },
+  "inputKey5": {
+    "Value": 69
+  },
+  "inputKey6": {
+    "Value": 82
+  },
+  "inputKey7": {
+    "Value": 84
+  },
+  "inputKey8": {
+    "Value": 187
+  },
+  "inputKey9": {
+    "Value": 98
+  },
+  "inputKey10": {
+    "Value": 219
+  },
+  "inputKey11": {
+    "Value": 100
+  },
+  "inputKey12": {
+    "Value": 101
+  },
+  "inputKeyPickIt": {
+    "Value": 32
+  },
+  "confirm1": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "confirm2": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "confirm3": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "confirm4": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "confirm5": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

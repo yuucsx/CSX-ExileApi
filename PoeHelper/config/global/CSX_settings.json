@@ -1,0 +1,192 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CustomSkill1": {
+    "Enabled": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Key": {
+      "Value": 81
+    },
+    "TriggerRange": {
+      "Value": 628
+    },
+    "MinEnemy": {
+      "Value": 2
+    },
+    "MinAllies": {
+      "Value": 0
+    },
+    "CustomCooldownMs": {
+      "Value": 0
+    },
+    "InternalName": {
+      "Value": "enduring_cry"
+    }
+  },
+  "CustomSkill2": {
+    "Enabled": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Key": {
+      "Value": 87
+    },
+    "TriggerRange": {
+      "Value": 300
+    },
+    "MinEnemy": {
+      "Value": 0
+    },
+    "MinAllies": {
+      "Value": 0
+    },
+    "CustomCooldownMs": {
+      "Value": 0
+    },
+    "InternalName": {
+      "Value": "intimidating_cry"
+    }
+  },
+  "CustomSkill3": {
+    "Enabled": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Key": {
+      "Value": 69
+    },
+    "TriggerRange": {
+      "Value": 300
+    },
+    "MinEnemy": {
+      "Value": 0
+    },
+    "MinAllies": {
+      "Value": 0
+    },
+    "CustomCooldownMs": {
+      "Value": 0
+    },
+    "InternalName": {
+      "Value": "battlemages_cry"
+    }
+  },
+  "CustomSkill4": {
+    "Enabled": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Key": {
+      "Value": 82
+    },
+    "TriggerRange": {
+      "Value": 300
+    },
+    "MinEnemy": {
+      "Value": 0
+    },
+    "MinAllies": {
+      "Value": 0
+    },
+    "CustomCooldownMs": {
+      "Value": 0
+    },
+    "InternalName": {
+      "Value": "seismic_cry"
+    }
+  },
+  "CustomSkill5": {
+    "Enabled": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Key": {
+      "Value": 84
+    },
+    "TriggerRange": {
+      "Value": 2000
+    },
+    "MinEnemy": {
+      "Value": 0
+    },
+    "MinAllies": {
+      "Value": 0
+    },
+    "CustomCooldownMs": {
+      "Value": 0
+    },
+    "InternalName": {
+      "Value": "ancestral_cry"
+    }
+  },
+  "CustomSkill6": {
+    "Enabled": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "Key": {
+      "Value": 0
+    },
+    "TriggerRange": {
+      "Value": 300
+    },
+    "MinEnemy": {
+      "Value": 0
+    },
+    "MinAllies": {
+      "Value": 0
+    },
+    "CustomCooldownMs": {
+      "Value": 0
+    },
+    "InternalName": {
+      "Value": "retaliation_rage_warcry_buff"
+    }
+  }
+}

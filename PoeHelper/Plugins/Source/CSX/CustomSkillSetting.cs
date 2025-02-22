@@ -9,9 +9,9 @@ namespace CSX
         {
             Enabled = new ToggleNode(false);
             Key = new HotkeyNode(Keys.None);
-            TriggerRange = new RangeNode<int>(300, 0, 3000);
-            MinEnemy = new RangeNode<int>(0, 0, 50);
-            MinAllies = new RangeNode<int>(0, 0, 50);
+            TriggerRange = new RangeNode<int>(300, 0, 1000);
+            MinEnemy = new RangeNode<int>(0, 0, 10);
+            MinAllies = new RangeNode<int>(0, 0, 6);
             CustomCooldownMs = new RangeNode<int>(1000, 0, 5000);
             InternalName = new TextNode("");
         }

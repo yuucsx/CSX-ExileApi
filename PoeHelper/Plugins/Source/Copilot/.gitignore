@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/Properties
+/.vs
+/CoPilot.csproj.user
+/CoPilot.csproj
+*.DotSettings.user

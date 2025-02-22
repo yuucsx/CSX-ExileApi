@@ -1,0 +1,117 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "LimitCoroutine": {
+    "Value": 50
+  },
+  "Space": {
+    "Value": 20
+  },
+  "X": {
+    "Value": 0
+  },
+  "Y": {
+    "Value": 0
+  },
+  "Width": {
+    "Value": 100
+  },
+  "Height": {
+    "Value": 20
+  },
+  "BorderColor": "000000ff",
+  "ImguiRenderText": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "RefreshEntities": {},
+  "StartTextX": {
+    "Value": 0
+  },
+  "StartTextY": {
+    "Value": 0
+  },
+  "NormalMonster": "ff0000ff",
+  "MagicMonster": "0000cdff",
+  "RareMonster": "ffff00ff",
+  "UniqueMonster": "ffa500ff",
+  "ShowWhite": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ShowMagic": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ShowRare": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ShowUnique": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "TextColor": "ffffffff",
+  "UseImguiForDraw": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ImguiDrawBg": "000000ff",
+  "Test": {
+    "Value": 1.0
+  },
+  "MultiThreading": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

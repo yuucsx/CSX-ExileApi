@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX - Copia MAIN COmpilar.csproj": {}
+  },
+  "projects": {
+    "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Misa\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\Misa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
+                "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low"
+        },
+        "packagesConfigPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\packages.config"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj",
+        "projectName": "GameOffsets",
+        "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX - Copia MAIN COmpilar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX - Copia MAIN COmpilar.csproj",
+        "projectName": "CSX - Copia MAIN COmpilar",
+        "projectPath": "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX - Copia MAIN COmpilar.csproj",
+        "packagesPath": "C:\\Users\\Misa\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Misa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj": {
+                "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.90.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "SharpDX.Mathematics": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

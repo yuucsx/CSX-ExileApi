@@ -1,0 +1,31 @@
+{
+  "forcedAutoQuit": {
+    "Value": 115
+  },
+  "percentHPQuit": {
+    "Value": 35.0
+  },
+  "percentESQuit": {
+    "Value": 35.0
+  },
+  "emptyHPFlasks": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BloodRage": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BloodRageKey": {
+    "Value": 69
+  },
+  "BloodRageMaxHP": {
+    "Value": 100
+  },
+  "BloodRageMaxMP": {
+    "Value": 100
+  },
+  "SteelSkin": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "SteelSkinKey": {
+    "Value": 87
+  },
+  "SteelSkinMaxHP": {
+    "Value": 90
+  },
+  "ImmortalCall": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ImmortalCallKey": {
+    "Value": 84
+  },
+  "ImmortalCallMaxHP": {
+    "Value": 50
+  },
+  "MoltenShell": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "MoltenShellKey": {
+    "Value": 17
+  },
+  "MoltenShellMaxHP": {
+    "Value": 50
+  },
+  "PhaseRun": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "PhaseRunKey": {
+    "Value": 219
+  },
+  "PhaseRunMaxHP": {
+    "Value": 100
+  },
+  "PhaseRunMinMoveTime": {
+    "Value": 0
+  },
+  "PhaseRunMinBVStacks": {
+    "Value": 0
+  },
+  "WitheringStep": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "WitheringStepKey": {
+    "Value": 82
+  },
+  "WitheringStepMaxHP": {
+    "Value": 90
+  },
+  "WitheringStepMinMoveTime": {
+    "Value": 0
+  },
+  "Berserk": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BerserkKey": {
+    "Value": 82
+  },
+  "BerserkMinRage": {
+    "Value": 5
+  },
+  "BerserkNearbyEnemiesCount": {
+    "Value": 1
+  },
+  "BerserkUseOnUniqueBoss": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ArcaneCloak": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ArcaneCloakKey": {
+    "Value": 82
+  },
+  "ArcaneCloakMaxHP": {
+    "Value": 90
+  },
+  "Warcry": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "WarcryKey": {
+    "Value": 82
+  },
+  "WarCryMinRage": {
+    "Value": 0
+  },
+  "WarCryMaxRage": {
+    "Value": 24
+  },
+  "WarcryNearbyEnemiesCount": {
+    "Value": 1
+  },
+  "WarcryUseOnUniqueBoss": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "WarcryUseAlways": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BladeFlurry": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BladeFlurryMinCharges": {
+    "Value": 6
+  },
+  "BladeFlurryUseLeftClick": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "BladeFlurryWaitForInfused": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ScourgeArrow": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ScourgeArrowMinCharges": {
+    "Value": 5
+  },
+  "ScourgeArrowUseLeftClick": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ScourgeArrowWaitForInfused": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "MiscSettings": null,
+  "RequireMinMonsterCount": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "NearbyMonsterCount": {
+    "Value": 1
+  },
+  "NearbyMonsterMaxDistance": {
+    "Value": 500
+  },
+  "DisableInHideout": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Debug": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "SilenceErrors": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

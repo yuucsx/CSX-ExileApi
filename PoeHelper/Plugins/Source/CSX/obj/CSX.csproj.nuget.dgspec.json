@@ -4,42 +4,6 @@
     "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj": {}
   },
   "projects": {
-    "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj",
-        "projectName": "Core",
-        "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net48": {
-            "projectReferences": {
-              "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
-                "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
-    "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj",
-        "projectName": "GameOffsets",
-        "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\GameOffsets\\GameOffsets.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
     "C:\\Github\\CSX-ExileApi\\PoeHelper\\Plugins\\Source\\CSX\\CSX.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -67,11 +31,7 @@
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
-            "projectReferences": {
-              "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Github\\CSX-ExileApi\\ExileApi\\Core\\Core.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -83,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -122,7 +81,12 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

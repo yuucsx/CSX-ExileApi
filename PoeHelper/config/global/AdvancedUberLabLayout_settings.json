@@ -1,0 +1,45 @@
+{
+  "CurrentImageDateDay": -1,
+  "ShowImage": true,
+  "LabType": {
+    "Value": null
+  },
+  "AutoLabDetection": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "X": {
+    "Value": 500.0
+  },
+  "Y": {
+    "Value": 0.0
+  },
+  "Transparency": {
+    "Value": 255.0
+  },
+  "Size": {
+    "Value": 100.0
+  },
+  "ToggleDraw": {
+    "Value": 46
+  },
+  "Reload": {
+    "Value": 45
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

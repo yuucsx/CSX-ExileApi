@@ -1,0 +1,267 @@
+{
+  "DrawMonsters": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "ZForText": {
+    "Value": -10.0
+  },
+  "DrawOnlyOnLargeMap": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DrawCachedEntities": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "DrawReplacementsForGameIconsWhenOutOfRange": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "IgnoreFullscreenPanels": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "IgnoreLargePanels": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "CacheBreachEntities": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "IconListRefreshPeriod": {
+    "Value": 100
+  },
+  "AlwaysShownIngameIcons": {
+    "Content": []
+  },
+  "IconsBuilderSettings": {
+    "RunEveryXTicks": {
+      "Value": 10
+    },
+    "LogDebugInformation": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "HidePlayers": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "HideMinions": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "DeliriumText": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "HideBurriedMonsters": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "MonsterRarityNames": {
+      "ShowNormalNames": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ShowMagicNames": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ShowRareNames": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ShowUniqueNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      }
+    },
+    "UseReplacementsForGameIconsWhenOutOfRange": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "UseReplacementsForItemIconsWhenOutOfRange": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "SizeDefaultIcon": 16.0,
+    "SizeNpcIcon": {
+      "Value": 10
+    },
+    "SizeEntityWhiteIcon": {
+      "Value": 10
+    },
+    "SizeEntityMagicIcon": {
+      "Value": 10
+    },
+    "SizeEntityRareIcon": {
+      "Value": 10
+    },
+    "SizeEntityUniqueIcon": {
+      "Value": 10
+    },
+    "SizeEntityProximityMonsterIcon": {
+      "Value": 10
+    },
+    "SizeBreachChestIcon": {
+      "Value": 10
+    },
+    "SizeHeistChestIcon": {
+      "Value": 30
+    },
+    "ExpeditionChestIconSize": {
+      "Value": 30
+    },
+    "SanctumChestIconSize": {
+      "Value": 30
+    },
+    "SanctumGoldIconSize": {
+      "Value": 30
+    },
+    "SizeChestIcon": {
+      "Value": 10
+    },
+    "ShowSmallChest": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "SizeSmallChestIcon": {
+      "Value": 10
+    },
+    "SizeMiscIcon": {
+      "Value": 10
+    },
+    "SizeShrineIcon": {
+      "Value": 10
+    },
+    "CustomIcons": {
+      "Content": []
+    }
+  }
+}
