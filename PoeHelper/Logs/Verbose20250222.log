@@ -2821,3 +2821,492 @@ Path 'constants.characterAttributes', line 21258, position 32.
 2025-02-22 14:49:28.493 -03:00 [INF] Game not found
 2025-02-22 14:49:30.520 -03:00 [INF] Game not found
 2025-02-22 14:49:31.705 -03:00 [INF] =============== Close hud at 22/02/2025 14:49:31 ===============
+2025-02-22 20:19:45.059 -03:00 [INF] =============== Start hud at 22/02/2025 20:19:45 ===============
+2025-02-22 20:19:45.095 -03:00 [INF] PerfTimer =-> Create new offsets (1,6975 ms) Thread #[1]
+2025-02-22 20:19:45.385 -03:00 [INF] PerfTimer =-> Load manual fonts (0,6896 ms) Thread #[1]
+2025-02-22 20:19:45.385 -03:00 [INF] PerfTimer =-> DX11 Load (1,9214 ms) Thread #[1]
+2025-02-22 20:19:46.739 -03:00 [VRB] FileRoot: 7ff690be4dc0
+2025-02-22 20:19:46.740 -03:00 [VRB] AreaChangeCount: 7ff6907b70b4
+2025-02-22 20:19:46.740 -03:00 [VRB] GameStateOffset: 7ff690a70ea8
+2025-02-22 20:19:46.740 -03:00 [VRB] DiagnosticInfoTypeOffset: 7ff68e4aff0f
+2025-02-22 20:19:46.810 -03:00 [INF] PerfTimer =-> Load files from memory (33,7167 ms) Thread #[1]
+2025-02-22 20:19:46.886 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:46.889 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:46.890 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:46.890 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:46.903 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:46.973 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.059 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.072 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.089 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.255 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 20:19:47.259 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 20:19:47.504 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.504 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.504 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.504 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.504 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.504 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.504 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.505 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.509 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.509 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.509 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.509 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.509 -03:00 [WRN] 22/02/2025 20:19:47 not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.510 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:47.591 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:48.943 -03:00 [INF] PerfTimer =-> Preload stats and mods (2132,6159 ms) Thread #[20]
+2025-02-22 20:19:49.991 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:49.991 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:49.991 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:49.991 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:49.991 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:49.991 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 20:19:50.079 -03:00 [INF] PerfTimer =-> Compile and load source plugins (3249,3356 ms) Thread #[22]
+2025-02-22 20:19:50.119 -03:00 [INF] PerfTimer =-> Plugin loader (3292,4571 ms) Thread #[1]
+2025-02-22 20:19:50.151 -03:00 [INF] Pattern: Game State -> : Time: 14,7183 ms. Offset:[800478] Started searching offset with:0
+2025-02-22 20:19:50.151 -03:00 [INF] Pattern: BlackBarSize -> : Time: 97,8126 ms. Offset:[4522007] Started searching offset with:0
+2025-02-22 20:19:50.151 -03:00 [INF] Pattern: Area change -> : Time: 297,5994 ms. Offset:[12418096] Started searching offset with:0
+2025-02-22 20:19:50.151 -03:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 545,7445 ms. Offset:[28383583] Started searching offset with:0
+2025-02-22 20:19:50.151 -03:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 547,2095 ms. Offset:[28383583] Started searching offset with:0
+2025-02-22 20:19:50.151 -03:00 [INF] Pattern: File Root -> : Time: 581,3812 ms. Offset:[30813404] Started searching offset with:0
+2025-02-22 20:19:50.151 -03:00 [INF] Pattern: DiagnosticInfoType -> : Time: 1177,8371 ms. Offset:[0] Started searching offset with:0
+2025-02-22 20:19:50.151 -03:00 [INF] Area refresh triggered
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory AdvancedTooltip loaded in 29 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 5 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory AutoOpen loaded in 4 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory AutoQuit loaded in 2 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 31 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory BuffUtil loaded in 12 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory DevTree loaded in 8 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory DPSMeter loaded in 27 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory EliteBar loaded in 12 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory FullRareSetManager loaded in 8 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory HealthBars loaded in 35 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory HeistIcons loaded in 25 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory HighlightedItems loaded in 24 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory MinimapIcons loaded in 12 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory MiscInformation loaded in 9 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 388 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory PickIt loaded in 33 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory PluginUpdater loaded in 4 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory PreloadAlert loaded in 41 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory Skill DPS loaded in 5 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory SkillGems loaded in 26 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory Stashie loaded in 8 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins from directory XPBar loaded in 3 ms.
+2025-02-22 20:19:50.151 -03:00 [INF] Plugins compiled and loaded in 3132 ms.
+2025-02-22 20:19:50.152 -03:00 [INF] CoPilot -> Initialise time: 0,4166 ms.
+2025-02-22 20:19:50.152 -03:00 [INF] PluginUpdater -> Initialise time: 6,87 ms.
+2025-02-22 20:19:50.152 -03:00 [INF] SkillGems -> Initialise time: 0,2431 ms.
+2025-02-22 20:19:50.152 -03:00 [INF] HUD loaded in 5158,8779 ms.
+2025-02-22 20:19:50.152 -03:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2025-02-22 20:20:02.615 -03:00 [INF] Area refresh triggered
+2025-02-22 20:20:07.821 -03:00 [INF] CSX -> Initialise time: 0,2703 ms.
+2025-02-22 20:21:37.597 -03:00 [INF] Area refresh triggered
+2025-02-22 20:22:56.464 -03:00 [INF] Area refresh triggered
+2025-02-22 20:23:13.331 -03:00 [INF] Area refresh triggered
+2025-02-22 20:26:32.086 -03:00 [INF] Area refresh triggered
+2025-02-22 20:31:28.573 -03:00 [INF] Area refresh triggered
+2025-02-22 20:31:55.116 -03:00 [INF] Area refresh triggered
+2025-02-22 20:33:00.490 -03:00 [INF] Area refresh triggered
+2025-02-22 20:36:27.517 -03:00 [INF] Area refresh triggered
+2025-02-22 20:48:18.296 -03:00 [INF] Area refresh triggered
+2025-02-22 20:49:23.367 -03:00 [ERR] Stats over capped: 8 - 2018B08 - 33655552 Total Stats: 4206944
+2025-02-22 20:49:23.394 -03:00 [ERR] Stats over capped: 8 - 2018B08 - 33655552 Total Stats: 4206944
+2025-02-22 20:49:25.430 -03:00 [ERR] Stats over capped: 8 - 1D008703 - 486573819 Total Stats: 60821727
+2025-02-22 20:49:25.447 -03:00 [ERR] Stats over capped: 8 - 1D008703 - 486573819 Total Stats: 60821727
+2025-02-22 20:49:25.476 -03:00 [ERR] Stats over capped: 8 - 1D008703 - 486573819 Total Stats: 60821727
+2025-02-22 20:49:25.491 -03:00 [ERR] Stats over capped: 8 - 1D008703 - 486573819 Total Stats: 60821727
+2025-02-22 20:49:25.508 -03:00 [ERR] Stats over capped: 8 - 1D008703 - 486573819 Total Stats: 60821727
+2025-02-22 20:49:29.566 -03:00 [ERR] Stats over capped: 8 - 25002E06 - 620768766 Total Stats: 77596095
+2025-02-22 20:49:29.944 -03:00 [ERR] Stats over capped: 8 - 901C702 - 151111418 Total Stats: 18888927
+2025-02-22 20:49:53.891 -03:00 [ERR] Stats over capped: 8 - 1C00DC07 - 469818367 Total Stats: 58727295
+2025-02-22 20:49:53.909 -03:00 [ERR] Stats over capped: 8 - 1C00DC07 - 469818367 Total Stats: 58727295
+2025-02-22 20:49:56.400 -03:00 [ERR] Stats over capped: 8 - D01F006 - 218230782 Total Stats: 27278847
+2025-02-22 20:49:58.006 -03:00 [ERR] Stats over capped: 8 - 901EC04 - 151120892 Total Stats: 18890111
+2025-02-22 20:49:58.028 -03:00 [ERR] Stats over capped: 8 - 4027D02 - 67271930 Total Stats: 8408991
+2025-02-22 20:49:58.042 -03:00 [ERR] Stats over capped: 8 - 4027D02 - 67271930 Total Stats: 8408991
+2025-02-22 20:50:01.896 -03:00 [ERR] Stats over capped: 8 - A029C08 - 167943168 Total Stats: 20992896
+2025-02-22 20:50:06.553 -03:00 [ERR] Stats over capped: 8 - 4026303 - 67265275 Total Stats: 8408159
+2025-02-22 20:50:06.589 -03:00 [ERR] Stats over capped: 8 - 4026303 - 67265275 Total Stats: 8408159
+2025-02-22 20:50:06.612 -03:00 [ERR] Stats over capped: 8 - 4026303 - 67265275 Total Stats: 8408159
+2025-02-22 20:50:13.611 -03:00 [ERR] Stats over capped: 8 - 702DB07 - 117627647 Total Stats: 14703455
+2025-02-22 20:50:13.628 -03:00 [ERR] Stats over capped: 8 - 702DB07 - 117627647 Total Stats: 14703455
+2025-02-22 20:50:13.647 -03:00 [ERR] Stats over capped: 8 - 702DB07 - 117627647 Total Stats: 14703455
+2025-02-22 20:50:14.041 -03:00 [ERR] Stats over capped: 8 - 10029901 - 268605689 Total Stats: 33575711
+2025-02-22 20:50:20.054 -03:00 [ERR] Stats over capped: 8 - 12022302 - 302129914 Total Stats: 37766239
+2025-02-22 20:51:01.801 -03:00 [ERR] Stats over capped: 8 - 29019408 - 687969280 Total Stats: 85996160
+2025-02-22 20:51:01.812 -03:00 [ERR] Stats over capped: 8 - 29019408 - 687969280 Total Stats: 85996160
+2025-02-22 20:51:01.830 -03:00 [ERR] Stats over capped: 8 - 29019408 - 687969280 Total Stats: 85996160
+2025-02-22 20:51:01.852 -03:00 [ERR] Stats over capped: 8 - 29019408 - 687969280 Total Stats: 85996160
+2025-02-22 20:51:01.864 -03:00 [ERR] Stats over capped: 8 - 29019408 - 687969280 Total Stats: 85996160
+2025-02-22 20:51:01.882 -03:00 [ERR] Stats over capped: 8 - 29019408 - 687969280 Total Stats: 85996160
+2025-02-22 20:51:02.774 -03:00 [ERR] Stats over capped: 8 - 1D027A03 - 486701563 Total Stats: 60837695
+2025-02-22 20:51:02.800 -03:00 [ERR] Stats over capped: 8 - 1D027A03 - 486701563 Total Stats: 60837695
+2025-02-22 20:51:02.846 -03:00 [ERR] Stats over capped: 8 - 4100B206 - 1090564606 Total Stats: 136320575
+2025-02-22 20:51:48.092 -03:00 [ERR] Stats over capped: 8 - 4D00A301 - 1291887353 Total Stats: 161485919
+2025-02-22 20:51:52.872 -03:00 [ERR] Stats over capped: 8 - 3A012807 - 973154303 Total Stats: 121644287
+2025-02-22 20:52:02.797 -03:00 [ERR] Stats over capped: 8 - 28005503 - 671110395 Total Stats: 83888799
+2025-02-22 20:52:02.815 -03:00 [ERR] Stats over capped: 8 - 28005503 - 671110395 Total Stats: 83888799
+2025-02-22 20:52:02.833 -03:00 [ERR] Stats over capped: 8 - 28005503 - 671110395 Total Stats: 83888799
+2025-02-22 20:52:02.849 -03:00 [ERR] Stats over capped: 8 - 28005503 - 671110395 Total Stats: 83888799
+2025-02-22 20:52:04.024 -03:00 [ERR] Stats over capped: 8 - 3F00AA03 - 1057008123 Total Stats: 132126015
+2025-02-22 20:52:04.045 -03:00 [ERR] Stats over capped: 8 - 3F00AA03 - 1057008123 Total Stats: 132126015
+2025-02-22 20:52:04.058 -03:00 [ERR] Stats over capped: 8 - 3F00AA03 - 1057008123 Total Stats: 132126015
+2025-02-22 20:52:04.075 -03:00 [ERR] Stats over capped: 8 - 3F00AA03 - 1057008123 Total Stats: 132126015
+2025-02-22 20:52:04.094 -03:00 [ERR] Stats over capped: 8 - 3F00AA03 - 1057008123 Total Stats: 132126015
+2025-02-22 20:52:04.677 -03:00 [ERR] Stats over capped: 8 - D02AE03 - 218279419 Total Stats: 27284927
+2025-02-22 20:52:04.703 -03:00 [ERR] Stats over capped: 8 - D02AE03 - 218279419 Total Stats: 27284927
+2025-02-22 20:52:04.727 -03:00 [ERR] Stats over capped: 8 - D02AE03 - 218279419 Total Stats: 27284927
+2025-02-22 20:52:04.749 -03:00 [ERR] Stats over capped: 8 - D02AE03 - 218279419 Total Stats: 27284927
+2025-02-22 20:52:04.768 -03:00 [ERR] Stats over capped: 8 - D02AE03 - 218279419 Total Stats: 27284927
+2025-02-22 20:52:04.782 -03:00 [ERR] Stats over capped: 8 - D02AE03 - 218279419 Total Stats: 27284927
+2025-02-22 20:52:04.814 -03:00 [ERR] Stats over capped: 8 - D02AE03 - 218279419 Total Stats: 27284927
+2025-02-22 20:52:06.438 -03:00 [ERR] Stats over capped: 8 - 50012708 - 1342252800 Total Stats: 167781600
+2025-02-22 20:52:06.460 -03:00 [ERR] Stats over capped: 8 - 50012708 - 1342252800 Total Stats: 167781600
+2025-02-22 20:52:06.473 -03:00 [ERR] Stats over capped: 8 - 50012708 - 1342252800 Total Stats: 167781600
+2025-02-22 20:52:06.491 -03:00 [ERR] Stats over capped: 8 - 50012708 - 1342252800 Total Stats: 167781600
+2025-02-22 20:52:08.029 -03:00 [ERR] Stats over capped: 8 - 4A012608 - 1241589248 Total Stats: 155198656
+2025-02-22 20:52:08.033 -03:00 [ERR] Stats over capped: 8 - 4A012608 - 1241589248 Total Stats: 155198656
+2025-02-22 20:52:08.064 -03:00 [ERR] Stats over capped: 8 - 4A012608 - 1241589248 Total Stats: 155198656
+2025-02-22 20:52:08.091 -03:00 [ERR] Stats over capped: 8 - 4A012608 - 1241589248 Total Stats: 155198656
+2025-02-22 20:52:09.276 -03:00 [ERR] Stats over capped: 8 - 53008502 - 1392542970 Total Stats: 174067871
+2025-02-22 20:52:09.302 -03:00 [ERR] Stats over capped: 8 - 53008502 - 1392542970 Total Stats: 174067871
+2025-02-22 20:52:09.315 -03:00 [ERR] Stats over capped: 8 - 53008502 - 1392542970 Total Stats: 174067871
+2025-02-22 20:52:10.794 -03:00 [ERR] Stats over capped: 8 - 39022701 - 956442361 Total Stats: 119555295
+2025-02-22 20:52:10.820 -03:00 [ERR] Stats over capped: 8 - 39022701 - 956442361 Total Stats: 119555295
+2025-02-22 20:52:10.835 -03:00 [ERR] Stats over capped: 8 - 39022701 - 956442361 Total Stats: 119555295
+2025-02-22 20:52:12.551 -03:00 [ERR] Stats over capped: 8 - 3E006E02 - 1040215546 Total Stats: 130026943
+2025-02-22 20:52:12.578 -03:00 [ERR] Stats over capped: 8 - 3E006E02 - 1040215546 Total Stats: 130026943
+2025-02-22 20:52:24.764 -03:00 [ERR] Stats over capped: 8 - 2A026D06 - 704802046 Total Stats: 88100255
+2025-02-22 20:52:24.781 -03:00 [ERR] Stats over capped: 8 - 2A026D06 - 704802046 Total Stats: 88100255
+2025-02-22 20:52:24.799 -03:00 [ERR] Stats over capped: 8 - 2A026D06 - 704802046 Total Stats: 88100255
+2025-02-22 20:52:24.817 -03:00 [ERR] Stats over capped: 8 - 2A026D06 - 704802046 Total Stats: 88100255
+2025-02-22 20:52:28.520 -03:00 [ERR] Stats over capped: 8 - 6801AE08 - 1744940544 Total Stats: 218117568
+2025-02-22 20:52:28.533 -03:00 [ERR] Stats over capped: 8 - 6801AE08 - 1744940544 Total Stats: 218117568
+2025-02-22 20:52:28.550 -03:00 [ERR] Stats over capped: 8 - 6801AE08 - 1744940544 Total Stats: 218117568
+2025-02-22 20:52:28.570 -03:00 [ERR] Stats over capped: 8 - 6801AE08 - 1744940544 Total Stats: 218117568
+2025-02-22 20:52:28.586 -03:00 [ERR] Stats over capped: 8 - 6801AE08 - 1744940544 Total Stats: 218117568
+2025-02-22 20:52:31.750 -03:00 [ERR] Stats over capped: 8 - 35017F03 - 889290491 Total Stats: 111161311
+2025-02-22 20:52:31.764 -03:00 [ERR] Stats over capped: 8 - 35017F03 - 889290491 Total Stats: 111161311
+2025-02-22 20:53:20.549 -03:00 [INF] Area refresh triggered
+2025-02-22 20:53:58.140 -03:00 [INF] Area refresh triggered
+2025-02-22 20:54:42.707 -03:00 [INF] Area refresh triggered
+2025-02-22 20:55:55.150 -03:00 [INF] Area refresh triggered
+2025-02-22 20:56:32.785 -03:00 [ERR] Stats over capped: 8 - 3F028C08 - 1057131520 Total Stats: 132141440
+2025-02-22 20:56:32.803 -03:00 [ERR] Stats over capped: 8 - 3F028C08 - 1057131520 Total Stats: 132141440
+2025-02-22 20:56:40.878 -03:00 [ERR] Stats over capped: 8 - 5500B507 - 1426109695 Total Stats: 178263711
+2025-02-22 20:56:40.902 -03:00 [ERR] Stats over capped: 8 - 5500B507 - 1426109695 Total Stats: 178263711
+2025-02-22 20:56:40.920 -03:00 [ERR] Stats over capped: 8 - 5500B507 - 1426109695 Total Stats: 178263711
+2025-02-22 20:56:40.936 -03:00 [ERR] Stats over capped: 8 - 5500B507 - 1426109695 Total Stats: 178263711
+2025-02-22 20:56:40.969 -03:00 [ERR] Stats over capped: 8 - 7100FB01 - 1895889657 Total Stats: 236986207
+2025-02-22 20:56:40.987 -03:00 [ERR] Stats over capped: 8 - 7100FB01 - 1895889657 Total Stats: 236986207
+2025-02-22 20:56:43.849 -03:00 [ERR] Stats over capped: 8 - 7C027302 - 2080535290 Total Stats: 260066911
+2025-02-22 20:56:43.864 -03:00 [ERR] Stats over capped: 8 - 7C027302 - 2080535290 Total Stats: 260066911
+2025-02-22 20:56:57.789 -03:00 [ERR] Stats over capped: 8 - 6301B205 - 1661055485 Total Stats: 207631935
+2025-02-22 20:56:57.808 -03:00 [ERR] Stats over capped: 8 - 99001401 - 2566919161 Total Stats: 320864895
+2025-02-22 20:56:57.825 -03:00 [ERR] Stats over capped: 8 - 99001401 - 2566919161 Total Stats: 320864895
+2025-02-22 20:56:57.847 -03:00 [ERR] Stats over capped: 8 - 99001401 - 2566919161 Total Stats: 320864895
+2025-02-22 20:56:57.860 -03:00 [ERR] Stats over capped: 8 - 99001401 - 2566919161 Total Stats: 320864895
+2025-02-22 20:56:57.876 -03:00 [ERR] Stats over capped: 8 - 99001401 - 2566919161 Total Stats: 320864895
+2025-02-22 20:57:03.569 -03:00 [ERR] Stats over capped: 8 - 7202F703 - 1912796923 Total Stats: 239099615
+2025-02-22 20:57:03.584 -03:00 [ERR] Stats over capped: 8 - 7202F703 - 1912796923 Total Stats: 239099615
+2025-02-22 20:57:03.812 -03:00 [ERR] Stats over capped: 8 - 6501D008 - 1694617600 Total Stats: 211827200
+2025-02-22 20:57:03.829 -03:00 [ERR] Stats over capped: 8 - 6501D008 - 1694617600 Total Stats: 211827200
+2025-02-22 20:57:03.847 -03:00 [ERR] Stats over capped: 8 - 6501D008 - 1694617600 Total Stats: 211827200
+2025-02-22 20:57:03.865 -03:00 [ERR] Stats over capped: 8 - 6501D008 - 1694617600 Total Stats: 211827200
+2025-02-22 20:57:59.435 -03:00 [ERR] Stats over capped: 8 - BA007008 - 3120590848 Total Stats: 390073856
+2025-02-22 20:57:59.449 -03:00 [ERR] Stats over capped: 8 - BA007008 - 3120590848 Total Stats: 390073856
+2025-02-22 20:57:59.489 -03:00 [ERR] Stats over capped: 8 - 77001703 - 1996494587 Total Stats: 249561823
+2025-02-22 20:57:59.502 -03:00 [ERR] Stats over capped: 8 - 77001703 - 1996494587 Total Stats: 249561823
+2025-02-22 20:57:59.520 -03:00 [ERR] Stats over capped: 8 - 77001703 - 1996494587 Total Stats: 249561823
+2025-02-22 20:57:59.545 -03:00 [ERR] Stats over capped: 8 - 77001703 - 1996494587 Total Stats: 249561823
+2025-02-22 20:57:59.556 -03:00 [ERR] Stats over capped: 8 - 77001703 - 1996494587 Total Stats: 249561823
+2025-02-22 20:57:59.577 -03:00 [ERR] Stats over capped: 8 - 77001703 - 1996494587 Total Stats: 249561823
+2025-02-22 20:57:59.590 -03:00 [ERR] Stats over capped: 8 - 77001703 - 1996494587 Total Stats: 249561823
+2025-02-22 20:57:59.637 -03:00 [ERR] Stats over capped: 8 - 6F01CA05 - 1862388221 Total Stats: 232798527
+2025-02-22 20:58:01.334 -03:00 [ERR] Unable to process 73 entity candidate addresses due to the configured limit of 10000
+2025-02-22 20:58:01.334 -03:00 [ERR] Something wrong we parse 2369 when expect 924
+2025-02-22 20:58:01.408 -03:00 [ERR] Stats over capped: 8 - 85029604 - 2231539196 Total Stats: 278942399
+2025-02-22 20:58:01.425 -03:00 [ERR] Stats over capped: 8 - 85029604 - 2231539196 Total Stats: 278942399
+2025-02-22 20:58:01.445 -03:00 [ERR] Stats over capped: 8 - 85029604 - 2231539196 Total Stats: 278942399
+2025-02-22 20:58:01.458 -03:00 [ERR] Stats over capped: 8 - 85029604 - 2231539196 Total Stats: 278942399
+2025-02-22 20:58:02.064 -03:00 [ERR] Stats over capped: 8 - 7B00FF02 - 2063662842 Total Stats: 257957855
+2025-02-22 20:58:02.080 -03:00 [ERR] Stats over capped: 8 - 65013702 - 1694578426 Total Stats: 211822303
+2025-02-22 20:58:02.119 -03:00 [ERR] Stats over capped: 8 - 65013702 - 1694578426 Total Stats: 211822303
+2025-02-22 20:58:02.141 -03:00 [ERR] Stats over capped: 8 - 65013702 - 1694578426 Total Stats: 211822303
+2025-02-22 20:58:03.556 -03:00 [ERR] Stats over capped: 8 - 63003905 - 1660958973 Total Stats: 207619871
+2025-02-22 20:58:03.570 -03:00 [ERR] Stats over capped: 8 - 63003905 - 1660958973 Total Stats: 207619871
+2025-02-22 20:58:03.588 -03:00 [ERR] Stats over capped: 8 - 63003905 - 1660958973 Total Stats: 207619871
+2025-02-22 20:58:03.605 -03:00 [ERR] Stats over capped: 8 - 63003905 - 1660958973 Total Stats: 207619871
+2025-02-22 20:58:05.756 -03:00 [ERR] Stats over capped: 8 - 5C01B906 - 1543616766 Total Stats: 192952095
+2025-02-22 20:58:05.774 -03:00 [ERR] Stats over capped: 8 - 5C01B906 - 1543616766 Total Stats: 192952095
+2025-02-22 20:58:13.928 -03:00 [ERR] Stats over capped: 8 - 8502F404 - 2231563260 Total Stats: 278945407
+2025-02-22 20:58:13.947 -03:00 [ERR] Stats over capped: 8 - 8502F404 - 2231563260 Total Stats: 278945407
+2025-02-22 20:58:13.965 -03:00 [ERR] Stats over capped: 8 - 8502F404 - 2231563260 Total Stats: 278945407
+2025-02-22 20:58:13.982 -03:00 [ERR] Stats over capped: 8 - 8502F404 - 2231563260 Total Stats: 278945407
+2025-02-22 20:58:22.910 -03:00 [ERR] Stats over capped: 8 - 5A024D06 - 1510100222 Total Stats: 188762527
+2025-02-22 20:58:22.928 -03:00 [ERR] Stats over capped: 8 - 5A024D06 - 1510100222 Total Stats: 188762527
+2025-02-22 20:58:27.713 -03:00 [ERR] Stats over capped: 8 - 45007806 - 1157658622 Total Stats: 144707327
+2025-02-22 20:58:34.977 -03:00 [ERR] Stats over capped: 8 - F2007007 - 4060114943 Total Stats: 507514367
+2025-02-22 20:58:34.994 -03:00 [ERR] Stats over capped: 8 - F2007007 - 4060114943 Total Stats: 507514367
+2025-02-22 20:58:35.012 -03:00 [ERR] Stats over capped: 8 - F2007007 - 4060114943 Total Stats: 507514367
+2025-02-22 20:59:07.759 -03:00 [ERR] Stats over capped: 8 - AA01F701 - 2852255481 Total Stats: 356531935
+2025-02-22 20:59:21.749 -03:00 [ERR] Stats over capped: 8 - D7014C07 - 3607186431 Total Stats: 450898303
+2025-02-22 20:59:21.776 -03:00 [ERR] Stats over capped: 8 - D7014C07 - 3607186431 Total Stats: 450898303
+2025-02-22 20:59:21.789 -03:00 [ERR] Stats over capped: 8 - D7014C07 - 3607186431 Total Stats: 450898303
+2025-02-22 20:59:26.240 -03:00 [ERR] Stats over capped: 8 - CC002102 - 3422560506 Total Stats: 427820063
+2025-02-22 20:59:26.252 -03:00 [ERR] Stats over capped: 8 - CC002102 - 3422560506 Total Stats: 427820063
+2025-02-22 20:59:26.272 -03:00 [ERR] Stats over capped: 8 - CC002102 - 3422560506 Total Stats: 427820063
+2025-02-22 20:59:26.292 -03:00 [ERR] Stats over capped: 8 - CC002102 - 3422560506 Total Stats: 427820063
+2025-02-22 20:59:26.455 -03:00 [ERR] Stats over capped: 8 - 502D405 - 84071421 Total Stats: 10508927
+2025-02-22 20:59:30.364 -03:00 [ERR] Stats over capped: 8 - 1A01EC06 - 436333566 Total Stats: 54541695
+2025-02-22 20:59:30.391 -03:00 [ERR] Stats over capped: 8 - 1A01EC06 - 436333566 Total Stats: 54541695
+2025-02-22 20:59:30.405 -03:00 [ERR] Stats over capped: 8 - 1A01EC06 - 436333566 Total Stats: 54541695
+2025-02-22 20:59:36.862 -03:00 [ERR] Stats over capped: 8 - 1000E305 - 268493565 Total Stats: 33561695
+2025-02-22 20:59:36.883 -03:00 [ERR] Stats over capped: 8 - 702D504 - 117626108 Total Stats: 14703263
+2025-02-22 20:59:37.877 -03:00 [ERR] Stats over capped: 8 - 7301A301 - 1929487097 Total Stats: 241185887
+2025-02-22 20:59:37.894 -03:00 [ERR] Stats over capped: 8 - 7301A301 - 1929487097 Total Stats: 241185887
+2025-02-22 20:59:37.911 -03:00 [ERR] Stats over capped: 8 - 7301A301 - 1929487097 Total Stats: 241185887
+2025-02-22 20:59:37.929 -03:00 [ERR] Stats over capped: 8 - 7301A301 - 1929487097 Total Stats: 241185887
+2025-02-22 20:59:37.946 -03:00 [ERR] Stats over capped: 8 - 7301A301 - 1929487097 Total Stats: 241185887
+2025-02-22 20:59:37.982 -03:00 [ERR] Stats over capped: 8 - 6D028603 - 1828881915 Total Stats: 228610239
+2025-02-22 20:59:37.999 -03:00 [ERR] Stats over capped: 8 - 6D028603 - 1828881915 Total Stats: 228610239
+2025-02-22 21:00:36.346 -03:00 [INF] Area refresh triggered
+2025-02-22 21:00:46.324 -03:00 [INF] Area refresh triggered
+2025-02-22 21:01:25.290 -03:00 [INF] Area refresh triggered
+2025-02-22 21:04:39.567 -03:00 [INF] Area refresh triggered
+2025-02-22 21:05:12.677 -03:00 [ERR] Stats over capped: 8 - C2001C04 - 3254787068 Total Stats: 406848383
+2025-02-22 21:05:13.357 -03:00 [ERR] Stats over capped: 8 - 25036206 - 620978686 Total Stats: 77622335
+2025-02-22 21:05:43.183 -03:00 [ERR] Stats over capped: 8 - AF008402 - 2936046586 Total Stats: 367005823
+2025-02-22 21:05:49.719 -03:00 [ERR] Stats over capped: 8 - 21030503 - 553846011 Total Stats: 69230751
+2025-02-22 21:05:49.751 -03:00 [ERR] Stats over capped: 8 - 21030503 - 553846011 Total Stats: 69230751
+2025-02-22 21:05:49.782 -03:00 [ERR] Stats over capped: 8 - 21030503 - 553846011 Total Stats: 69230751
+2025-02-22 21:05:50.102 -03:00 [ERR] Stats over capped: 8 - A001FC03 - 2684484603 Total Stats: 335560575
+2025-02-22 21:05:50.121 -03:00 [ERR] Stats over capped: 8 - A001FC03 - 2684484603 Total Stats: 335560575
+2025-02-22 21:05:50.139 -03:00 [ERR] Stats over capped: 8 - A001FC03 - 2684484603 Total Stats: 335560575
+2025-02-22 21:06:16.903 -03:00 [ERR] Stats over capped: 8 - 10D017203 - 4513165819 Total Stats: 564145727
+2025-02-22 21:06:16.932 -03:00 [ERR] Stats over capped: 8 - 10D017203 - 4513165819 Total Stats: 564145727
+2025-02-22 21:06:16.947 -03:00 [ERR] Stats over capped: 8 - 10D017203 - 4513165819 Total Stats: 564145727
+2025-02-22 21:06:23.529 -03:00 [ERR] Stats over capped: 8 - DD008002 - 3707797498 Total Stats: 463474687
+2025-02-22 21:06:23.555 -03:00 [ERR] Stats over capped: 8 - DD008002 - 3707797498 Total Stats: 463474687
+2025-02-22 21:06:23.597 -03:00 [ERR] Stats over capped: 8 - DD008002 - 3707797498 Total Stats: 463474687
+2025-02-22 21:06:24.878 -03:00 [ERR] Stats over capped: 8 - 8D008C06 - 2365623294 Total Stats: 295702911
+2025-02-22 21:06:27.110 -03:00 [ERR] Stats over capped: 8 - 2D034107 - 755187967 Total Stats: 94398495
+2025-02-22 21:06:27.133 -03:00 [ERR] Stats over capped: 8 - 2D034107 - 755187967 Total Stats: 94398495
+2025-02-22 21:06:27.150 -03:00 [ERR] Stats over capped: 8 - 2D034107 - 755187967 Total Stats: 94398495
+2025-02-22 21:06:27.169 -03:00 [ERR] Stats over capped: 8 - 2D034107 - 755187967 Total Stats: 94398495
+2025-02-22 21:06:27.185 -03:00 [ERR] Stats over capped: 8 - 2D034107 - 755187967 Total Stats: 94398495
+2025-02-22 21:06:27.310 -03:00 [ERR] Stats over capped: 8 - 5D033308 - 1560490752 Total Stats: 195061344
+2025-02-22 21:06:27.328 -03:00 [ERR] Stats over capped: 8 - 5D033308 - 1560490752 Total Stats: 195061344
+2025-02-22 21:06:27.343 -03:00 [ERR] Stats over capped: 8 - 5D033308 - 1560490752 Total Stats: 195061344
+2025-02-22 21:06:35.091 -03:00 [ERR] Stats over capped: 8 - 3A03C905 - 973326589 Total Stats: 121665823
+2025-02-22 21:07:00.023 -03:00 [ERR] Stats over capped: 8 - AE02D403 - 2919420923 Total Stats: 364927615
+2025-02-22 21:07:11.319 -03:00 [ERR] Stats over capped: 8 - ED023307 - 3976344319 Total Stats: 497043039
+2025-02-22 21:07:11.342 -03:00 [ERR] Stats over capped: 8 - ED023307 - 3976344319 Total Stats: 497043039
+2025-02-22 21:07:43.923 -03:00 [ERR] Stats over capped: 8 - 55031605 - 1426265597 Total Stats: 178283199
+2025-02-22 21:07:43.949 -03:00 [ERR] Stats over capped: 8 - 55031605 - 1426265597 Total Stats: 178283199
+2025-02-22 21:07:43.959 -03:00 [ERR] Stats over capped: 8 - 55031605 - 1426265597 Total Stats: 178283199
+2025-02-22 21:07:48.000 -03:00 [ERR] Stats over capped: 8 - E102A507 - 3775046911 Total Stats: 471880863
+2025-02-22 21:07:48.021 -03:00 [ERR] Stats over capped: 8 - E102A507 - 3775046911 Total Stats: 471880863
+2025-02-22 21:07:48.073 -03:00 [ERR] Stats over capped: 8 - E102A507 - 3775046911 Total Stats: 471880863
+2025-02-22 21:07:48.079 -03:00 [ERR] Stats over capped: 8 - E102A507 - 3775046911 Total Stats: 471880863
+2025-02-22 21:07:49.319 -03:00 [ERR] Stats over capped: 8 - 4A028803 - 1241679867 Total Stats: 155209983
+2025-02-22 21:07:49.331 -03:00 [ERR] Stats over capped: 8 - 4A028803 - 1241679867 Total Stats: 155209983
+2025-02-22 21:07:50.026 -03:00 [ERR] Stats over capped: 8 - 25026903 - 620914939 Total Stats: 77614367
+2025-02-22 21:07:50.045 -03:00 [ERR] Stats over capped: 8 - 25026903 - 620914939 Total Stats: 77614367
+2025-02-22 21:07:50.601 -03:00 [ERR] Stats over capped: 8 - CF009906 - 3472922878 Total Stats: 434115359
+2025-02-22 21:07:50.620 -03:00 [ERR] Stats over capped: 8 - CF009906 - 3472922878 Total Stats: 434115359
+2025-02-22 21:07:50.642 -03:00 [ERR] Stats over capped: 8 - CF009906 - 3472922878 Total Stats: 434115359
+2025-02-22 21:07:55.054 -03:00 [ERR] Stats over capped: 8 - 101022901 - 4311886073 Total Stats: 538985759
+2025-02-22 21:07:55.089 -03:00 [ERR] Stats over capped: 8 - 101022901 - 4311886073 Total Stats: 538985759
+2025-02-22 21:07:55.106 -03:00 [ERR] Stats over capped: 8 - 101022901 - 4311886073 Total Stats: 538985759
+2025-02-22 21:09:12.743 -03:00 [INF] Area refresh triggered
+2025-02-22 21:09:37.736 -03:00 [INF] Area refresh triggered
+2025-02-22 21:10:20.220 -03:00 [INF] Area refresh triggered
+2025-02-22 21:10:24.481 -03:00 [INF] Area refresh triggered
+2025-02-22 21:11:05.832 -03:00 [INF] Area refresh triggered
+2025-02-22 21:11:19.757 -03:00 [INF] Area refresh triggered
+2025-02-22 21:12:15.375 -03:00 [ERR] Stats over capped: 8 - 68038A04 - 1745062396 Total Stats: 218132799
+2025-02-22 21:12:15.393 -03:00 [ERR] Stats over capped: 8 - 68038A04 - 1745062396 Total Stats: 218132799
+2025-02-22 21:12:15.410 -03:00 [ERR] Stats over capped: 8 - 68038A04 - 1745062396 Total Stats: 218132799
+2025-02-22 21:12:17.806 -03:00 [ERR] Stats over capped: 8 - 14300A108 - 5419081984 Total Stats: 677385248
+2025-02-22 21:12:17.815 -03:00 [ERR] Stats over capped: 8 - 14300A108 - 5419081984 Total Stats: 677385248
+2025-02-22 21:12:19.251 -03:00 [ERR] Stats over capped: 8 - F8028007 - 4160913407 Total Stats: 520114175
+2025-02-22 21:12:19.269 -03:00 [ERR] Stats over capped: 8 - F8028007 - 4160913407 Total Stats: 520114175
+2025-02-22 21:12:19.286 -03:00 [ERR] Stats over capped: 8 - F8028007 - 4160913407 Total Stats: 520114175
+2025-02-22 21:12:19.639 -03:00 [ERR] Stats over capped: 8 - 165025506 - 5989618942 Total Stats: 748702367
+2025-02-22 21:12:19.656 -03:00 [ERR] Stats over capped: 8 - 165025506 - 5989618942 Total Stats: 748702367
+2025-02-22 21:12:22.577 -03:00 [ERR] Stats over capped: 8 - DF02E406 - 3741508606 Total Stats: 467688575
+2025-02-22 21:12:22.597 -03:00 [ERR] Stats over capped: 8 - DF02E406 - 3741508606 Total Stats: 467688575
+2025-02-22 21:12:23.236 -03:00 [ERR] Stats over capped: 8 - 13E003405 - 5335167997 Total Stats: 666895999
+2025-02-22 21:12:23.260 -03:00 [ERR] Stats over capped: 8 - 13E003405 - 5335167997 Total Stats: 666895999
+2025-02-22 21:12:27.793 -03:00 [ERR] Stats over capped: 8 - 11202EE05 - 4597149181 Total Stats: 574643647
+2025-02-22 21:12:27.808 -03:00 [ERR] Stats over capped: 8 - 11202EE05 - 4597149181 Total Stats: 574643647
+2025-02-22 21:12:33.877 -03:00 [ERR] Stats over capped: 8 - CB022B01 - 3405916921 Total Stats: 425739615
+2025-02-22 21:12:33.886 -03:00 [ERR] Stats over capped: 8 - CB022B01 - 3405916921 Total Stats: 425739615
+2025-02-22 21:12:33.902 -03:00 [ERR] Stats over capped: 8 - CB022B01 - 3405916921 Total Stats: 425739615
+2025-02-22 21:12:33.920 -03:00 [ERR] Stats over capped: 8 - CB022B01 - 3405916921 Total Stats: 425739615
+2025-02-22 21:12:53.428 -03:00 [ERR] Stats over capped: 8 - 172020407 - 6207702015 Total Stats: 775962751
+2025-02-22 21:13:05.568 -03:00 [ERR] Stats over capped: 8 - 13C01BA07 - 5301713407 Total Stats: 662714175
+2025-02-22 21:13:05.585 -03:00 [ERR] Stats over capped: 8 - 13C01BA07 - 5301713407 Total Stats: 662714175
+2025-02-22 21:13:05.598 -03:00 [ERR] Stats over capped: 8 - 13C01BA07 - 5301713407 Total Stats: 662714175
+2025-02-22 21:13:05.615 -03:00 [ERR] Stats over capped: 8 - 13C01BA07 - 5301713407 Total Stats: 662714175
+2025-02-22 21:13:05.634 -03:00 [ERR] Stats over capped: 8 - 13C01BA07 - 5301713407 Total Stats: 662714175
+2025-02-22 21:13:05.651 -03:00 [ERR] Stats over capped: 8 - 13C01BA07 - 5301713407 Total Stats: 662714175
+2025-02-22 21:13:11.612 -03:00 [ERR] [CoPilot] Character: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at CoPilot.PartyElements.GetPlayerInfoElementList() in C:\Github\CSX-ExileApi\PoeHelper\Plugins\Source\Copilot\PartyElement.cs:line 40
+2025-02-22 21:13:11.734 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 21:13:35.934 -03:00 [INF] PerfTimer =-> Load files from memory (53,1797 ms) Thread #[8]
+2025-02-22 21:13:35.961 -03:00 [INF] Force area refresh triggered
+2025-02-22 21:13:37.320 -03:00 [INF] PerfTimer =-> Preload stats and mods (1386,0859 ms) Thread #[6]
+2025-02-22 21:13:43.502 -03:00 [INF] Area refresh triggered
+2025-02-22 21:13:47.936 -03:00 [INF] Area refresh triggered
+2025-02-22 21:16:18.510 -03:00 [INF] Area refresh triggered
+2025-02-22 21:16:52.265 -03:00 [INF] Area refresh triggered
+2025-02-22 21:19:02.269 -03:00 [INF] Area refresh triggered
+2025-02-22 21:20:44.387 -03:00 [INF] Area refresh triggered
+2025-02-22 21:26:38.472 -03:00 [INF] Area refresh triggered
+2025-02-22 21:27:48.731 -03:00 [INF] Area refresh triggered
+2025-02-22 21:28:27.141 -03:00 [INF] Area refresh triggered
+2025-02-22 21:29:42.914 -03:00 [INF] Area refresh triggered
+2025-02-22 21:37:06.323 -03:00 [INF] Area refresh triggered
+2025-02-22 21:43:14.989 -03:00 [INF] Area refresh triggered
+2025-02-22 21:50:48.150 -03:00 [INF] Area refresh triggered
+2025-02-22 22:01:40.053 -03:00 [INF] Area refresh triggered
+2025-02-22 22:04:23.525 -03:00 [INF] Area refresh triggered
+2025-02-22 22:05:36.222 -03:00 [INF] Area refresh triggered
+2025-02-22 22:11:12.306 -03:00 [INF] Area refresh triggered
+2025-02-22 22:14:21.093 -03:00 [INF] Area refresh triggered
+2025-02-22 22:14:21.925 -03:00 [ERR] Something wrong we parse 55 when expect 19
+2025-02-22 22:14:35.330 -03:00 [INF] Area refresh triggered
+2025-02-22 22:17:28.500 -03:00 [INF] Area refresh triggered
+2025-02-22 22:22:36.368 -03:00 [INF] Area refresh triggered
+2025-02-22 22:27:10.454 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-22 22:27:10.702 -03:00 [INF] Game not found
+2025-02-22 22:27:12.729 -03:00 [INF] Game not found
+2025-02-22 22:27:14.748 -03:00 [INF] Game not found
+2025-02-22 22:27:16.828 -03:00 [INF] Pattern: Game State -> : Time: 15,1102 ms. Offset:[800478] Started searching offset with:0
+2025-02-22 22:27:16.899 -03:00 [INF] Pattern: BlackBarSize -> : Time: 84,2677 ms. Offset:[4522007] Started searching offset with:0
+2025-02-22 22:27:17.087 -03:00 [INF] Pattern: Area change -> : Time: 259,3994 ms. Offset:[12418096] Started searching offset with:0
+2025-02-22 22:27:17.456 -03:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 627,6232 ms. Offset:[28383583] Started searching offset with:0
+2025-02-22 22:27:17.456 -03:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 630,374 ms. Offset:[28383583] Started searching offset with:0
+2025-02-22 22:27:17.491 -03:00 [INF] Pattern: File Root -> : Time: 670,9107 ms. Offset:[30813404] Started searching offset with:0
+2025-02-22 22:27:18.185 -03:00 [VRB] FileRoot: 7ff690be4dc0
+2025-02-22 22:27:18.185 -03:00 [VRB] AreaChangeCount: 7ff6907b70b4
+2025-02-22 22:27:18.185 -03:00 [VRB] GameStateOffset: 7ff690a70ea8
+2025-02-22 22:27:18.185 -03:00 [VRB] DiagnosticInfoTypeOffset: 7ff68e4aff0f
+2025-02-22 22:27:18.186 -03:00 [INF] PerfTimer =-> Load files from memory (0,3305 ms) Thread #[12]
+2025-02-22 22:27:18.265 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.265 -03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Profile.LoadedProfile not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.265 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.265 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.275 -03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.325 -03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.391 -03:00 [WRN] System.Boolean[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.428 -03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.437 -03:00 [WRN] default not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.464 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 22:27:18.464 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-22 22:27:18.604 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.604 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.605 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.605 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.605 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.605 -03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.605 -03:00 [WRN] <0. 0> not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.605 -03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.610 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.610 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.610 -03:00 [WRN] True not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.610 -03:00 [WRN] 60 not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.610 -03:00 [WRN] 22/02/2025 22:27:18 not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.610 -03:00 [WRN] False not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:18.666 -03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:19.946 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:19.946 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:19.946 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:19.946 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:19.946 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:19.946 -03:00 [WRN] CSX.CustomSkillSetting not supported for menu now. Ask developers to add this type.
+2025-02-22 22:27:19.975 -03:00 [INF] PerfTimer =-> Compile and load source plugins (1785,6944 ms) Thread #[3]
+2025-02-22 22:27:19.984 -03:00 [INF] PerfTimer =-> Plugin loader (1796,7907 ms) Thread #[12]
+2025-02-22 22:27:19.998 -03:00 [INF] Pattern: DiagnosticInfoType -> : Time: 1372,02 ms. Offset:[0] Started searching offset with:0
+2025-02-22 22:27:19.998 -03:00 [ERR] Cannot calculate stride for Data/WorldAreas.dat: possible values are 
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory AdvancedTooltip loaded in 12 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 7 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory AutoOpen loaded in 3 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory AutoQuit loaded in 3 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 57 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory BuffUtil loaded in 26 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory DevTree loaded in 7 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory DPSMeter loaded in 4 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory EliteBar loaded in 6 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory FullRareSetManager loaded in 6 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory HealthBars loaded in 54 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory HeistIcons loaded in 4 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory HighlightedItems loaded in 6 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory MinimapIcons loaded in 37 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory MiscInformation loaded in 4 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 151 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory PickIt loaded in 20 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory PluginUpdater loaded in 5 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory PreloadAlert loaded in 40 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory Skill DPS loaded in 5 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory SkillGems loaded in 2 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory Stashie loaded in 7 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins from directory XPBar loaded in 3 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] Plugins compiled and loaded in 1756 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] CSX -> Initialise time: 0,2823 ms.
+2025-02-22 22:27:19.998 -03:00 [INF] PluginUpdater -> Initialise time: 6,5645 ms.
+2025-02-22 22:27:20.027 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-22 22:27:20.545 -03:00 [INF] PerfTimer =-> Preload stats and mods (2359,3332 ms) Thread #[19]
+2025-02-22 22:27:30.513 -03:00 [INF] PerfTimer =-> Load files from memory (33,1153 ms) Thread #[8]
+2025-02-22 22:27:30.521 -03:00 [INF] Force area refresh triggered
+2025-02-22 22:27:32.074 -03:00 [INF] PerfTimer =-> Preload stats and mods (1561,5286 ms) Thread #[17]
+2025-02-22 22:27:41.327 -03:00 [INF] Area refresh triggered
+2025-02-22 22:40:09.521 -03:00 [INF] Area refresh triggered
+2025-02-22 22:46:17.164 -03:00 [INF] Area refresh triggered
+2025-02-22 22:48:47.569 -03:00 [INF] Area refresh triggered
+2025-02-22 23:00:13.382 -03:00 [INF] Area refresh triggered
+2025-02-22 23:02:09.676 -03:00 [INF] Area refresh triggered
+2025-02-22 23:03:58.496 -03:00 [INF] Area refresh triggered
+2025-02-22 23:04:03.115 -03:00 [INF] Area refresh triggered
+2025-02-22 23:10:15.897 -03:00 [INF] Area refresh triggered
+2025-02-22 23:12:32.953 -03:00 [INF] Area refresh triggered
+2025-02-22 23:13:07.226 -03:00 [INF] Area refresh triggered
+2025-02-22 23:14:11.831 -03:00 [INF] Area refresh triggered
+2025-02-22 23:20:33.539 -03:00 [INF] Area refresh triggered
+2025-02-22 23:22:29.087 -03:00 [INF] Area refresh triggered
+2025-02-22 23:29:03.041 -03:00 [INF] Area refresh triggered

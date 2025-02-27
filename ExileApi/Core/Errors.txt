@@ -1,0 +1,30 @@
+Build failed:
+[22/02/2025 14:27:35, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()
+
+[22/02/2025 14:27:36, (0, 0)] : Fody: An unhandled exception occurred:
+Exception:
+Could not load file or assembly 'Mono.Cecil, Version=0.11.0.0, Culture=neutral, PublicKeyToken=1ca091877d12ca03'. O sistema não pode encontrar o arquivo especificado.
+Type:
+System.IO.FileNotFoundException
+StackTrace:
+   at InnerWeaver.Execute()
+   at Processor.ExecuteInOwnAssemblyLoadContext() in C:\projects\fody\Fody\Processor.cs:line 148
+   at Processor.Inner() in C:\projects\fody\Fody\Processor.cs:line 122
+   at Processor.Execute() in C:\projects\fody\Fody\Processor.cs:line 50
+Source:
+FodyIsolated
+TargetSite:
+Void Execute()

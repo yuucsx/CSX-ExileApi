@@ -1,0 +1,262 @@
+2025-02-24 16:12:26.333 -03:00 [INF] =============== Start hud at 24/02/2025 16:12:26 ===============
+2025-02-24 16:12:26.363 -03:00 [INF] PerfTimer =-> Create new offsets (1,1637 ms) Thread #[1]
+2025-02-24 16:12:26.628 -03:00 [INF] PerfTimer =-> Load manual fonts (0,572 ms) Thread #[1]
+2025-02-24 16:12:26.628 -03:00 [INF] PerfTimer =-> DX11 Load (1,5943 ms) Thread #[1]
+2025-02-24 16:12:29.792 -03:00 [INF] PerfTimer =-> Load files from memory (95,0775 ms) Thread #[1]
+2025-02-24 16:12:29.922 -03:00 [INF] PerfTimer =-> Load files from memory (55,6421 ms) Thread #[12]
+2025-02-24 16:12:30.073 -03:00 [INF] Pattern: Game State -> : Time: 14,0227 ms. Offset:[800478] Started searching offset with:0
+2025-02-24 16:12:30.073 -03:00 [INF] Pattern: BlackBarSize -> : Time: 102,6746 ms. Offset:[4522007] Started searching offset with:0
+2025-02-24 16:12:30.075 -03:00 [INF] Pattern: Area change -> : Time: 533,4981 ms. Offset:[12418096] Started searching offset with:0
+2025-02-24 16:12:30.075 -03:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 1271,6237 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 16:12:30.075 -03:00 [INF] Pattern: File Root -> : Time: 1360,1736 ms. Offset:[30813404] Started searching offset with:0
+2025-02-24 16:12:30.075 -03:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 1368,4214 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 16:12:30.075 -03:00 [INF] Pattern: DiagnosticInfoType -> : Time: 2663,9665 ms. Offset:[0] Started searching offset with:0
+2025-02-24 16:12:30.082 -03:00 [INF] HUD loaded in 3726,8328 ms.
+2025-02-24 16:12:31.989 -03:00 [INF] PerfTimer =-> Load files from memory (57,616 ms) Thread #[12]
+2025-02-24 16:12:34.084 -03:00 [INF] PerfTimer =-> Load files from memory (36,183 ms) Thread #[12]
+2025-02-24 16:12:34.156 -03:00 [INF] PerfTimer =-> Preload stats and mods (4233,4264 ms) Thread #[23]
+2025-02-24 16:12:34.197 -03:00 [INF] PerfTimer =-> Preload stats and mods (4404,0823 ms) Thread #[17]
+2025-02-24 16:12:35.684 -03:00 [INF] PerfTimer =-> Preload stats and mods (3694,2968 ms) Thread #[6]
+2025-02-24 16:12:36.190 -03:00 [INF] PerfTimer =-> Load files from memory (92,0775 ms) Thread #[12]
+2025-02-24 16:12:36.248 -03:00 [INF] Area refresh triggered
+2025-02-24 16:12:37.975 -03:00 [INF] PerfTimer =-> Preload stats and mods (3890,6231 ms) Thread #[26]
+2025-02-24 16:12:39.778 -03:00 [INF] PerfTimer =-> Preload stats and mods (3588,3095 ms) Thread #[19]
+2025-02-24 16:12:40.398 -03:00 [INF] PerfTimer =-> Compile and load source plugins (4138,4246 ms) Thread #[10]
+2025-02-24 16:12:40.471 -03:00 [INF] PerfTimer =-> Plugin loader (4215,9593 ms) Thread #[12]
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory AdvancedTooltip loaded in 18 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 9 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory AutoOpen loaded in 9 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory AutoQuit loaded in 3 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 76 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory BuffUtil loaded in 103 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory DevTree loaded in 10 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory DPSMeter loaded in 11 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory EliteBar loaded in 17 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory FullRareSetManager loaded in 18 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory HealthBars loaded in 77 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory HeistIcons loaded in 8 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory HighlightedItems loaded in 11 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory MinimapIcons loaded in 18 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory MiscInformation loaded in 31 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 454 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory PickIt loaded in 26 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory PluginUpdater loaded in 6 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory PreloadAlert loaded in 93 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory Skill DPS loaded in 7 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory SkillGems loaded in 3 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory Stashie loaded in 11 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins from directory XPBar loaded in 6 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Plugins compiled and loaded in 4085 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] CSX -> Initialise time: 0,2269 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] PluginUpdater -> Initialise time: 9,1879 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] BasicFlaskRoutine -> Initialise time: 33,1976 ms.
+2025-02-24 16:12:44.554 -03:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2025-02-24 16:12:55.017 -03:00 [INF] Area refresh triggered
+2025-02-24 16:13:27.542 -03:00 [INF] Area refresh triggered
+2025-02-24 16:17:18.695 -03:00 [INF] Area refresh triggered
+2025-02-24 16:17:31.148 -03:00 [INF] Area refresh triggered
+2025-02-24 16:18:58.511 -03:00 [INF] Area refresh triggered
+2025-02-24 16:20:24.242 -03:00 [INF] Area refresh triggered
+2025-02-24 16:22:27.040 -03:00 [INF] Area refresh triggered
+2025-02-24 16:24:24.291 -03:00 [INF] Area refresh triggered
+2025-02-24 16:24:34.186 -03:00 [INF] Area refresh triggered
+2025-02-24 16:28:41.035 -03:00 [INF] Area refresh triggered
+2025-02-24 16:30:54.743 -03:00 [INF] Area refresh triggered
+2025-02-24 16:41:35.761 -03:00 [INF] Area refresh triggered
+2025-02-24 16:46:41.994 -03:00 [INF] Area refresh triggered
+2025-02-24 16:47:07.272 -03:00 [INF] Area refresh triggered
+2025-02-24 17:01:01.284 -03:00 [INF] Area refresh triggered
+2025-02-24 17:01:06.411 -03:00 [INF] Area refresh triggered
+2025-02-24 17:02:20.811 -03:00 [INF] Area refresh triggered
+2025-02-24 17:06:21.283 -03:00 [INF] Area refresh triggered
+2025-02-24 17:20:18.992 -03:00 [INF] Game not found
+2025-02-24 17:20:20.556 -03:00 [INF] =============== Close hud at 24/02/2025 17:20:20 ===============
+2025-02-24 18:49:00.827 -03:00 [INF] =============== Start hud at 24/02/2025 18:49:00 ===============
+2025-02-24 18:49:00.879 -03:00 [INF] PerfTimer =-> Create new offsets (3,0409 ms) Thread #[1]
+2025-02-24 18:49:01.253 -03:00 [INF] PerfTimer =-> Load manual fonts (1,046 ms) Thread #[1]
+2025-02-24 18:49:01.253 -03:00 [INF] PerfTimer =-> DX11 Load (2,5259 ms) Thread #[1]
+2025-02-24 18:49:03.418 -03:00 [INF] PerfTimer =-> Load files from memory (39,5072 ms) Thread #[1]
+2025-02-24 18:49:05.120 -03:00 [INF] PerfTimer =-> Compile and load source plugins (1681,2522 ms) Thread #[19]
+2025-02-24 18:49:05.163 -03:00 [INF] PerfTimer =-> Plugin loader (1727,2575 ms) Thread #[1]
+2025-02-24 18:49:05.196 -03:00 [INF] Pattern: Game State -> : Time: 17,1647 ms. Offset:[800478] Started searching offset with:0
+2025-02-24 18:49:05.196 -03:00 [INF] Pattern: BlackBarSize -> : Time: 143,8353 ms. Offset:[4522007] Started searching offset with:0
+2025-02-24 18:49:05.196 -03:00 [INF] Pattern: Area change -> : Time: 412,4518 ms. Offset:[12418096] Started searching offset with:0
+2025-02-24 18:49:05.196 -03:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 852,9075 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 18:49:05.196 -03:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 913,3093 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 18:49:05.196 -03:00 [INF] Pattern: File Root -> : Time: 993,7087 ms. Offset:[30813404] Started searching offset with:0
+2025-02-24 18:49:05.196 -03:00 [INF] Pattern: DiagnosticInfoType -> : Time: 1823,755 ms. Offset:[0] Started searching offset with:0
+2025-02-24 18:49:05.196 -03:00 [INF] Area refresh triggered
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory AdvancedTooltip loaded in 26 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 6 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory AutoOpen loaded in 9 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory AutoQuit loaded in 4 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 42 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory BuffUtil loaded in 24 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory DevTree loaded in 44 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory DPSMeter loaded in 4 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory EliteBar loaded in 11 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory FullRareSetManager loaded in 10 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory HealthBars loaded in 53 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory HeistIcons loaded in 5 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory HighlightedItems loaded in 9 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory MinimapIcons loaded in 12 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory MiscInformation loaded in 12 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 436 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory PickIt loaded in 36 ms.
+2025-02-24 18:49:05.196 -03:00 [INF] Plugins from directory PluginUpdater loaded in 5 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] Plugins from directory PreloadAlert loaded in 46 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] Plugins from directory Skill DPS loaded in 6 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] Plugins from directory SkillGems loaded in 3 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] Plugins from directory Stashie loaded in 8 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] Plugins from directory XPBar loaded in 3 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] Plugins compiled and loaded in 1639 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] CSX -> Initialise time: 0,1756 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] PluginUpdater -> Initialise time: 8,3016 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] BasicFlaskRoutine -> Initialise time: 30,6439 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] HUD loaded in 4473,5722 ms.
+2025-02-24 18:49:05.197 -03:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2025-02-24 18:49:05.565 -03:00 [INF] PerfTimer =-> Preload stats and mods (2147,2913 ms) Thread #[10]
+2025-02-24 18:49:24.224 -03:00 [INF] Area refresh triggered
+2025-02-24 18:54:41.999 -03:00 [INF] Area refresh triggered
+2025-02-24 19:00:28.312 -03:00 [INF] Area refresh triggered
+2025-02-24 19:04:52.156 -03:00 [INF] Area refresh triggered
+2025-02-24 19:10:35.080 -03:00 [INF] Area refresh triggered
+2025-02-24 19:12:46.754 -03:00 [INF] Area refresh triggered
+2025-02-24 19:18:36.315 -03:00 [INF] CoPilot -> Initialise time: 0,5369 ms.
+2025-02-24 19:23:33.047 -03:00 [INF] Area refresh triggered
+2025-02-24 19:27:51.881 -03:00 [INF] [CoPilot] Copilot: Panic Quit...
+2025-02-24 19:27:52.263 -03:00 [INF] Game not found
+2025-02-24 19:27:54.287 -03:00 [INF] Game not found
+2025-02-24 19:27:54.632 -03:00 [INF] =============== Close hud at 24/02/2025 19:27:54 ===============
+2025-02-24 20:08:41.254 -03:00 [INF] =============== Start hud at 24/02/2025 20:08:41 ===============
+2025-02-24 20:08:41.284 -03:00 [INF] PerfTimer =-> Create new offsets (1,147 ms) Thread #[1]
+2025-02-24 20:08:41.506 -03:00 [INF] PerfTimer =-> Load manual fonts (0,5672 ms) Thread #[1]
+2025-02-24 20:08:41.506 -03:00 [INF] PerfTimer =-> DX11 Load (1,5845 ms) Thread #[1]
+2025-02-24 20:08:43.171 -03:00 [INF] PerfTimer =-> Load files from memory (27,064 ms) Thread #[1]
+2025-02-24 20:08:43.241 -03:00 [INF] PerfTimer =-> Load files from memory (37,0806 ms) Thread #[12]
+2025-02-24 20:08:43.347 -03:00 [INF] Pattern: Game State -> : Time: 16,4804 ms. Offset:[800478] Started searching offset with:0
+2025-02-24 20:08:43.347 -03:00 [INF] Pattern: BlackBarSize -> : Time: 89,7425 ms. Offset:[4522007] Started searching offset with:0
+2025-02-24 20:08:43.347 -03:00 [INF] Pattern: Area change -> : Time: 248,2382 ms. Offset:[12418096] Started searching offset with:0
+2025-02-24 20:08:43.347 -03:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 634,7582 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 20:08:43.347 -03:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 642,3886 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 20:08:43.347 -03:00 [INF] Pattern: File Root -> : Time: 695,6205 ms. Offset:[30813404] Started searching offset with:0
+2025-02-24 20:08:43.348 -03:00 [INF] Pattern: DiagnosticInfoType -> : Time: 1418,6028 ms. Offset:[0] Started searching offset with:0
+2025-02-24 20:08:43.351 -03:00 [INF] HUD loaded in 2103,7194 ms.
+2025-02-24 20:08:45.536 -03:00 [INF] PerfTimer =-> Load files from memory (281,0954 ms) Thread #[12]
+2025-02-24 20:08:47.472 -03:00 [INF] PerfTimer =-> Preload stats and mods (4230,9432 ms) Thread #[18]
+2025-02-24 20:08:47.473 -03:00 [INF] PerfTimer =-> Preload stats and mods (4301,3471 ms) Thread #[25]
+2025-02-24 20:08:47.579 -03:00 [INF] PerfTimer =-> Load files from memory (31,6898 ms) Thread #[12]
+2025-02-24 20:08:48.653 -03:00 [INF] PerfTimer =-> Preload stats and mods (3114,8459 ms) Thread #[19]
+2025-02-24 20:08:49.877 -03:00 [INF] PerfTimer =-> Load files from memory (287,1691 ms) Thread #[12]
+2025-02-24 20:08:49.922 -03:00 [INF] Area refresh triggered
+2025-02-24 20:08:50.700 -03:00 [INF] PerfTimer =-> Load files from memory (86,9066 ms) Thread #[8]
+2025-02-24 20:08:51.901 -03:00 [INF] PerfTimer =-> Preload stats and mods (4321,8241 ms) Thread #[18]
+2025-02-24 20:08:53.769 -03:00 [INF] PerfTimer =-> Compile and load source plugins (3810,4495 ms) Thread #[26]
+2025-02-24 20:08:53.848 -03:00 [INF] PerfTimer =-> Plugin loader (3911,8339 ms) Thread #[12]
+2025-02-24 20:08:54.108 -03:00 [INF] Plugins from directory AdvancedTooltip loaded in 85 ms.
+2025-02-24 20:08:54.108 -03:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 8 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory AutoOpen loaded in 7 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory AutoQuit loaded in 3 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 83 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory BuffUtil loaded in 16 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory DevTree loaded in 12 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory DPSMeter loaded in 6 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory EliteBar loaded in 30 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory FullRareSetManager loaded in 12 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory HealthBars loaded in 89 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory HeistIcons loaded in 7 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory HighlightedItems loaded in 16 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory MinimapIcons loaded in 58 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory MiscInformation loaded in 14 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Force area refresh triggered
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 545 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory PickIt loaded in 24 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory PluginUpdater loaded in 6 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory PreloadAlert loaded in 59 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory Skill DPS loaded in 60 ms.
+2025-02-24 20:08:54.109 -03:00 [INF] Plugins from directory SkillGems loaded in 5 ms.
+2025-02-24 20:08:54.110 -03:00 [INF] Plugins from directory Stashie loaded in 10 ms.
+2025-02-24 20:08:54.110 -03:00 [INF] Plugins from directory XPBar loaded in 5 ms.
+2025-02-24 20:08:54.110 -03:00 [INF] Plugins compiled and loaded in 3682 ms.
+2025-02-24 20:08:54.110 -03:00 [INF] CoPilot -> Initialise time: 0,4372 ms.
+2025-02-24 20:08:54.110 -03:00 [INF] PluginUpdater -> Initialise time: 9,9951 ms.
+2025-02-24 20:08:54.110 -03:00 [INF] BasicFlaskRoutine -> Initialise time: 19,4536 ms.
+2025-02-24 20:08:54.110 -03:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2025-02-24 20:08:54.320 -03:00 [INF] PerfTimer =-> Preload stats and mods (4443,2008 ms) Thread #[19]
+2025-02-24 20:08:54.567 -03:00 [INF] PerfTimer =-> Preload stats and mods (3866,4799 ms) Thread #[25]
+2025-02-24 20:09:02.800 -03:00 [INF] Area refresh triggered
+2025-02-24 20:09:05.939 -03:00 [INF] Area refresh triggered
+2025-02-24 20:09:36.666 -03:00 [INF] CSX -> Initialise time: 0,4179 ms.
+2025-02-24 20:09:43.314 -03:00 [INF] Area refresh triggered
+2025-02-24 20:11:26.150 -03:00 [INF] Area refresh triggered
+2025-02-24 20:17:23.246 -03:00 [INF] Area refresh triggered
+2025-02-24 20:23:15.831 -03:00 [INF] Area refresh triggered
+2025-02-24 20:26:18.777 -03:00 [INF] Area refresh triggered
+2025-02-24 20:27:19.764 -03:00 [INF] Area refresh triggered
+2025-02-24 20:32:09.034 -03:00 [INF] Area refresh triggered
+2025-02-24 20:34:03.824 -03:00 [INF] Area refresh triggered
+2025-02-24 20:34:49.372 -03:00 [INF] Area refresh triggered
+2025-02-24 20:35:06.678 -03:00 [INF] Area refresh triggered
+2025-02-24 20:35:22.769 -03:00 [INF] Area refresh triggered
+2025-02-24 20:35:28.460 -03:00 [INF] Area refresh triggered
+2025-02-24 20:35:46.549 -03:00 [INF] Area refresh triggered
+2025-02-24 20:57:39.007 -03:00 [INF] Game not found
+2025-02-24 20:57:41.038 -03:00 [INF] Game not found
+2025-02-24 20:57:41.140 -03:00 [INF] =============== Close hud at 24/02/2025 20:57:41 ===============
+2025-02-24 21:36:04.556 -03:00 [INF] =============== Start hud at 24/02/2025 21:36:04 ===============
+2025-02-24 21:36:04.596 -03:00 [INF] PerfTimer =-> Create new offsets (1,5309 ms) Thread #[1]
+2025-02-24 21:36:04.973 -03:00 [INF] PerfTimer =-> Load manual fonts (0,8941 ms) Thread #[1]
+2025-02-24 21:36:04.973 -03:00 [INF] PerfTimer =-> DX11 Load (2,4501 ms) Thread #[1]
+2025-02-24 21:36:06.765 -03:00 [INF] PerfTimer =-> Load files from memory (69,2974 ms) Thread #[1]
+2025-02-24 21:36:08.920 -03:00 [INF] PerfTimer =-> Compile and load source plugins (2016,6592 ms) Thread #[19]
+2025-02-24 21:36:08.947 -03:00 [INF] PerfTimer =-> Plugin loader (2092,3371 ms) Thread #[1]
+2025-02-24 21:36:08.978 -03:00 [INF] Pattern: Game State -> : Time: 16,3682 ms. Offset:[800478] Started searching offset with:0
+2025-02-24 21:36:08.978 -03:00 [INF] Pattern: BlackBarSize -> : Time: 123,1047 ms. Offset:[4522007] Started searching offset with:0
+2025-02-24 21:36:08.978 -03:00 [INF] Pattern: Area change -> : Time: 299,0241 ms. Offset:[12418096] Started searching offset with:0
+2025-02-24 21:36:08.978 -03:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 628,8737 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 21:36:08.978 -03:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 638,1313 ms. Offset:[28383583] Started searching offset with:0
+2025-02-24 21:36:08.978 -03:00 [INF] Pattern: File Root -> : Time: 697,4111 ms. Offset:[30813404] Started searching offset with:0
+2025-02-24 21:36:08.978 -03:00 [INF] Pattern: DiagnosticInfoType -> : Time: 1455,4676 ms. Offset:[0] Started searching offset with:0
+2025-02-24 21:36:08.978 -03:00 [INF] Area refresh triggered
+2025-02-24 21:36:08.978 -03:00 [INF] Plugins from directory AdvancedTooltip loaded in 76 ms.
+2025-02-24 21:36:08.978 -03:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 27 ms.
+2025-02-24 21:36:08.978 -03:00 [INF] Plugins from directory AutoOpen loaded in 15 ms.
+2025-02-24 21:36:08.978 -03:00 [INF] Plugins from directory AutoQuit loaded in 11 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 133 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory BuffUtil loaded in 29 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory DevTree loaded in 15 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory DPSMeter loaded in 11 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory EliteBar loaded in 54 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory FullRareSetManager loaded in 13 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory HealthBars loaded in 109 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory HeistIcons loaded in 8 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory HighlightedItems loaded in 16 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory MinimapIcons loaded in 22 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory MiscInformation loaded in 11 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 483 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory PickIt loaded in 21 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory PluginUpdater loaded in 6 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory PreloadAlert loaded in 68 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory Skill DPS loaded in 5 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory SkillGems loaded in 2 ms.
+2025-02-24 21:36:08.979 -03:00 [INF] Plugins from directory Stashie loaded in 8 ms.
+2025-02-24 21:36:08.980 -03:00 [INF] Plugins from directory XPBar loaded in 3 ms.
+2025-02-24 21:36:08.980 -03:00 [INF] Plugins compiled and loaded in 1950 ms.
+2025-02-24 21:36:08.980 -03:00 [INF] CSX -> Initialise time: 0,1898 ms.
+2025-02-24 21:36:08.980 -03:00 [INF] PluginUpdater -> Initialise time: 6,1019 ms.
+2025-02-24 21:36:08.980 -03:00 [INF] BasicFlaskRoutine -> Initialise time: 17,1832 ms.
+2025-02-24 21:36:08.980 -03:00 [INF] HUD loaded in 4482,2711 ms.
+2025-02-24 21:36:08.980 -03:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2025-02-24 21:36:09.764 -03:00 [INF] PerfTimer =-> Preload stats and mods (2998,8213 ms) Thread #[6]
+2025-02-24 21:40:34.685 -03:00 [INF] Area refresh triggered
+2025-02-24 21:42:37.306 -03:00 [INF] Area refresh triggered
+2025-02-24 21:46:47.402 -03:00 [INF] Area refresh triggered
+2025-02-24 21:50:43.483 -03:00 [INF] Area refresh triggered
+2025-02-24 21:54:01.972 -03:00 [INF] Area refresh triggered
+2025-02-24 21:54:08.022 -03:00 [INF] Area refresh triggered
+2025-02-24 21:54:17.001 -03:00 [INF] Area refresh triggered
+2025-02-24 21:56:06.841 -03:00 [INF] Area refresh triggered
+2025-02-24 21:58:52.194 -03:00 [INF] Area refresh triggered
+2025-02-24 22:04:12.617 -03:00 [INF] Game not found
+2025-02-24 22:04:14.627 -03:00 [INF] Game not found
+2025-02-24 22:04:15.364 -03:00 [INF] =============== Close hud at 24/02/2025 22:04:15 ===============

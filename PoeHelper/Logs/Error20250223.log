@@ -1,0 +1,628 @@
+2025-02-23 01:21:39.032 -03:00 [ERR] Unable to process 169 entity candidate addresses due to the configured limit of 10000
+2025-02-23 01:21:39.033 -03:00 [ERR] Something wrong we parse 2541 when expect 1092
+2025-02-23 01:47:28.838 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:47:31.897 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 01:47:35.145 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:47:39.064 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:47:47.357 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 01:47:48.864 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:47:52.086 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:48:07.932 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:48:13.695 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:48:18.887 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 01:48:22.858 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:48:24.962 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:48:28.720 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:48:38.403 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:49:07.081 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:49:13.083 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:49:21.917 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:49:30.899 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:49:39.194 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:50:10.904 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:50:16.106 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:False) Life
+2025-02-23 01:50:16.106 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:False) Hybrid
+2025-02-23 01:50:19.315 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:50:30.699 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:50:37.173 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:50:39.398 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:50:43.129 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:50:48.873 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:52:23.323 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:52:33.085 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 01:52:38.442 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:52:48.692 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:52:53.913 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:53:01.236 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:53:05.984 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:53:35.819 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:53:41.012 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:53:55.760 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:00.518 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:04.624 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:06.670 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:15.452 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:26.094 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:36.126 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:48.469 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:52.985 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:57.562 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:54:59.912 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:55:10.082 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:55:26.946 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:55:33.444 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:55:43.214 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:55:55.778 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:56:10.851 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:56:23.181 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:56:25.138 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 01:56:52.918 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:57:05.716 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:57:12.589 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:True) Life
+2025-02-23 01:57:12.589 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:True) Hybrid
+2025-02-23 01:57:12.589 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Life
+2025-02-23 01:57:12.589 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Hybrid
+2025-02-23 01:57:13.081 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:False) Life
+2025-02-23 01:57:13.081 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:False) Hybrid
+2025-02-23 01:57:17.261 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:57:26.465 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:57:37.489 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:58:02.764 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:58:09.385 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:58:20.994 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 01:58:25.161 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 01:58:26.647 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:58:27.418 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:True) Life
+2025-02-23 01:58:27.419 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:True) Hybrid
+2025-02-23 01:58:27.419 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Life
+2025-02-23 01:58:27.419 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Hybrid
+2025-02-23 01:58:27.419 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:False) Life
+2025-02-23 01:58:27.419 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:False) Hybrid
+2025-02-23 01:58:33.805 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:58:40.736 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:58:46.001 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:58:49.749 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:59:06.123 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Speedrun
+2025-02-23 01:59:13.051 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: No flasks found for action: (instant:) Defense
+2025-02-23 02:42:23.880 -03:00 [ERR] Something wrong we parse 146 when expect 57
+2025-02-23 02:44:08.313 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-23 13:23:40.118 -03:00 [ERR] Inject -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore.AreaInstance..ctor(WorldArea area, UInt32 hash, Int32 realLevel)
+   at ExileCore.AreaController.RefreshState()
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+   at ExileCore.Core.Inject()
+2025-02-23 13:23:52.391 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-23 13:23:52.398 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-23 13:23:55.612 -03:00 [ERR] TreeRoutine.Routine.BasicFlaskRoutine, AreaChange -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at TreeRoutine.BaseTreeRoutinePlugin`2.AreaChange(AreaInstance area) in BasicFlaskRoutine/TreeRoutine/BaseTreeRoutinePlugin.cs:line 144
+   at ExileCore.Shared.PluginWrapper.AreaChange(AreaInstance area)
+2025-02-23 14:25:15.086 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: Exception! Printscreen this and post it.
+Object reference not set to an instance of an object.
+   at ExileCore.PoEMemory.Components.Actor.get_isMoving()
+   at TreeRoutine.Routine.BasicFlaskRoutine.BasicFlaskRoutine.UpdatePlayerMovingStopwatch() in BasicFlaskRoutine/BasicFlaskRoutine/BasicFlaskRoutine.cs:line 117
+   at TreeRoutine.BaseTreeRoutinePlugin`2.TickTree(Composite treeRoot) in BasicFlaskRoutine/TreeRoutine/BaseTreeRoutinePlugin.cs:line 112
+2025-02-23 14:37:48.198 -03:00 [ERR] Unable to process 115 entity candidate addresses due to the configured limit of 10000
+2025-02-23 14:37:48.198 -03:00 [ERR] Something wrong we parse 3473 when expect 580
+2025-02-23 14:40:21.438 -03:00 [ERR] Unable to process 173 entity candidate addresses due to the configured limit of 10000
+2025-02-23 14:40:21.438 -03:00 [ERR] Something wrong we parse 3842 when expect 791
+2025-02-23 15:05:08.144 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-23 15:05:16.358 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-23 15:05:16.358 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-23 15:05:17.855 -03:00 [ERR] EntityList -> Address is 0;
+2025-02-23 15:30:36.279 -03:00 [ERR] Stats over capped: DDC2947D0035EE95 - E9602B190B2B354C - 836990702703691447 Total Stats: 104623837837961430
+2025-02-23 15:30:39.225 -03:00 [ERR] Stats over capped: 8 - 5C013F01 - 1543585529 Total Stats: 192948191
+2025-02-23 15:30:42.687 -03:00 [ERR] Stats over capped: 8 - 5C023202 - 1543647738 Total Stats: 192955967
+2025-02-23 15:30:42.711 -03:00 [ERR] Stats over capped: 8 - 5C023202 - 1543647738 Total Stats: 192955967
+2025-02-23 15:30:42.723 -03:00 [ERR] Stats over capped: 8 - 5C023202 - 1543647738 Total Stats: 192955967
+2025-02-23 15:30:42.741 -03:00 [ERR] Stats over capped: 8 - 5C023202 - 1543647738 Total Stats: 192955967
+2025-02-23 15:30:42.774 -03:00 [ERR] Stats over capped: 8 - 5C023202 - 1543647738 Total Stats: 192955967
+2025-02-23 15:30:42.787 -03:00 [ERR] Stats over capped: 8 - 5C023202 - 1543647738 Total Stats: 192955967
+2025-02-23 15:30:45.371 -03:00 [ERR] Stats over capped: 8 - 3B009302 - 989893370 Total Stats: 123736671
+2025-02-23 15:30:49.878 -03:00 [ERR] Stats over capped: 8 - 2E025B06 - 771906302 Total Stats: 96488287
+2025-02-23 15:30:49.904 -03:00 [ERR] Stats over capped: 8 - 2E025B06 - 771906302 Total Stats: 96488287
+2025-02-23 15:30:49.939 -03:00 [ERR] Stats over capped: 8 - 2E025B06 - 771906302 Total Stats: 96488287
+2025-02-23 15:30:51.190 -03:00 [ERR] Stats over capped: 8 - 4A00CF03 - 1241566971 Total Stats: 155195871
+2025-02-23 15:30:51.219 -03:00 [ERR] Stats over capped: 8 - 4A00CF03 - 1241566971 Total Stats: 155195871
+2025-02-23 15:30:51.257 -03:00 [ERR] Stats over capped: 8 - 4A00CF03 - 1241566971 Total Stats: 155195871
+2025-02-23 15:30:51.295 -03:00 [ERR] Stats over capped: 8 - 4A00CF03 - 1241566971 Total Stats: 155195871
+2025-02-23 15:30:54.036 -03:00 [ERR] Stats over capped: 8 - 5100CE01 - 1359007225 Total Stats: 169875903
+2025-02-23 15:30:54.050 -03:00 [ERR] Stats over capped: 8 - 5100CE01 - 1359007225 Total Stats: 169875903
+2025-02-23 15:30:54.076 -03:00 [ERR] Stats over capped: 8 - 5100CE01 - 1359007225 Total Stats: 169875903
+2025-02-23 15:30:54.099 -03:00 [ERR] Stats over capped: 8 - 5100CE01 - 1359007225 Total Stats: 169875903
+2025-02-23 15:30:54.105 -03:00 [ERR] Stats over capped: 8 - 5100CE01 - 1359007225 Total Stats: 169875903
+2025-02-23 15:30:54.984 -03:00 [ERR] Stats over capped: 8 - 7900B202 - 2030088698 Total Stats: 253761087
+2025-02-23 15:30:54.984 -03:00 [ERR] Stats over capped: 8 - 64013308 - 1677800192 Total Stats: 209725024
+2025-02-23 15:30:54.993 -03:00 [ERR] Stats over capped: 8 - 7900B202 - 2030088698 Total Stats: 253761087
+2025-02-23 15:30:54.994 -03:00 [ERR] Stats over capped: 8 - 64013308 - 1677800192 Total Stats: 209725024
+2025-02-23 15:30:55.010 -03:00 [ERR] Stats over capped: 8 - 64013308 - 1677800192 Total Stats: 209725024
+2025-02-23 15:30:55.035 -03:00 [ERR] Stats over capped: 8 - 64013308 - 1677800192 Total Stats: 209725024
+2025-02-23 15:35:21.297 -03:00 [ERR] Stats over capped: 8 - 63001908 - 1660950784 Total Stats: 207618848
+2025-02-23 15:35:21.321 -03:00 [ERR] Stats over capped: 8 - 63001908 - 1660950784 Total Stats: 207618848
+2025-02-23 15:35:21.333 -03:00 [ERR] Stats over capped: 8 - 63001908 - 1660950784 Total Stats: 207618848
+2025-02-23 15:35:21.770 -03:00 [ERR] Stats over capped: 8 - 8801D302 - 2281820922 Total Stats: 285227615
+2025-02-23 15:35:21.782 -03:00 [ERR] Stats over capped: 8 - 8801D302 - 2281820922 Total Stats: 285227615
+2025-02-23 15:35:21.801 -03:00 [ERR] Stats over capped: 8 - 8801D302 - 2281820922 Total Stats: 285227615
+2025-02-23 15:35:21.824 -03:00 [ERR] Stats over capped: 8 - 8801D302 - 2281820922 Total Stats: 285227615
+2025-02-23 15:35:21.836 -03:00 [ERR] Stats over capped: 8 - 8801D302 - 2281820922 Total Stats: 285227615
+2025-02-23 15:35:35.551 -03:00 [ERR] Stats over capped: 8 - 87010B07 - 2264992511 Total Stats: 283124063
+2025-02-23 15:35:35.574 -03:00 [ERR] Stats over capped: 8 - 87010B07 - 2264992511 Total Stats: 283124063
+2025-02-23 15:35:36.894 -03:00 [ERR] Stats over capped: 8 - 76022103 - 1979851003 Total Stats: 247481375
+2025-02-23 15:35:36.903 -03:00 [ERR] Stats over capped: 8 - 76022103 - 1979851003 Total Stats: 247481375
+2025-02-23 15:35:36.950 -03:00 [ERR] Stats over capped: 8 - 76022103 - 1979851003 Total Stats: 247481375
+2025-02-23 15:36:27.506 -03:00 [ERR] Stats over capped: 8 - 59012D07 - 1493249279 Total Stats: 186656159
+2025-02-23 15:36:27.517 -03:00 [ERR] Stats over capped: 8 - 59012D07 - 1493249279 Total Stats: 186656159
+2025-02-23 15:36:43.169 -03:00 [ERR] Stats over capped: 8 - 9C017801 - 2617341945 Total Stats: 327167743
+2025-02-23 15:36:45.876 -03:00 [ERR] Stats over capped: 8 - 53020D03 - 1392643323 Total Stats: 174080415
+2025-02-23 15:36:45.892 -03:00 [ERR] Stats over capped: 8 - 87023904 - 2265069820 Total Stats: 283133727
+2025-02-23 15:36:45.911 -03:00 [ERR] Stats over capped: 8 - 87023904 - 2265069820 Total Stats: 283133727
+2025-02-23 15:37:15.632 -03:00 [ERR] Stats over capped: 8 - D029F08 - 218275584 Total Stats: 27284448
+2025-02-23 15:37:15.650 -03:00 [ERR] Stats over capped: 8 - D029F08 - 218275584 Total Stats: 27284448
+2025-02-23 15:43:26.207 -03:00 [ERR] Stats over capped: 8 - 4D001905 - 1291852029 Total Stats: 161481503
+2025-02-23 15:43:26.281 -03:00 [ERR] Stats over capped: 8 - 4D001905 - 1291852029 Total Stats: 161481503
+2025-02-23 15:43:26.327 -03:00 [ERR] Stats over capped: 8 - 4D001905 - 1291852029 Total Stats: 161481503
+2025-02-23 15:43:26.367 -03:00 [ERR] Stats over capped: 8 - 4D001905 - 1291852029 Total Stats: 161481503
+2025-02-23 15:43:26.824 -03:00 [ERR] Stats over capped: 21E01D56A - 400040068 - 8086760190 Total Stats: 1010845023
+2025-02-23 15:43:26.851 -03:00 [ERR] Stats over capped: 21E01D56A - 400040068 - 8086760190 Total Stats: 1010845023
+2025-02-23 15:43:26.854 -03:00 [ERR] Stats over capped: 21E01D56A - 400040068 - 8086760190 Total Stats: 1010845023
+2025-02-23 15:43:26.863 -03:00 [ERR] Stats over capped: 21E01D56A - 400040068 - 8086760190 Total Stats: 1010845023
+2025-02-23 15:43:26.865 -03:00 [ERR] Stats over capped: 21E01D56A - 400040068 - 8086760190 Total Stats: 1010845023
+2025-02-23 15:43:26.886 -03:00 [ERR] Stats over capped: 21E01D56A - 400040068 - 8086760190 Total Stats: 1010845023
+2025-02-23 15:43:31.123 -03:00 [ERR] Stats over capped: 8 - 8F023E02 - 2399288826 Total Stats: 299911103
+2025-02-23 15:43:31.146 -03:00 [ERR] Stats over capped: 8 - 8F023E02 - 2399288826 Total Stats: 299911103
+2025-02-23 15:43:31.168 -03:00 [ERR] Stats over capped: 8 - 8F023E02 - 2399288826 Total Stats: 299911103
+2025-02-23 15:43:39.678 -03:00 [ERR] Stats over capped: 8 - 8030005 - 134414333 Total Stats: 16801791
+2025-02-23 15:43:40.138 -03:00 [ERR] Stats over capped: 8 - 80001406 - 2147488766 Total Stats: 268436095
+2025-02-23 15:43:40.154 -03:00 [ERR] Stats over capped: 8 - 80001406 - 2147488766 Total Stats: 268436095
+2025-02-23 15:43:40.172 -03:00 [ERR] Stats over capped: 8 - 80001406 - 2147488766 Total Stats: 268436095
+2025-02-23 15:43:40.189 -03:00 [ERR] Stats over capped: 8 - 80001406 - 2147488766 Total Stats: 268436095
+2025-02-23 15:43:40.431 -03:00 [ERR] Stats over capped: 8 - 94008105 - 2483060989 Total Stats: 310382623
+2025-02-23 15:43:40.930 -03:00 [ERR] Stats over capped: 8 - B02B806 - 184727550 Total Stats: 23090943
+2025-02-23 15:43:41.248 -03:00 [ERR] Stats over capped: 8 - 902F501 - 151188729 Total Stats: 18898591
+2025-02-23 15:43:41.279 -03:00 [ERR] Stats over capped: 8 - 902F501 - 151188729 Total Stats: 18898591
+2025-02-23 15:43:41.321 -03:00 [ERR] Stats over capped: 8 - 902F501 - 151188729 Total Stats: 18898591
+2025-02-23 15:43:41.827 -03:00 [ERR] Stats over capped: 8 - 81014303 - 2164343547 Total Stats: 270542943
+2025-02-23 15:44:03.949 -03:00 [ERR] Stats over capped: 8 - BD006C03 - 3170921467 Total Stats: 396365183
+2025-02-23 15:44:03.969 -03:00 [ERR] Stats over capped: 8 - BD006C03 - 3170921467 Total Stats: 396365183
+2025-02-23 15:44:11.473 -03:00 [ERR] Stats over capped: 8 - CB019D01 - 3405880569 Total Stats: 425735071
+2025-02-23 15:45:00.830 -03:00 [ERR] Stats over capped: 8 - 2A02B806 - 704821246 Total Stats: 88102655
+2025-02-23 15:45:00.837 -03:00 [ERR] Stats over capped: 8 - 2A02B806 - 704821246 Total Stats: 88102655
+2025-02-23 15:45:00.854 -03:00 [ERR] Stats over capped: 8 - 2A02B806 - 704821246 Total Stats: 88102655
+2025-02-23 15:45:02.348 -03:00 [ERR] Stats over capped: 8 - 6701DB08 - 1728174848 Total Stats: 216021856
+2025-02-23 15:45:02.366 -03:00 [ERR] Stats over capped: 8 - 6701DB08 - 1728174848 Total Stats: 216021856
+2025-02-23 15:45:02.383 -03:00 [ERR] Stats over capped: 8 - 6701DB08 - 1728174848 Total Stats: 216021856
+2025-02-23 15:45:06.026 -03:00 [ERR] Stats over capped: 8 - D5004C08 - 3573566464 Total Stats: 446695808
+2025-02-23 15:45:06.096 -03:00 [ERR] Stats over capped: 8 - F031D02 - 251862266 Total Stats: 31482783
+2025-02-23 15:45:06.112 -03:00 [ERR] Stats over capped: 8 - F031D02 - 251862266 Total Stats: 31482783
+2025-02-23 15:45:06.130 -03:00 [ERR] Stats over capped: 8 - F031D02 - 251862266 Total Stats: 31482783
+2025-02-23 15:45:06.148 -03:00 [ERR] Stats over capped: 8 - F031D02 - 251862266 Total Stats: 31482783
+2025-02-23 15:45:06.163 -03:00 [ERR] Stats over capped: 8 - F031D02 - 251862266 Total Stats: 31482783
+2025-02-23 15:45:07.044 -03:00 [ERR] Stats over capped: 8 - 6202AF04 - 1644343036 Total Stats: 205542879
+2025-02-23 15:45:38.627 -03:00 [ERR] Stats over capped: 8 - F4025601 - 4093793785 Total Stats: 511724223
+2025-02-23 15:45:48.063 -03:00 [ERR] Stats over capped: 8 - BC01F307 - 3154244351 Total Stats: 394280543
+2025-02-23 15:45:48.080 -03:00 [ERR] Stats over capped: 8 - BC01F307 - 3154244351 Total Stats: 394280543
+2025-02-23 15:45:48.098 -03:00 [ERR] Stats over capped: 8 - BC01F307 - 3154244351 Total Stats: 394280543
+2025-02-23 15:45:48.115 -03:00 [ERR] Stats over capped: 8 - BC01F307 - 3154244351 Total Stats: 394280543
+2025-02-23 15:45:48.137 -03:00 [ERR] Stats over capped: 8 - BC01F307 - 3154244351 Total Stats: 394280543
+2025-02-23 15:45:48.155 -03:00 [ERR] Stats over capped: 8 - BC01F307 - 3154244351 Total Stats: 394280543
+2025-02-23 15:46:22.731 -03:00 [ERR] Stats over capped: 8 - 62026904 - 1644325116 Total Stats: 205540639
+2025-02-23 15:46:22.753 -03:00 [ERR] Stats over capped: 8 - 62026904 - 1644325116 Total Stats: 205540639
+2025-02-23 15:47:08.069 -03:00 [ERR] Stats over capped: 8 - C5017801 - 3305207801 Total Stats: 413150975
+2025-02-23 15:47:08.103 -03:00 [ERR] Stats over capped: 8 - C5017801 - 3305207801 Total Stats: 413150975
+2025-02-23 15:48:09.995 -03:00 [ERR] Stats over capped: 8 - 11901DA06 - 4714519038 Total Stats: 589314879
+2025-02-23 15:48:10.014 -03:00 [ERR] Stats over capped: 8 - 11901DA06 - 4714519038 Total Stats: 589314879
+2025-02-23 15:48:10.032 -03:00 [ERR] Stats over capped: 8 - 11901DA06 - 4714519038 Total Stats: 589314879
+2025-02-23 15:48:10.056 -03:00 [ERR] Stats over capped: 8 - 11901DA06 - 4714519038 Total Stats: 589314879
+2025-02-23 15:48:10.067 -03:00 [ERR] Stats over capped: 8 - 11901DA06 - 4714519038 Total Stats: 589314879
+2025-02-23 15:48:18.285 -03:00 [ERR] Stats over capped: 8 - 8501A905 - 2231478525 Total Stats: 278934815
+2025-02-23 15:48:21.924 -03:00 [ERR] Stats over capped: 8 - 88004A07 - 2281720319 Total Stats: 285215039
+2025-02-23 15:48:22.319 -03:00 [ERR] Stats over capped: 8 - 89017B02 - 2298575610 Total Stats: 287321951
+2025-02-23 15:48:22.320 -03:00 [ERR] Stats over capped: 8 - 6002F604 - 1610806780 Total Stats: 201350847
+2025-02-23 15:48:22.320 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:22.354 -03:00 [ERR] Stats over capped: 8 - 6002F604 - 1610806780 Total Stats: 201350847
+2025-02-23 15:48:22.354 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:22.370 -03:00 [ERR] Stats over capped: 8 - 6002F604 - 1610806780 Total Stats: 201350847
+2025-02-23 15:48:22.371 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:22.389 -03:00 [ERR] Stats over capped: 8 - 6002F604 - 1610806780 Total Stats: 201350847
+2025-02-23 15:48:22.389 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:22.415 -03:00 [ERR] Stats over capped: 8 - 6002F604 - 1610806780 Total Stats: 201350847
+2025-02-23 15:48:22.415 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:22.425 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:22.441 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:22.458 -03:00 [ERR] Stats over capped: 8 - FB011E02 - 4211154426 Total Stats: 526394303
+2025-02-23 15:48:55.384 -03:00 [ERR] Stats over capped: 8 - FB016B05 - 4211174141 Total Stats: 526396767
+2025-02-23 15:48:55.408 -03:00 [ERR] Stats over capped: 8 - FB016B05 - 4211174141 Total Stats: 526396767
+2025-02-23 15:48:58.932 -03:00 [ERR] Stats over capped: 8 - 100016B05 - 4295060221 Total Stats: 536882527
+2025-02-23 15:48:58.944 -03:00 [ERR] Stats over capped: 8 - 100016B05 - 4295060221 Total Stats: 536882527
+2025-02-23 15:49:03.122 -03:00 [ERR] Stats over capped: 8 - 85018107 - 2231468287 Total Stats: 278933535
+2025-02-23 15:49:03.146 -03:00 [ERR] Stats over capped: 8 - 85018107 - 2231468287 Total Stats: 278933535
+2025-02-23 15:49:03.164 -03:00 [ERR] Stats over capped: 8 - 85018107 - 2231468287 Total Stats: 278933535
+2025-02-23 15:49:03.189 -03:00 [ERR] Stats over capped: 8 - 85018107 - 2231468287 Total Stats: 278933535
+2025-02-23 15:49:06.041 -03:00 [ERR] Stats over capped: 8 - 11000DB08 - 4563458816 Total Stats: 570432352
+2025-02-23 15:49:06.042 -03:00 [ERR] Stats over capped: 8 - 5D009306 - 1560318718 Total Stats: 195039839
+2025-02-23 15:49:06.042 -03:00 [ERR] Stats over capped: 8 - 11C013506 - 4764808446 Total Stats: 595601055
+2025-02-23 15:49:06.042 -03:00 [ERR] Stats over capped: 8 - 126012304 - 4932575996 Total Stats: 616571999
+2025-02-23 15:49:06.054 -03:00 [ERR] Stats over capped: 8 - 5D009306 - 1560318718 Total Stats: 195039839
+2025-02-23 15:49:06.054 -03:00 [ERR] Stats over capped: 8 - 11C013506 - 4764808446 Total Stats: 595601055
+2025-02-23 15:49:06.054 -03:00 [ERR] Stats over capped: 8 - 126012304 - 4932575996 Total Stats: 616571999
+2025-02-23 15:49:06.074 -03:00 [ERR] Stats over capped: 8 - 5D009306 - 1560318718 Total Stats: 195039839
+2025-02-23 15:49:06.074 -03:00 [ERR] Stats over capped: 8 - 11C013506 - 4764808446 Total Stats: 595601055
+2025-02-23 15:49:06.074 -03:00 [ERR] Stats over capped: 8 - 126012304 - 4932575996 Total Stats: 616571999
+2025-02-23 15:49:06.822 -03:00 [ERR] Stats over capped: 8 - 106019906 - 4395735294 Total Stats: 549466911
+2025-02-23 15:49:07.830 -03:00 [ERR] Stats over capped: 8 - DE01AF03 - 3724652283 Total Stats: 465581535
+2025-02-23 15:49:08.010 -03:00 [ERR] Stats over capped: 8 - 95022104 - 2499944700 Total Stats: 312493087
+2025-02-23 15:49:08.036 -03:00 [ERR] Stats over capped: 8 - 95022104 - 2499944700 Total Stats: 312493087
+2025-02-23 15:49:16.234 -03:00 [ERR] Stats over capped: 8 - 92016406 - 2449564670 Total Stats: 306195583
+2025-02-23 15:49:16.258 -03:00 [ERR] Stats over capped: 8 - 92016406 - 2449564670 Total Stats: 306195583
+2025-02-23 15:49:16.270 -03:00 [ERR] Stats over capped: 8 - 92016406 - 2449564670 Total Stats: 306195583
+2025-02-23 16:18:26.464 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-02-23 20:05:02.024 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.Classes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.classes', line 21257, position 20.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-23 20:05:02.028 -03:00 [ERR] Exception while deserializing Json treeNewtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'PassiveSkillTreePlanter.SkillTreeJson.CharacterAttributes' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'constants.characterAttributes', line 21258, position 32.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+2025-02-23 20:07:24.365 -03:00 [ERR] Stats over capped: 8 - B00C305 - 184599293 Total Stats: 23074911
+2025-02-23 20:07:24.380 -03:00 [ERR] Stats over capped: 8 - B00C305 - 184599293 Total Stats: 23074911
+2025-02-23 20:07:24.410 -03:00 [ERR] Stats over capped: 8 - B00C305 - 184599293 Total Stats: 23074911
+2025-02-23 20:07:24.424 -03:00 [ERR] Stats over capped: 8 - B00C305 - 184599293 Total Stats: 23074911
+2025-02-23 20:07:46.903 -03:00 [ERR] Stats over capped: 8 - 6016808 - 100755456 Total Stats: 12594432
+2025-02-23 20:07:46.903 -03:00 [ERR] Stats over capped: 8 - 8008D01 - 134253817 Total Stats: 16781727
+2025-02-23 20:07:46.903 -03:00 [ERR] Stats over capped: 8 - 6031E02 - 100867578 Total Stats: 12608447
+2025-02-23 20:07:46.903 -03:00 [ERR] Stats over capped: 8 - 19006503 - 419456251 Total Stats: 52432031
+2025-02-23 20:07:46.932 -03:00 [ERR] Stats over capped: 8 - 6016808 - 100755456 Total Stats: 12594432
+2025-02-23 20:07:46.932 -03:00 [ERR] Stats over capped: 8 - 8008D01 - 134253817 Total Stats: 16781727
+2025-02-23 20:07:46.932 -03:00 [ERR] Stats over capped: 8 - 6031E02 - 100867578 Total Stats: 12608447
+2025-02-23 20:07:46.932 -03:00 [ERR] Stats over capped: 8 - 19006503 - 419456251 Total Stats: 52432031
+2025-02-23 20:07:46.945 -03:00 [ERR] Stats over capped: 8 - 6016808 - 100755456 Total Stats: 12594432
+2025-02-23 20:07:46.945 -03:00 [ERR] Stats over capped: 8 - 8008D01 - 134253817 Total Stats: 16781727
+2025-02-23 20:07:46.945 -03:00 [ERR] Stats over capped: 8 - 6031E02 - 100867578 Total Stats: 12608447
+2025-02-23 20:07:46.945 -03:00 [ERR] Stats over capped: 8 - 19006503 - 419456251 Total Stats: 52432031
+2025-02-23 20:07:49.957 -03:00 [ERR] Stats over capped: 8 - 1C00B004 - 469807100 Total Stats: 58725887
+2025-02-23 20:07:49.984 -03:00 [ERR] Stats over capped: 8 - 1C00B004 - 469807100 Total Stats: 58725887
+2025-02-23 20:07:49.998 -03:00 [ERR] Stats over capped: 8 - 1C00B004 - 469807100 Total Stats: 58725887
+2025-02-23 20:07:50.867 -03:00 [ERR] Stats over capped: 8 - 14010101 - 335610105 Total Stats: 41951263
+2025-02-23 20:07:50.885 -03:00 [ERR] Stats over capped: 8 - 14010101 - 335610105 Total Stats: 41951263
+2025-02-23 20:07:50.910 -03:00 [ERR] Stats over capped: 8 - 14010101 - 335610105 Total Stats: 41951263
+2025-02-23 20:07:50.958 -03:00 [ERR] Stats over capped: 8 - 14010101 - 335610105 Total Stats: 41951263
+2025-02-23 20:07:51.608 -03:00 [ERR] Stats over capped: 8 - A030B06 - 167971582 Total Stats: 20996447
+2025-02-23 20:08:13.517 -03:00 [ERR] Stats over capped: 8 - 1201FC08 - 302119936 Total Stats: 37764992
+2025-02-23 20:08:13.539 -03:00 [ERR] Stats over capped: 8 - 1201FC08 - 302119936 Total Stats: 37764992
+2025-02-23 20:08:13.552 -03:00 [ERR] Stats over capped: 8 - 1201FC08 - 302119936 Total Stats: 37764992
+2025-02-23 20:08:19.910 -03:00 [ERR] Stats over capped: 8 - 22010D04 - 570494204 Total Stats: 71311775
+2025-02-23 20:09:08.032 -03:00 [ERR] Stats over capped: 8 - 2A00AF04 - 704687868 Total Stats: 88085983
+2025-02-23 20:09:08.046 -03:00 [ERR] Stats over capped: 8 - 2A00AF04 - 704687868 Total Stats: 88085983
+2025-02-23 20:09:13.433 -03:00 [ERR] Stats over capped: 8 - 42002B03 - 1107307259 Total Stats: 138413407
+2025-02-23 20:09:13.459 -03:00 [ERR] Stats over capped: 8 - 42002B03 - 1107307259 Total Stats: 138413407
+2025-02-23 20:09:14.058 -03:00 [ERR] Stats over capped: 8 - 18025B03 - 402807547 Total Stats: 50350943
+2025-02-23 20:09:14.077 -03:00 [ERR] Stats over capped: 8 - 18025B03 - 402807547 Total Stats: 50350943
+2025-02-23 20:09:14.094 -03:00 [ERR] Stats over capped: 8 - 18025B03 - 402807547 Total Stats: 50350943
+2025-02-23 20:09:14.327 -03:00 [ERR] Stats over capped: 8 - 2802E702 - 671278842 Total Stats: 83909855
+2025-02-23 20:09:14.327 -03:00 [ERR] Stats over capped: 8 - 2C009804 - 738236412 Total Stats: 92279551
+2025-02-23 20:09:14.345 -03:00 [ERR] Stats over capped: 8 - 2802E702 - 671278842 Total Stats: 83909855
+2025-02-23 20:09:14.345 -03:00 [ERR] Stats over capped: 8 - 2C009804 - 738236412 Total Stats: 92279551
+2025-02-23 20:09:14.362 -03:00 [ERR] Stats over capped: 8 - 2802E702 - 671278842 Total Stats: 83909855
+2025-02-23 20:09:14.362 -03:00 [ERR] Stats over capped: 8 - 2C009804 - 738236412 Total Stats: 92279551
+2025-02-23 20:09:14.584 -03:00 [ERR] Stats over capped: 8 - E033C08 - 235092992 Total Stats: 29386624
+2025-02-23 20:09:23.692 -03:00 [ERR] Stats over capped: 8 - 2A017205 - 704737789 Total Stats: 88092223
+2025-02-23 20:09:23.710 -03:00 [ERR] Stats over capped: 8 - 2A017205 - 704737789 Total Stats: 88092223
+2025-02-23 20:09:23.730 -03:00 [ERR] Stats over capped: 8 - 2A017205 - 704737789 Total Stats: 88092223
+2025-02-23 20:09:23.751 -03:00 [ERR] Stats over capped: 8 - 2A017205 - 704737789 Total Stats: 88092223
+2025-02-23 20:09:23.762 -03:00 [ERR] Stats over capped: 8 - 2A017205 - 704737789 Total Stats: 88092223
+2025-02-23 20:09:23.779 -03:00 [ERR] Stats over capped: 8 - 2A017205 - 704737789 Total Stats: 88092223
+2025-02-23 20:09:28.051 -03:00 [ERR] Stats over capped: 8 - 2E018501 - 771851513 Total Stats: 96481439
+2025-02-23 20:09:28.051 -03:00 [ERR] Stats over capped: 8 - 19013201 - 419508729 Total Stats: 52438591
+2025-02-23 20:09:54.621 -03:00 [ERR] Stats over capped: 8 - 2800F008 - 671150080 Total Stats: 83893760
+2025-02-23 20:09:54.639 -03:00 [ERR] Stats over capped: 8 - 2800F008 - 671150080 Total Stats: 83893760
+2025-02-23 20:09:54.656 -03:00 [ERR] Stats over capped: 8 - 2800F008 - 671150080 Total Stats: 83893760
+2025-02-23 20:09:54.656 -03:00 [ERR] Stats over capped: 8 - 1702A806 - 386050046 Total Stats: 48256255
+2025-02-23 20:09:55.203 -03:00 [ERR] Stats over capped: 8 - 2600AD01 - 637578489 Total Stats: 79697311
+2025-02-23 20:22:04.957 -03:00 [ERR] Stats over capped: 8 - 21019604 - 553752060 Total Stats: 69219007
+2025-02-23 20:22:04.974 -03:00 [ERR] Stats over capped: 8 - 21019604 - 553752060 Total Stats: 69219007
+2025-02-23 20:22:04.991 -03:00 [ERR] Stats over capped: 8 - 21019604 - 553752060 Total Stats: 69219007
+2025-02-23 20:22:05.009 -03:00 [ERR] Stats over capped: 8 - 21019604 - 553752060 Total Stats: 69219007
+2025-02-23 20:22:05.032 -03:00 [ERR] Stats over capped: 8 - 21019604 - 553752060 Total Stats: 69219007
+2025-02-23 20:22:05.049 -03:00 [ERR] Stats over capped: 8 - 21019604 - 553752060 Total Stats: 69219007
+2025-02-23 20:22:09.105 -03:00 [ERR] Stats over capped: 8 - 3600A205 - 906011133 Total Stats: 113251391
+2025-02-23 20:22:12.364 -03:00 [ERR] Stats over capped: 8 - 37017A07 - 922843647 Total Stats: 115355455
+2025-02-23 20:22:12.364 -03:00 [ERR] Stats over capped: 8 - 3300C106 - 855687422 Total Stats: 106960927
+2025-02-23 20:22:12.382 -03:00 [ERR] Stats over capped: 8 - 37017A07 - 922843647 Total Stats: 115355455
+2025-02-23 20:22:13.175 -03:00 [ERR] Stats over capped: 8 - 4200BF02 - 1107345146 Total Stats: 138418143
+2025-02-23 20:22:13.408 -03:00 [ERR] Stats over capped: 8 - 16032904 - 369305852 Total Stats: 46163231
+2025-02-23 20:22:13.408 -03:00 [ERR] Stats over capped: 8 - 34017C08 - 872512512 Total Stats: 109064064
+2025-02-23 20:22:13.422 -03:00 [ERR] Stats over capped: 8 - 16032904 - 369305852 Total Stats: 46163231
+2025-02-23 20:22:13.422 -03:00 [ERR] Stats over capped: 8 - 34017C08 - 872512512 Total Stats: 109064064
+2025-02-23 20:22:13.638 -03:00 [ERR] Stats over capped: 8 - 14024008 - 335691776 Total Stats: 41961472
+2025-02-23 20:22:13.652 -03:00 [ERR] Stats over capped: 8 - 14024008 - 335691776 Total Stats: 41961472
+2025-02-23 20:22:13.670 -03:00 [ERR] Stats over capped: 8 - 14024008 - 335691776 Total Stats: 41961472
+2025-02-23 20:22:13.687 -03:00 [ERR] Stats over capped: 8 - 14024008 - 335691776 Total Stats: 41961472
+2025-02-23 20:22:13.704 -03:00 [ERR] Stats over capped: 8 - 14024008 - 335691776 Total Stats: 41961472
+2025-02-23 20:22:13.722 -03:00 [ERR] Stats over capped: 8 - 14024008 - 335691776 Total Stats: 41961472
+2025-02-23 20:22:13.746 -03:00 [ERR] Stats over capped: 8 - 14024008 - 335691776 Total Stats: 41961472
+2025-02-23 20:22:17.059 -03:00 [ERR] Stats over capped: 8 - 5036008 - 84107264 Total Stats: 10513408
+2025-02-23 20:22:17.080 -03:00 [ERR] Stats over capped: 8 - 5036008 - 84107264 Total Stats: 10513408
+2025-02-23 20:22:23.795 -03:00 [ERR] Stats over capped: 8 - 5C005508 - 1543525632 Total Stats: 192940704
+2025-02-23 20:22:23.796 -03:00 [ERR] Stats over capped: 8 - 22035604 - 570643964 Total Stats: 71330495
+2025-02-23 20:22:23.796 -03:00 [ERR] Stats over capped: 8 - 2F032C04 - 788737020 Total Stats: 98592127
+2025-02-23 20:22:23.812 -03:00 [ERR] Stats over capped: 8 - 22035604 - 570643964 Total Stats: 71330495
+2025-02-23 20:22:23.812 -03:00 [ERR] Stats over capped: 8 - 2F032C04 - 788737020 Total Stats: 98592127
+2025-02-23 20:22:23.831 -03:00 [ERR] Stats over capped: 8 - 22035604 - 570643964 Total Stats: 71330495
+2025-02-23 20:22:23.831 -03:00 [ERR] Stats over capped: 8 - 2F032C04 - 788737020 Total Stats: 98592127
+2025-02-23 20:22:23.854 -03:00 [ERR] Stats over capped: 8 - 22035604 - 570643964 Total Stats: 71330495
+2025-02-23 20:22:23.854 -03:00 [ERR] Stats over capped: 8 - 2F032C04 - 788737020 Total Stats: 98592127
+2025-02-23 20:22:23.871 -03:00 [ERR] Stats over capped: 8 - 22035604 - 570643964 Total Stats: 71330495
+2025-02-23 20:22:23.871 -03:00 [ERR] Stats over capped: 8 - 2F032C04 - 788737020 Total Stats: 98592127
+2025-02-23 20:22:52.887 -03:00 [ERR] Stats over capped: 8 - 46012704 - 1174480636 Total Stats: 146810079
+2025-02-23 20:22:52.905 -03:00 [ERR] Stats over capped: 8 - 46012704 - 1174480636 Total Stats: 146810079
+2025-02-23 20:22:58.384 -03:00 [ERR] Stats over capped: 8 - 40021A07 - 1073879551 Total Stats: 134234943
+2025-02-23 20:22:59.100 -03:00 [ERR] Stats over capped: 8 - 5B000A01 - 1526729209 Total Stats: 190841151
+2025-02-23 20:23:07.021 -03:00 [ERR] Stats over capped: 8 - 48008208 - 1207992832 Total Stats: 150999104
+2025-02-23 20:23:07.039 -03:00 [ERR] Stats over capped: 8 - 48008208 - 1207992832 Total Stats: 150999104
+2025-02-23 20:23:07.482 -03:00 [ERR] Stats over capped: 8 - 57029902 - 1459788026 Total Stats: 182473503
+2025-02-23 20:23:07.482 -03:00 [ERR] Stats over capped: 8 - 51013307 - 1359033087 Total Stats: 169879135
+2025-02-23 20:23:07.482 -03:00 [ERR] Stats over capped: 8 - 61003C04 - 1627405308 Total Stats: 203425663
+2025-02-23 20:23:07.501 -03:00 [ERR] Stats over capped: 8 - 57029902 - 1459788026 Total Stats: 182473503
+2025-02-23 20:23:07.501 -03:00 [ERR] Stats over capped: 8 - 51013307 - 1359033087 Total Stats: 169879135
+2025-02-23 20:23:07.501 -03:00 [ERR] Stats over capped: 8 - 61003C04 - 1627405308 Total Stats: 203425663
+2025-02-23 20:23:07.517 -03:00 [ERR] Stats over capped: 8 - 57029902 - 1459788026 Total Stats: 182473503
+2025-02-23 20:23:07.517 -03:00 [ERR] Stats over capped: 8 - 51013307 - 1359033087 Total Stats: 169879135
+2025-02-23 20:23:07.517 -03:00 [ERR] Stats over capped: 8 - 61003C04 - 1627405308 Total Stats: 203425663
+2025-02-23 20:23:07.535 -03:00 [ERR] Stats over capped: 8 - 57029902 - 1459788026 Total Stats: 182473503
+2025-02-23 20:23:07.535 -03:00 [ERR] Stats over capped: 8 - 51013307 - 1359033087 Total Stats: 169879135
+2025-02-23 20:23:07.535 -03:00 [ERR] Stats over capped: 8 - 61003C04 - 1627405308 Total Stats: 203425663
+2025-02-23 20:23:07.553 -03:00 [ERR] Stats over capped: 8 - 57029902 - 1459788026 Total Stats: 182473503
+2025-02-23 20:23:07.553 -03:00 [ERR] Stats over capped: 8 - 51013307 - 1359033087 Total Stats: 169879135
+2025-02-23 20:23:07.553 -03:00 [ERR] Stats over capped: 8 - 61003C04 - 1627405308 Total Stats: 203425663
+2025-02-23 20:23:08.883 -03:00 [ERR] Stats over capped: 8 - 4101D202 - 1090638330 Total Stats: 136329791
+2025-02-23 20:23:22.428 -03:00 [ERR] Stats over capped: 8 - 2C02B705 - 738375421 Total Stats: 92296927
+2025-02-23 20:23:22.458 -03:00 [ERR] Stats over capped: 8 - 2C02B705 - 738375421 Total Stats: 92296927
+2025-02-23 20:23:22.469 -03:00 [ERR] Stats over capped: 8 - 2C02B705 - 738375421 Total Stats: 92296927
+2025-02-23 20:23:24.277 -03:00 [ERR] Stats over capped: 8 - 4E023306 - 1308766974 Total Stats: 163595871
+2025-02-23 20:23:24.294 -03:00 [ERR] Stats over capped: 8 - 4E023306 - 1308766974 Total Stats: 163595871
+2025-02-23 20:23:24.316 -03:00 [ERR] Stats over capped: 8 - 4E023306 - 1308766974 Total Stats: 163595871
+2025-02-23 20:23:24.330 -03:00 [ERR] Stats over capped: 8 - 4E023306 - 1308766974 Total Stats: 163595871
+2025-02-23 20:23:24.865 -03:00 [ERR] Stats over capped: 8 - 4802EE04 - 1208151548 Total Stats: 151018943
+2025-02-23 20:23:24.883 -03:00 [ERR] Stats over capped: 8 - 4802EE04 - 1208151548 Total Stats: 151018943
+2025-02-23 20:23:24.905 -03:00 [ERR] Stats over capped: 8 - 4802EE04 - 1208151548 Total Stats: 151018943
+2025-02-23 20:23:31.724 -03:00 [ERR] Stats over capped: 8 - 39031606 - 956503550 Total Stats: 119562943
+2025-02-23 20:23:34.277 -03:00 [ERR] Stats over capped: 8 - 48018B01 - 1208060665 Total Stats: 151007583
+2025-02-23 20:23:34.300 -03:00 [ERR] Stats over capped: 8 - 48018B01 - 1208060665 Total Stats: 151007583
+2025-02-23 20:23:34.316 -03:00 [ERR] Stats over capped: 8 - 48018B01 - 1208060665 Total Stats: 151007583
+2025-02-23 20:23:59.417 -03:00 [ERR] Stats over capped: 8 - 43007504 - 1124103420 Total Stats: 140512927
+2025-02-23 20:23:59.434 -03:00 [ERR] Stats over capped: 8 - 43007504 - 1124103420 Total Stats: 140512927
+2025-02-23 20:23:59.455 -03:00 [ERR] Stats over capped: 8 - 43007504 - 1124103420 Total Stats: 140512927
+2025-02-23 20:24:00.297 -03:00 [ERR] Stats over capped: 8 - 33007A07 - 855669247 Total Stats: 106958655
+2025-02-23 20:24:00.297 -03:00 [ERR] Stats over capped: 8 - 23029805 - 587372541 Total Stats: 73421567
+2025-02-23 20:24:00.297 -03:00 [ERR] Stats over capped: 8 - 38029C06 - 939695102 Total Stats: 117461887
+2025-02-23 20:24:00.307 -03:00 [ERR] Stats over capped: 8 - 33007A07 - 855669247 Total Stats: 106958655
+2025-02-23 20:24:00.307 -03:00 [ERR] Stats over capped: 8 - 23029805 - 587372541 Total Stats: 73421567
+2025-02-23 20:24:00.307 -03:00 [ERR] Stats over capped: 8 - 38029C06 - 939695102 Total Stats: 117461887
+2025-02-23 20:24:00.331 -03:00 [ERR] Stats over capped: 8 - 33007A07 - 855669247 Total Stats: 106958655
+2025-02-23 20:24:00.334 -03:00 [ERR] Stats over capped: 8 - 23029805 - 587372541 Total Stats: 73421567
+2025-02-23 20:24:00.334 -03:00 [ERR] Stats over capped: 8 - 64001808 - 1677727744 Total Stats: 209715968
+2025-02-23 20:24:00.356 -03:00 [ERR] Stats over capped: 8 - 58019708 - 1476499200 Total Stats: 184562400
+2025-02-23 20:24:00.356 -03:00 [ERR] Stats over capped: 8 - 23029805 - 587372541 Total Stats: 73421567
+2025-02-23 20:24:00.356 -03:00 [ERR] Stats over capped: 8 - 64001808 - 1677727744 Total Stats: 209715968
+2025-02-23 20:24:00.366 -03:00 [ERR] Stats over capped: 8 - 58019708 - 1476499200 Total Stats: 184562400
+2025-02-23 20:24:00.366 -03:00 [ERR] Stats over capped: 8 - 23029805 - 587372541 Total Stats: 73421567
+2025-02-23 20:24:00.366 -03:00 [ERR] Stats over capped: 8 - 64001808 - 1677727744 Total Stats: 209715968
+2025-02-23 20:24:00.383 -03:00 [ERR] Stats over capped: 8 - 6F027703 - 1862432507 Total Stats: 232804063
+2025-02-23 20:24:00.384 -03:00 [ERR] Stats over capped: 8 - 23029805 - 587372541 Total Stats: 73421567
+2025-02-23 20:24:00.384 -03:00 [ERR] Stats over capped: 8 - 64001808 - 1677727744 Total Stats: 209715968
+2025-02-23 20:24:00.401 -03:00 [ERR] Stats over capped: 8 - 6F027703 - 1862432507 Total Stats: 232804063
+2025-02-23 20:24:00.431 -03:00 [ERR] Stats over capped: 8 - 6F027703 - 1862432507 Total Stats: 232804063
+2025-02-23 20:24:00.442 -03:00 [ERR] Stats over capped: 8 - 6F027703 - 1862432507 Total Stats: 232804063
+2025-02-23 20:24:00.556 -03:00 [ERR] Stats over capped: 8 - 9A007502 - 2583721210 Total Stats: 322965151
+2025-02-23 20:24:00.570 -03:00 [ERR] Stats over capped: 8 - 9A007502 - 2583721210 Total Stats: 322965151
+2025-02-23 20:24:44.234 -03:00 [ERR] Stats over capped: 8 - 54001507 - 1409291519 Total Stats: 176161439
+2025-02-23 20:24:44.251 -03:00 [ERR] Stats over capped: 8 - 54001507 - 1409291519 Total Stats: 176161439
+2025-02-23 20:25:08.748 -03:00 [ERR] Stats over capped: 8 - 55024C03 - 1426213883 Total Stats: 178276735
+2025-02-23 20:25:09.310 -03:00 [ERR] Stats over capped: 8 - 3400A802 - 872458234 Total Stats: 109057279
+2025-02-23 20:25:09.329 -03:00 [ERR] Stats over capped: 8 - 3400A802 - 872458234 Total Stats: 109057279
+2025-02-23 20:25:09.346 -03:00 [ERR] Stats over capped: 8 - 3400A802 - 872458234 Total Stats: 109057279
+2025-02-23 20:25:19.878 -03:00 [ERR] Stats over capped: 8 - 7102E206 - 1896014334 Total Stats: 237001791
+2025-02-23 20:25:19.893 -03:00 [ERR] Stats over capped: 8 - 77017F02 - 1996586746 Total Stats: 249573343
+2025-02-23 20:25:19.909 -03:00 [ERR] Stats over capped: 8 - 6301CA05 - 1661061629 Total Stats: 207632703
+2025-02-23 20:25:19.910 -03:00 [ERR] Stats over capped: 8 - 3802F006 - 939716606 Total Stats: 117464575
+2025-02-23 20:25:19.910 -03:00 [ERR] Stats over capped: 8 - 77017F02 - 1996586746 Total Stats: 249573343
+2025-02-23 20:25:19.926 -03:00 [ERR] Stats over capped: 8 - 6301CA05 - 1661061629 Total Stats: 207632703
+2025-02-23 20:25:19.926 -03:00 [ERR] Stats over capped: 8 - 3802F006 - 939716606 Total Stats: 117464575
+2025-02-23 20:25:19.927 -03:00 [ERR] Stats over capped: 8 - 77017F02 - 1996586746 Total Stats: 249573343
+2025-02-23 20:25:19.963 -03:00 [ERR] Stats over capped: 8 - 77029007 - 1996656639 Total Stats: 249582079
+2025-02-23 20:25:19.980 -03:00 [ERR] Stats over capped: 8 - 6300C406 - 1660994558 Total Stats: 207624319
+2025-02-23 20:25:19.981 -03:00 [ERR] Stats over capped: 8 - 77029007 - 1996656639 Total Stats: 249582079
+2025-02-23 20:25:19.997 -03:00 [ERR] Stats over capped: 8 - 6300C406 - 1660994558 Total Stats: 207624319
+2025-02-23 20:25:19.998 -03:00 [ERR] Stats over capped: 8 - 77029007 - 1996656639 Total Stats: 249582079
+2025-02-23 20:25:20.014 -03:00 [ERR] Stats over capped: 8 - 6300C406 - 1660994558 Total Stats: 207624319
+2025-02-23 20:25:20.014 -03:00 [ERR] Stats over capped: 8 - 77029007 - 1996656639 Total Stats: 249582079
+2025-02-23 20:25:20.014 -03:00 [ERR] Stats over capped: 8 - 6C019505 - 1812043005 Total Stats: 226505375
+2025-02-23 20:25:20.033 -03:00 [ERR] Stats over capped: 8 - 6300C406 - 1660994558 Total Stats: 207624319
+2025-02-23 20:25:20.034 -03:00 [ERR] Stats over capped: 8 - 77029007 - 1996656639 Total Stats: 249582079
+2025-02-23 20:25:20.034 -03:00 [ERR] Stats over capped: 8 - 6C019505 - 1812043005 Total Stats: 226505375
+2025-02-23 20:25:20.051 -03:00 [ERR] Stats over capped: 8 - 6300C406 - 1660994558 Total Stats: 207624319
+2025-02-23 20:25:20.052 -03:00 [ERR] Stats over capped: 8 - 77029007 - 1996656639 Total Stats: 249582079
+2025-02-23 20:25:20.052 -03:00 [ERR] Stats over capped: 8 - 6C019505 - 1812043005 Total Stats: 226505375
+2025-02-23 20:25:20.085 -03:00 [ERR] Stats over capped: 8 - 68004204 - 1744847356 Total Stats: 218105919
+2025-02-23 20:25:42.641 -03:00 [ERR] Stats over capped: 8 - 4701FF03 - 1191313147 Total Stats: 148914143
+2025-02-23 20:25:42.659 -03:00 [ERR] Stats over capped: 8 - 4701FF03 - 1191313147 Total Stats: 148914143
+2025-02-23 20:25:42.677 -03:00 [ERR] Stats over capped: 8 - 4701FF03 - 1191313147 Total Stats: 148914143
+2025-02-23 20:25:42.696 -03:00 [ERR] Stats over capped: 8 - 4701FF03 - 1191313147 Total Stats: 148914143
+2025-02-23 20:25:50.297 -03:00 [ERR] Stats over capped: 8 - 9C00D904 - 2617301244 Total Stats: 327162655
+2025-02-23 20:25:55.572 -03:00 [ERR] Stats over capped: 8 - 75009806 - 1962973182 Total Stats: 245371647
+2025-02-23 20:26:19.669 -03:00 [ERR] Stats over capped: 8 - 28035F04 - 671309564 Total Stats: 83913695
+2025-02-23 20:26:19.687 -03:00 [ERR] Stats over capped: 8 - 28035F04 - 671309564 Total Stats: 83913695
+2025-02-23 20:26:21.356 -03:00 [ERR] Stats over capped: 8 - 7D029403 - 2097320955 Total Stats: 262165119
+2025-02-23 20:26:21.369 -03:00 [ERR] Stats over capped: 8 - 7D029403 - 2097320955 Total Stats: 262165119
+2025-02-23 20:26:21.386 -03:00 [ERR] Stats over capped: 8 - 7D029403 - 2097320955 Total Stats: 262165119
+2025-02-23 20:26:21.403 -03:00 [ERR] Stats over capped: 8 - 7D029403 - 2097320955 Total Stats: 262165119
+2025-02-23 20:29:07.514 -03:00 [ERR] Stats over capped: 8 - 6F01C301 - 1862386425 Total Stats: 232798303
+2025-02-23 20:29:07.531 -03:00 [ERR] Stats over capped: 8 - 6F01C301 - 1862386425 Total Stats: 232798303
+2025-02-23 20:29:09.264 -03:00 [ERR] Stats over capped: 8 - 9D021A02 - 2634160634 Total Stats: 329270079
+2025-02-23 20:29:09.311 -03:00 [ERR] Stats over capped: 8 - 9D021A02 - 2634160634 Total Stats: 329270079
+2025-02-23 20:29:09.323 -03:00 [ERR] Stats over capped: 8 - 9D021A02 - 2634160634 Total Stats: 329270079
+2025-02-23 20:29:09.349 -03:00 [ERR] Stats over capped: 8 - 9D021A02 - 2634160634 Total Stats: 329270079
+2025-02-23 20:29:09.368 -03:00 [ERR] Stats over capped: 8 - 9D021A02 - 2634160634 Total Stats: 329270079
+2025-02-23 20:29:23.817 -03:00 [ERR] Stats over capped: 8 - 4001CB06 - 1073859326 Total Stats: 134232415
+2025-02-23 20:29:23.817 -03:00 [ERR] Stats over capped: 8 - 1041305 - 17044221 Total Stats: 2130527
+2025-02-23 20:29:23.851 -03:00 [ERR] Stats over capped: 8 - 4001CB06 - 1073859326 Total Stats: 134232415
+2025-02-23 20:29:23.852 -03:00 [ERR] Stats over capped: 8 - 1041305 - 17044221 Total Stats: 2130527
+2025-02-23 20:29:42.861 -03:00 [ERR] Stats over capped: 8 - 703F908 - 117700864 Total Stats: 14712608
+2025-02-23 20:29:42.862 -03:00 [ERR] Stats over capped: 8 - AF016B06 - 2936105726 Total Stats: 367013215
+2025-02-23 20:29:42.879 -03:00 [ERR] Stats over capped: 8 - 703F908 - 117700864 Total Stats: 14712608
+2025-02-23 20:29:42.879 -03:00 [ERR] Stats over capped: 8 - AF016B06 - 2936105726 Total Stats: 367013215
+2025-02-23 20:29:42.898 -03:00 [ERR] Stats over capped: 8 - 703F908 - 117700864 Total Stats: 14712608
+2025-02-23 20:29:42.898 -03:00 [ERR] Stats over capped: 8 - AF016B06 - 2936105726 Total Stats: 367013215
+2025-02-23 20:29:48.894 -03:00 [ERR] Stats over capped: 8 - 69002D02 - 1761619194 Total Stats: 220202399
+2025-02-23 20:30:13.630 -03:00 [ERR] Stats over capped: 8 - 9701AA02 - 2533468666 Total Stats: 316683583
+2025-02-23 20:30:16.177 -03:00 [ERR] Stats over capped: 8 - 3A009D07 - 973118719 Total Stats: 121639839
+2025-02-23 20:30:16.177 -03:00 [ERR] Stats over capped: 8 - 7200C208 - 1912652288 Total Stats: 239081536
+2025-02-23 20:30:16.177 -03:00 [ERR] Stats over capped: 8 - E0024902 - 3758246138 Total Stats: 469780767
+2025-02-23 20:30:16.177 -03:00 [ERR] Stats over capped: 8 - 93003E03 - 2466266619 Total Stats: 308283327
+2025-02-23 20:30:16.185 -03:00 [ERR] Stats over capped: 8 - 3A009D07 - 973118719 Total Stats: 121639839
+2025-02-23 20:30:16.186 -03:00 [ERR] Stats over capped: 8 - E0024902 - 3758246138 Total Stats: 469780767
+2025-02-23 20:30:16.186 -03:00 [ERR] Stats over capped: 8 - 93003E03 - 2466266619 Total Stats: 308283327
+2025-02-23 20:30:16.203 -03:00 [ERR] Stats over capped: 8 - 3A009D07 - 973118719 Total Stats: 121639839
+2025-02-23 20:30:16.203 -03:00 [ERR] Stats over capped: 8 - E0024902 - 3758246138 Total Stats: 469780767
+2025-02-23 20:30:16.203 -03:00 [ERR] Stats over capped: 8 - 93003E03 - 2466266619 Total Stats: 308283327
+2025-02-23 20:30:16.220 -03:00 [ERR] Stats over capped: 8 - 3A009D07 - 973118719 Total Stats: 121639839
+2025-02-23 20:30:16.220 -03:00 [ERR] Stats over capped: 8 - E0024902 - 3758246138 Total Stats: 469780767
+2025-02-23 20:30:16.221 -03:00 [ERR] Stats over capped: 8 - 93003E03 - 2466266619 Total Stats: 308283327
+2025-02-23 20:30:39.641 -03:00 [ERR] Stats over capped: 8 - 85009101 - 2231406841 Total Stats: 278925855
+2025-02-23 20:30:43.628 -03:00 [ERR] Stats over capped: 8 - AA025308 - 2852279040 Total Stats: 356534880
+2025-02-23 20:30:43.654 -03:00 [ERR] Stats over capped: 8 - AA025308 - 2852279040 Total Stats: 356534880
+2025-02-23 20:30:45.193 -03:00 [ERR] Stats over capped: 8 - 24041008 - 604246016 Total Stats: 75530752
+2025-02-23 20:31:33.377 -03:00 [ERR] Stats over capped: 8 - A6017C06 - 2785115134 Total Stats: 348139391
+2025-02-23 20:31:33.401 -03:00 [ERR] Stats over capped: 8 - A6017C06 - 2785115134 Total Stats: 348139391
+2025-02-23 20:31:33.430 -03:00 [ERR] Stats over capped: 8 - A6017C06 - 2785115134 Total Stats: 348139391
+2025-02-23 20:31:36.719 -03:00 [ERR] Stats over capped: 8 - 50023206 - 1342321150 Total Stats: 167790143
+2025-02-23 20:48:24.297 -03:00 [ERR] Stats over capped: 8 - 29048508 - 688162048 Total Stats: 86020256
+2025-02-23 20:48:29.496 -03:00 [ERR] Stats over capped: 8 - 5051A05 - 84220413 Total Stats: 10527551
+2025-02-23 20:48:29.530 -03:00 [ERR] Stats over capped: 8 - 5051A05 - 84220413 Total Stats: 10527551
+2025-02-23 20:48:29.721 -03:00 [ERR] Stats over capped: 8 - 34054906 - 872761598 Total Stats: 109095199
+2025-02-23 20:48:38.229 -03:00 [ERR] Stats over capped: 8 - B053102 - 184889594 Total Stats: 23111199
+2025-02-23 20:48:38.229 -03:00 [ERR] Stats over capped: 8 - 95015401 - 2499892217 Total Stats: 312486527
+2025-02-23 20:48:38.229 -03:00 [ERR] Stats over capped: 8 - 5058C03 - 84249595 Total Stats: 10531199
+2025-02-23 20:48:38.229 -03:00 [ERR] Stats over capped: 8 - A7002E04 - 2801806844 Total Stats: 350225855
+2025-02-23 20:48:38.229 -03:00 [ERR] Stats over capped: 8 - 1701C004 - 385990652 Total Stats: 48248831
+2025-02-23 20:48:38.229 -03:00 [ERR] Stats over capped: 8 - 8B029508 - 2332202240 Total Stats: 291525280
+2025-02-23 20:48:38.229 -03:00 [ERR] Stats over capped: 8 - 29038906 - 688097534 Total Stats: 86012191
+2025-02-23 20:48:38.247 -03:00 [ERR] Stats over capped: 8 - 95015401 - 2499892217 Total Stats: 312486527
+2025-02-23 20:48:38.247 -03:00 [ERR] Stats over capped: 8 - 5058C03 - 84249595 Total Stats: 10531199
+2025-02-23 20:48:38.247 -03:00 [ERR] Stats over capped: 8 - A7002E04 - 2801806844 Total Stats: 350225855
+2025-02-23 20:48:38.247 -03:00 [ERR] Stats over capped: 8 - 1701C004 - 385990652 Total Stats: 48248831
+2025-02-23 20:48:38.247 -03:00 [ERR] Stats over capped: 8 - 8B029508 - 2332202240 Total Stats: 291525280
+2025-02-23 20:48:38.247 -03:00 [ERR] Stats over capped: 8 - 29038906 - 688097534 Total Stats: 86012191
+2025-02-23 20:48:38.274 -03:00 [ERR] Stats over capped: 8 - 95015401 - 2499892217 Total Stats: 312486527
+2025-02-23 20:48:38.274 -03:00 [ERR] Stats over capped: 8 - 5058C03 - 84249595 Total Stats: 10531199
+2025-02-23 20:48:38.274 -03:00 [ERR] Stats over capped: 8 - A7002E04 - 2801806844 Total Stats: 350225855
+2025-02-23 20:48:38.274 -03:00 [ERR] Stats over capped: 8 - 1701C004 - 385990652 Total Stats: 48248831
+2025-02-23 20:48:38.274 -03:00 [ERR] Stats over capped: 8 - 8B029508 - 2332202240 Total Stats: 291525280
+2025-02-23 20:48:38.276 -03:00 [ERR] Stats over capped: 8 - 29038906 - 688097534 Total Stats: 86012191
+2025-02-23 20:48:38.284 -03:00 [ERR] Stats over capped: 8 - 95015401 - 2499892217 Total Stats: 312486527
+2025-02-23 20:48:38.284 -03:00 [ERR] Stats over capped: 8 - 5058C03 - 84249595 Total Stats: 10531199
+2025-02-23 20:48:38.284 -03:00 [ERR] Stats over capped: 8 - A7002E04 - 2801806844 Total Stats: 350225855
+2025-02-23 20:48:38.285 -03:00 [ERR] Stats over capped: 8 - 29038906 - 688097534 Total Stats: 86012191
+2025-02-23 20:48:38.386 -03:00 [ERR] Stats over capped: 8 - B300EA04 - 3003181564 Total Stats: 375397695
+2025-02-23 20:48:38.391 -03:00 [ERR] Stats over capped: 8 - A04CC01 - 168086521 Total Stats: 21010815
+2025-02-23 20:48:38.411 -03:00 [ERR] Stats over capped: 8 - A04CC01 - 168086521 Total Stats: 21010815
+2025-02-23 20:48:38.432 -03:00 [ERR] Stats over capped: 8 - A04CC01 - 168086521 Total Stats: 21010815
+2025-02-23 20:48:38.444 -03:00 [ERR] Stats over capped: 8 - A04CC01 - 168086521 Total Stats: 21010815
+2025-02-23 20:48:44.212 -03:00 [ERR] Stats over capped: 8 - D800DF05 - 3623935741 Total Stats: 452991967
+2025-02-23 20:48:44.212 -03:00 [ERR] Stats over capped: 8 - A04DC03 - 168090619 Total Stats: 21011327
+2025-02-23 20:48:44.212 -03:00 [ERR] Stats over capped: 8 - 2E040006 - 772014078 Total Stats: 96501759
+2025-02-23 20:48:44.212 -03:00 [ERR] Stats over capped: 8 - C1000B02 - 3238005498 Total Stats: 404750687
+2025-02-23 20:48:44.239 -03:00 [ERR] Stats over capped: 8 - D800DF05 - 3623935741 Total Stats: 452991967
+2025-02-23 20:48:44.240 -03:00 [ERR] Stats over capped: 8 - A04DC03 - 168090619 Total Stats: 21011327
+2025-02-23 20:48:44.240 -03:00 [ERR] Stats over capped: 8 - 2E040006 - 772014078 Total Stats: 96501759
+2025-02-23 20:48:44.240 -03:00 [ERR] Stats over capped: 8 - C1000B02 - 3238005498 Total Stats: 404750687
+2025-02-23 20:48:44.268 -03:00 [ERR] Stats over capped: 8 - D800DF05 - 3623935741 Total Stats: 452991967
+2025-02-23 20:48:44.268 -03:00 [ERR] Stats over capped: 8 - A04DC03 - 168090619 Total Stats: 21011327
+2025-02-23 20:48:44.268 -03:00 [ERR] Stats over capped: 8 - 2E040006 - 772014078 Total Stats: 96501759
+2025-02-23 20:48:48.490 -03:00 [ERR] Stats over capped: 8 - 4E01C003 - 1308737531 Total Stats: 163592191
+2025-02-23 20:48:49.476 -03:00 [ERR] Stats over capped: 8 - 9F018907 - 2667677951 Total Stats: 333459743
+2025-02-23 20:48:49.506 -03:00 [ERR] Stats over capped: 8 - 9F018907 - 2667677951 Total Stats: 333459743
+2025-02-23 20:48:49.564 -03:00 [ERR] Stats over capped: 8 - 9F018907 - 2667677951 Total Stats: 333459743
+2025-02-23 20:48:49.585 -03:00 [ERR] Stats over capped: 8 - 9F018907 - 2667677951 Total Stats: 333459743
+2025-02-23 20:48:49.605 -03:00 [ERR] Stats over capped: 8 - 9F018907 - 2667677951 Total Stats: 333459743
+2025-02-23 20:48:54.656 -03:00 [ERR] Stats over capped: 8 - C900B701 - 3372267257 Total Stats: 421533407
+2025-02-23 20:48:54.666 -03:00 [ERR] Stats over capped: 8 - C900B701 - 3372267257 Total Stats: 421533407
+2025-02-23 20:48:56.530 -03:00 [ERR] Stats over capped: 8 - 35039807 - 889427967 Total Stats: 111178495
+2025-02-23 20:48:56.552 -03:00 [ERR] Stats over capped: 8 - 35039807 - 889427967 Total Stats: 111178495
+2025-02-23 20:48:56.580 -03:00 [ERR] Stats over capped: 8 - 35039807 - 889427967 Total Stats: 111178495
+2025-02-23 20:48:56.601 -03:00 [ERR] Stats over capped: 8 - 35039807 - 889427967 Total Stats: 111178495
+2025-02-23 20:48:56.614 -03:00 [ERR] Stats over capped: 8 - 35039807 - 889427967 Total Stats: 111178495
+2025-02-23 20:49:05.174 -03:00 [ERR] Stats over capped: 8 - 17058008 - 386236416 Total Stats: 48279552
+2025-02-23 20:49:05.192 -03:00 [ERR] Stats over capped: 8 - 17058008 - 386236416 Total Stats: 48279552
+2025-02-23 20:49:05.209 -03:00 [ERR] Stats over capped: 8 - 17058008 - 386236416 Total Stats: 48279552
+2025-02-23 20:49:05.227 -03:00 [ERR] Stats over capped: 8 - 17058008 - 386236416 Total Stats: 48279552
+2025-02-23 20:49:09.574 -03:00 [ERR] Stats over capped: 8 - 1304EF07 - 319090431 Total Stats: 39886303
+2025-02-23 20:49:09.602 -03:00 [ERR] Stats over capped: 8 - 1304EF07 - 319090431 Total Stats: 39886303
+2025-02-23 20:49:27.122 -03:00 [ERR] Stats over capped: 8 - 2903D601 - 688117241 Total Stats: 86014655
+2025-02-23 20:49:41.515 -03:00 [ERR] Stats over capped: 8 - 110008407 - 4563436543 Total Stats: 570429567
+2025-02-23 20:49:49.782 -03:00 [ERR] Stats over capped: 8 - 2303C904 - 587450620 Total Stats: 73431327
+2025-02-23 20:49:49.782 -03:00 [ERR] Stats over capped: 8 - 29047307 - 688157439 Total Stats: 86019679
+2025-02-23 20:49:49.801 -03:00 [ERR] Stats over capped: 8 - 2303C904 - 587450620 Total Stats: 73431327
+2025-02-23 20:49:52.207 -03:00 [ERR] Stats over capped: 8 - EA01FD05 - 3925998845 Total Stats: 490749855
+2025-02-23 20:49:52.226 -03:00 [ERR] Stats over capped: 8 - EA01FD05 - 3925998845 Total Stats: 490749855
+2025-02-23 20:49:53.200 -03:00 [ERR] Stats over capped: 8 - F04C004 - 251969532 Total Stats: 31496191
+2025-02-23 20:49:53.311 -03:00 [ERR] Stats over capped: 8 - 9C02BF06 - 2617425662 Total Stats: 327178207
+2025-02-23 20:49:53.328 -03:00 [ERR] Stats over capped: 8 - 9C02BF06 - 2617425662 Total Stats: 327178207
+2025-02-23 20:49:53.343 -03:00 [ERR] Stats over capped: 8 - 9C02BF06 - 2617425662 Total Stats: 327178207
+2025-02-23 20:49:53.725 -03:00 [ERR] Stats over capped: 8 - E8010506 - 3892380926 Total Stats: 486547615
+2025-02-23 20:49:53.742 -03:00 [ERR] Stats over capped: 8 - E8010506 - 3892380926 Total Stats: 486547615
+2025-02-23 20:50:15.271 -03:00 [ERR] Stats over capped: 8 - EF002901 - 4009765113 Total Stats: 501220639
+2025-02-23 20:50:15.609 -03:00 [ERR] Stats over capped: 8 - E701B803 - 3875649531 Total Stats: 484456191
+2025-02-23 20:50:15.640 -03:00 [ERR] Stats over capped: 8 - E701B803 - 3875649531 Total Stats: 484456191
+2025-02-23 20:50:15.648 -03:00 [ERR] Stats over capped: 8 - C2008905 - 3254814973 Total Stats: 406851871
+2025-02-23 20:50:15.660 -03:00 [ERR] Stats over capped: 8 - E701B803 - 3875649531 Total Stats: 484456191
+2025-02-23 20:52:09.109 -03:00 [ERR] Stats over capped: 8 - 67056508 - 1728406784 Total Stats: 216050848
+2025-02-23 20:52:09.133 -03:00 [ERR] Stats over capped: 8 - 67056508 - 1728406784 Total Stats: 216050848
+2025-02-23 21:10:34.917 -03:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: Exception! Printscreen this and post it.
+Object reference not set to an instance of an object.
+   at ExileCore.PoEMemory.Components.Actor.get_isMoving()
+   at TreeRoutine.Routine.BasicFlaskRoutine.BasicFlaskRoutine.UpdatePlayerMovingStopwatch() in BasicFlaskRoutine/BasicFlaskRoutine/BasicFlaskRoutine.cs:line 117
+   at TreeRoutine.BaseTreeRoutinePlugin`2.TickTree(Composite treeRoot) in BasicFlaskRoutine/TreeRoutine/BaseTreeRoutinePlugin.cs:line 118
+2025-02-23 21:14:34.360 -03:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()

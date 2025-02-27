@@ -1,6 +1,6 @@
 {
   "Enable": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -44,7 +44,7 @@
     }
   },
   "AutoFlask": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -77,7 +77,7 @@
     "Value": 65
   },
   "InstantHPPotion": {
-    "Value": 50
+    "Value": 80
   },
   "AllocatedSupremeDecadence": {
     "Value": false,
@@ -115,7 +115,7 @@
     "Value": 50
   },
   "RemAilment": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -125,7 +125,7 @@
     }
   },
   "RemFrozen": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -188,7 +188,7 @@
     "Value": 10
   },
   "SpeedFlaskEnable": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -198,7 +198,7 @@
     }
   },
   "QuicksilverFlaskEnable": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -247,7 +247,7 @@
     }
   },
   "CycloningCountMagicMonsters": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -257,7 +257,7 @@
     }
   },
   "CycloningCountRareMonsters": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -267,7 +267,7 @@
     }
   },
   "CycloningCountUniqueMonsters": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -287,7 +287,7 @@
     }
   },
   "DefensiveFlaskEnable": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -297,10 +297,10 @@
     }
   },
   "HPPercentDefensive": {
-    "Value": 50
+    "Value": 100
   },
   "ESPercentDefensive": {
-    "Value": 50
+    "Value": 90
   },
   "OffensiveAsDefensiveEnable": {
     "Value": false,
@@ -329,7 +329,7 @@
     }
   },
   "DefensiveCountRareMonsters": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -339,7 +339,7 @@
     }
   },
   "DefensiveCountMagicMonsters": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -349,7 +349,7 @@
     }
   },
   "DefensiveCountUniqueMonsters": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
